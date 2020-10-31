@@ -1,0 +1,10 @@
+[19:58:48] 0x0000 : memheap.c(1985) :  NULL ptr occurenaces in mem_free() 0
+[19:58:49] 0x0000 : memheap.c(1985) :  NULL ptr occurenaces in mem_free() 0
+[19:58:49] 0x0000 : memheap.c(1985) :  NULL ptr occurenaces in mem_free() 0
+[19:58:53] 0x0000 : lte_nas_log.c(172) : Diag returned a NULL log pointer, log packet B0EE not logged\n
+[19:58:53] 0x0000 : lte_nas_log.c(554) : Diag could not allocate the buffer for LOG_LTE_NAS_EMM_OTA_OUT_MSG_LOG_C\n
+[19:58:53] 0x0000 : lte_nas_log.c(172) : Diag returned a NULL log pointer, log packet B0EE not logged\n
+[19:58:53] 0x0000 : lte_nas_log.c(106) : Diag returned a NULL log pointer, log packet B0E5 not logged\n
+[19:58:53] 0x0000 : ui_base.c(1287) : Received a call event 37
+[19:58:58] 0x0000 : memheap.c(1985) :  NULL ptr occurenaces in mem_free() 0
+[19:58:58] 0x0000 : memheap.c(1985) :  NULL ptr occurenaces in mem_free() 0

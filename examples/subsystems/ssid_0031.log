@@ -1,0 +1,8 @@
+[19:58:53] 0x0031 : ale_proc.c(1158) : NF: Decision to select input position: 1
+[19:58:53] 0x0031 : ale_proc.c(2857) : ALE: Position-only update, and position invalid, no seed position sent
+[19:59:03] 0x0031 : ale_proc.c(1158) : NF: Decision to select input position: 1
+[19:59:03] 0x0031 : ale_proc.c(2857) : ALE: Position-only update, and position invalid, no seed position sent
+[19:59:13] 0x0031 : ale_proc.c(1158) : NF: Decision to select input position: 1
+[19:59:13] 0x0031 : ale_proc.c(2857) : ALE: Position-only update, and position invalid, no seed position sent
+[19:59:23] 0x0031 : ale_proc.c(1158) : NF: Decision to select input position: 1
+[19:59:23] 0x0031 : ale_proc.c(2857) : ALE: Position-only update, and position invalid, no seed position sent

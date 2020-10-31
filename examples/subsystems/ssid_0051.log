@@ -1,0 +1,28 @@
+[19:58:53] 0x0051 : tle_log.c(669) : TPC: Sub:0, TimeValid:0, Wk:0, msec:0
+[19:58:53] 0x0051 : tle_log.c(669) : TPC: Lat:13.030000, Lon:101.489998, Alt:0.000000, Punc:943084.937500, AltUnc:10000.000000
+[19:58:53] 0x0051 : tle_log.c(669) : TPC: Sub:1, TimeValid:0, Wk:0, msec:0
+[19:58:53] 0x0051 : tle_log.c(669) : TPC: Lat:13.030000, Lon:101.489998, Alt:0.000000, Punc:943000.000000, AltUnc:10000.000000
+[19:58:53] 0x0051 : tle_log.c(669) : TPC: SendPosReport: TimeTickMsec=52455, GpsTimeValid=0, GPSWk=0, GPSTow=0
+[19:58:53] 0x0051 : tle_log.c(669) : TPC: SendPosReport: PosValid=1, Lat=13.030000, Lon=101.489998, Punc=943000.0
+[19:58:53] 0x0051 : tle_log.c(645) : TPC: Sending position update to user:ALE
+[19:59:03] 0x0051 : tle_log.c(669) : TPC: Sub:0, TimeValid:0, Wk:0, msec:0
+[19:59:03] 0x0051 : tle_log.c(669) : TPC: Lat:13.030000, Lon:101.489998, Alt:0.000000, Punc:943084.937500, AltUnc:10000.000000
+[19:59:03] 0x0051 : tle_log.c(669) : TPC: Sub:1, TimeValid:0, Wk:0, msec:0
+[19:59:03] 0x0051 : tle_log.c(669) : TPC: Lat:13.030000, Lon:101.489998, Alt:0.000000, Punc:943000.000000, AltUnc:10000.000000
+[19:59:03] 0x0051 : tle_log.c(669) : TPC: SendPosReport: TimeTickMsec=52455, GpsTimeValid=0, GPSWk=0, GPSTow=0
+[19:59:03] 0x0051 : tle_log.c(669) : TPC: SendPosReport: PosValid=1, Lat=13.030000, Lon=101.489998, Punc=943000.0
+[19:59:03] 0x0051 : tle_log.c(645) : TPC: Sending position update to user:ALE
+[19:59:13] 0x0051 : tle_log.c(669) : TPC: Sub:0, TimeValid:0, Wk:0, msec:0
+[19:59:13] 0x0051 : tle_log.c(669) : TPC: Lat:13.030000, Lon:101.489998, Alt:0.000000, Punc:943084.937500, AltUnc:10000.000000
+[19:59:13] 0x0051 : tle_log.c(669) : TPC: Sub:1, TimeValid:0, Wk:0, msec:0
+[19:59:13] 0x0051 : tle_log.c(669) : TPC: Lat:13.030000, Lon:101.489998, Alt:0.000000, Punc:943000.000000, AltUnc:10000.000000
+[19:59:13] 0x0051 : tle_log.c(669) : TPC: SendPosReport: TimeTickMsec=52455, GpsTimeValid=0, GPSWk=0, GPSTow=0
+[19:59:13] 0x0051 : tle_log.c(669) : TPC: SendPosReport: PosValid=1, Lat=13.030000, Lon=101.489998, Punc=943000.0
+[19:59:13] 0x0051 : tle_log.c(645) : TPC: Sending position update to user:ALE
+[19:59:23] 0x0051 : tle_log.c(669) : TPC: Sub:0, TimeValid:0, Wk:0, msec:0
+[19:59:23] 0x0051 : tle_log.c(669) : TPC: Lat:13.030000, Lon:101.489998, Alt:0.000000, Punc:943084.937500, AltUnc:10000.000000
+[19:59:23] 0x0051 : tle_log.c(669) : TPC: Sub:1, TimeValid:0, Wk:0, msec:0
+[19:59:23] 0x0051 : tle_log.c(669) : TPC: Lat:13.030000, Lon:101.489998, Alt:0.000000, Punc:943000.000000, AltUnc:10000.000000
+[19:59:23] 0x0051 : tle_log.c(669) : TPC: SendPosReport: TimeTickMsec=52455, GpsTimeValid=0, GPSWk=0, GPSTow=0
+[19:59:23] 0x0051 : tle_log.c(669) : TPC: SendPosReport: PosValid=1, Lat=13.030000, Lon=101.489998, Punc=943000.0
+[19:59:23] 0x0051 : tle_log.c(645) : TPC: Sending position update to user:ALE

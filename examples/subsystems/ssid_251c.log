@@ -1,0 +1,66 @@
+[19:58:53] 0x251c : esm_utils.c(4359) : ESM: Free obj: service_req, addr: 0x87056ba0
+[19:58:53] 0x251c : mutils_security.c(184) : MUTILS_SECURITY: integrity_maci function Algo = 1
+[19:58:53] 0x251c : mutils_security.c(186) : MUTILS_SECURITY: integrity_maci function Direction = 0 Bearer = 0x0 Count= 0x3
+[19:58:53] 0x251c : mutils_security.c(625) : MAC-I computation successful: MAC-I[0x1eeebd9d]
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0xbc 49 a8 12 43 8c 3 28
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0xa5 6d ca fd b 4a 2a 67
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0xc2 b5 72 15 3f 1c 1c ed
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0xea 34 8 99 d5 cb 19 77
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0x3a a9 bc b 99 cf 37 34
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0xbf 61 93 86 16 b5 35 e2
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0x73 9d a3 1a 71 1e 6e 6
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0x8a f bb 2d 1 f2 bc e8
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0xce ca ae ba 90 3a 5d 26
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0xed f6 26 5d 29 ec e5 86
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0x9a 99 da 9 f1 b 8b ab
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0xad 4c 2b 4 cf a8 5f 50
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0x6d 8c 9a e2 1b 7e 29 73
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0xa5 cb ef 3c 1f 20 82 7d
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0x91 25 c0 cf d8 16 62 e1
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0x5b b9 13 6f a5 ec e8 a2
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0x41 5d 6c 68 e8 5f 98 fa
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0x76 5d c0 9c 95 74 2d 82
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0xb3 c1 5f 59 3f dc 3c a
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0xe5 57 50 3b d5 62 c0 79
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0xd4 a3 5c e2 69 fb e1 67
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0x1f fc ad 32 1c e8 6d db
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0x1e f9 64 a8 4b b5 d6 48
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0xcc 30 62 b9 a8 86 38 a9
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0x35 c6 e 90 33 1a 8d 1f
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0xee 4b 3d e6 9f aa 6b e
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0x73 a1 23 90 2a 7 fc 15
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0x89 bc 1f f7 2c c5 fc e0
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0x24 2d d2 aa aa 9d 1c 7d
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0x2e f1 96 c6 81 ef 7c de
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0x68 73 f4 c7 73 bd 76 3d
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0x29 6b e5 10 57 9a 51 6a
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0x1c 20 69 eb 4f 7b fb c4
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0xd5 27 d 72 f0 5b 12 61
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0x80 8c 52 b4 8d ce 40 8a
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0x42 5c 3a 28 e0 78 46 e1
+[19:58:53] 0x251c : lte_security.c(349) :  KEY[0-7]   0xa1 ee c7 18 c4 cf 7f 6e
+[19:58:53] 0x251c : lte_security.c(352) :  KEY[8-15]  0x4e 3d 58 bc 1d 5 f9 19
+[19:58:53] 0x251c : lte_security.c(355) :  KEY[16-23] 0xb6 43 8e 5e ed a4 67 66
+[19:58:53] 0x251c : lte_security.c(358) :  KEY[24-31] 0x5d 62 27 74 2f 38 40 66
+[19:58:53] 0x251c : emm_mem.c(183) : =EMM= Free obj: message, addr: 0x87215030, total block 65479
+[19:58:53] 0x251c : emm_mem.c(183) : =EMM= Free obj: client_tobe_deleted, addr: 0x8721fa40, total block 65478
+[19:58:53] 0x251c : mutils_security.c(184) : MUTILS_SECURITY: integrity_maci function Algo = 2
+[19:58:53] 0x251c : mutils_security.c(186) : MUTILS_SECURITY: integrity_maci function Direction = 1 Bearer = 0x0 Count= 0x0
+[19:58:53] 0x251c : mutils_security.c(625) : MAC-I computation successful: MAC-I[0x6e56a78e]
+[19:58:53] 0x251c : mutils_security.c(184) : MUTILS_SECURITY: integrity_maci function Algo = 2
+[19:58:53] 0x251c : mutils_security.c(186) : MUTILS_SECURITY: integrity_maci function Direction = 0 Bearer = 0x0 Count= 0x1
+[19:58:53] 0x251c : mutils_security.c(625) : MAC-I computation successful: MAC-I[0x66661908]
+[19:58:53] 0x251c : mutils_security.c(184) : MUTILS_SECURITY: integrity_maci function Algo = 2
+[19:58:53] 0x251c : mutils_security.c(186) : MUTILS_SECURITY: integrity_maci function Direction = 1 Bearer = 0x0 Count= 0x1
+[19:58:53] 0x251c : mutils_security.c(625) : MAC-I computation successful: MAC-I[0xb4c7ecaf]
+[19:58:53] 0x251c : mutils_security.c(184) : MUTILS_SECURITY: integrity_maci function Algo = 2
+[19:58:53] 0x251c : mutils_security.c(186) : MUTILS_SECURITY: integrity_maci function Direction = 0 Bearer = 0x0 Count= 0x2
+[19:58:53] 0x251c : mutils_security.c(625) : MAC-I computation successful: MAC-I[0x897a19af]
+[19:58:53] 0x251c : mutils_security.c(184) : MUTILS_SECURITY: integrity_maci function Algo = 2
+[19:58:53] 0x251c : mutils_security.c(186) : MUTILS_SECURITY: integrity_maci function Direction = 1 Bearer = 0x0 Count= 0x2
+[19:58:53] 0x251c : mutils_security.c(625) : MAC-I computation successful: MAC-I[0x92eec843]
+[19:58:53] 0x251c : lte_assert.c(114) : LTE critical error occurred. Total so far: 5
+[19:58:53] 0x251c : mutils_security.c(184) : MUTILS_SECURITY: integrity_maci function Algo = 2
+[19:58:53] 0x251c : mutils_security.c(186) : MUTILS_SECURITY: integrity_maci function Direction = 0 Bearer = 0x0 Count= 0x3
+[19:58:53] 0x251c : mutils_security.c(625) : MAC-I computation successful: MAC-I[0x75319d87]
+[19:58:53] 0x251c : esm_utils.c(4359) : ESM: Free obj: cm_msg_ptr, addr: 0x87056ba0

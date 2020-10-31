@@ -1,0 +1,297 @@
+[19:58:48] 0x13a1 : dsumts_rmsm.c(451) : Received dial string for Pkt data call
+[19:58:48] 0x13a1 : dsumts_rmsmi.c(1764) : HANDLE_ATD_ON_RM: Rcvd dial string for Pkt data call
+[19:58:48] 0x13a1 : dsumts_rmsmi.c(1818) : Pkt dial string recvd, posting RM_WANTS_PKT_CALL_EV
+[19:58:48] 0x13a1 : dsumts_rmsmi.c(1891) : Profile:1 valid & primary: using it
+[19:58:48] 0x13a1 : dsumts_rmsmi.c(1910) : UMTS RMSM : PDP-IP type call/State machine
+[19:58:48] 0x13a1 : ds_3gpp_rmsm_ip_common.c(3986) : Handle pkt call, rm_dev_instance: 0, sm_instance: 4294967295
+[19:58:48] 0x13a1 : ds_3gpp_rmsm_ip_common.c(2678) : Entered dsumts_rmsmi_transition_state, rm_dev_instance: 0
+[19:58:48] 0x13a1 : dsumts_rmsmi.c(4450) : Entitlement check success. Proceed with call origination
+[19:58:48] 0x13a1 : ds_3gpp_rmsm_ip_common.c(3986) : Handle pkt call, rm_dev_instance: 0, sm_instance: 0
+[19:58:48] 0x13a1 : ds_3gpp_rmsm_ip_common.c(2678) : Entered dsumts_rmsmi_transition_state, rm_dev_instance: 0
+[19:58:48] 0x13a1 : dsumts_rmsmi.c(3202) : Bad NV read status for smd_notify_delay_timer: 5, Disabling timer
+[19:58:48] 0x13a1 : ds_3gpp_rmsm_ip_common.c(3502) : Changing PPP to internal SNOOP mode
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1535) : Parsing IPCP Config Request Packet, rmsmi_info_ptr: 86ffd330
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1574) : ipcp id:1
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1633) : IP address in opt:0
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1644) : primary DNS address in opt:0
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1655) : secondary DNS address in opt:0
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1820) : Getting Auth info from Rm PPP, rmsmi_info_ptr: 86ffd330
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1311) :  Initiating IPCP NAK delay timeout
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1321) : Rx IPCP CReq: posting UMTS_RMSM_RM_BRING_UP_UM_IFACE_EV, RmSM IP Common State: 2
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(4997) : Recvd Rm Bring UP Um iface EV, Rm instance: 0 state:2
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(370) : Recd RM_BRING_UP_UM_IFACE_EV, sm instance:0 state:0
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(1425) : DSUMTS_RMSM:86ffd9d0 state change from 0 to 1
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(477) : Resolved APN in APN table is srsapn,APN in Pdn Cntx is
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(3331) : 3GPP iface:0x:843d2f18 is not shareable
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(719) : Bring up flag: False. No Post proc needed
+[19:58:49] 0x13a1 : dsumts_rmsmi.c(3939) : um iface allocated: 843d2f20
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(1493) : route lookup ret Um Iface [0x8004:0], try to bring-up by policy
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(477) : Resolved APN in APN table is srsapn,APN in Pdn Cntx is
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(3331) : 3GPP iface:0x:843d2f18 is not shareable
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2328) : Req V4 iface not bound to the PDN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(728) : Post proc for ds iface:0X843d2f18
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(739) : Post proc already done for this iface. Skip now
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(4019) : DSUMTSPS IFACE IN_USE CMD ds_iface_p:0x843d2f18 info:86ffd558
+[19:58:49] 0x13a1 : dsumts_rmsmi.c(4078) : bring_up_iface_by_policy: ret [0], errno [0]
+[19:58:49] 0x13a1 : dsumts_rmsmi.c(2755) : Recd event 10 for iface 0x843d2f20
+[19:58:49] 0x13a1 : dsumts_rmsmi.c(2852) : UMTS iface up, posting UM_IFACE_UP_EV
+[19:58:49] 0x13a1 : dsumts_rmsmi.c(2755) : Recd event 17 for iface 0x843d2f20
+[19:58:49] 0x13a1 : dsumts_rmsmi.c(2956) : Recd event 5 for phys link 0x843d1050
+[19:58:49] 0x13a1 : dsumts_rmsmi.c(2997) : PHYS link flow enabled, set PPP_RM_RX_SIGNAL to PS
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(2678) : Entered dsumts_rmsmi_transition_state, rm_dev_instance: 0
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18678) : ds_3gpp_pdn_cntx_get_iface_stats is called, cm_call_id: 0
+[19:58:49] 0x13a1 : ds_3gpp_bearer_context.c(3292) : Found the bearer context with CM call id: 0
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18702) : PDN context ptr is 0x848230d0
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18736) : V4: Rx bytes returned is 0
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18752) : V4: Tx bytes returned is 0
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18762) : V6 iface ptr for pdn context 0x848230d0 is NULL
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18803) : Cumulative byte count: Tx: 0; Rx: 0
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(4537) : Handle Um Iface Up, rm_dev_instance: 0, sm_instance: 0
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(634) : Recd UM_IFACE_UP_EV, sm type: 0 state:1
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(945) : Configure PPP callback invoked, this_ptr: 86ffd330
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1009) : IP addr::ac100004
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1013) : P DNS:8080808 S DNS:0
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1124) : [Duke][PPP]:ppp_v4v6_flag is 0
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(1148) : ppp pkt injected
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(695) : PPP Configuration successful
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(1425) : DSUMTS_RMSM:86ffd9d0 state change from 1 to 2
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(4537) : Handle Um Iface Up, rm_dev_instance: 0, sm_instance: 0
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(634) : Recd UM_IFACE_UP_EV, sm type: 0 state:2
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(739) : Ignoring UM_IFACE_UP_EV Sm type :0 state:2
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(4141) : Handle pkt call, rm_dev_instance: 0, sm_instance: 0
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(2678) : Entered dsumts_rmsmi_transition_state, rm_dev_instance: 0
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(477) : Resolved APN in APN table is srsapn,APN in Pdn Cntx is
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(477) : Resolved APN in APN table is srsapn,APN in Pdn Cntx is
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(3322) : 3GPP iface:0x:843d2f18 is shareable
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(477) : Resolved APN in APN table is srsapn,APN in Pdn Cntx is
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(477) : Resolved APN in APN table is srsapn,APN in Pdn Cntx is
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(3322) : 3GPP iface:0x:843d2f18 is shareable
+[19:58:49] 0x13a1 : dsumts_rmsmi.c(3388) : Recd 1 ppp event
+[19:58:49] 0x13a1 : ds_3gpp_rmsm_ip_common.c(4772) : Handle PPP Up, rm_dev_instance: 0, sm_instance: 0
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(967) : Received Rm PPP Up EV
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(3057) : this_iface_ptr:0x843d2f20 target_iface_ptr: 0x86ffda00
+[19:58:49] 0x13a1 : dsumts_rmsm_ip.c(1425) : DSUMTS_RMSM:86ffd9d0 state change from 2 to 5
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18678) : ds_3gpp_pdn_cntx_get_iface_stats is called, cm_call_id: 0
+[19:58:49] 0x13a1 : ds_3gpp_bearer_context.c(3292) : Found the bearer context with CM call id: 0
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18702) : PDN context ptr is 0x848230d0
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18736) : V4: Rx bytes returned is 0
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18752) : V4: Tx bytes returned is 0
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18762) : V6 iface ptr for pdn context 0x848230d0 is NULL
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(18803) : Cumulative byte count: Tx: 0; Rx: 0
+[19:58:49] 0x13a1 : dsumts_rmsmi.c(1067) : Invalid request from IOCTL: 62
+[19:58:49] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:49] 0x13a1 : ds_3gpp_pdn_context.c(3142) : setupBridgeInterface Iface state: 1
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(477) : Resolved APN in APN table is srsapn,APN in Pdn Cntx is
+[19:58:49] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:49] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(477) : Resolved APN in APN table is srsapn,APN in Pdn Cntx is
+[19:58:49] 0x13a1 : ds_3gpp_rt_acl.c(3322) : 3GPP iface:0x:843d2f18 is shareable
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(6991) : Each enqueue function call back. Posting re-orig command to DS
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(7034) : Setting the reorig_cmd_enqueued flag to TRUE for bearer: 0
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(5586) : Disabling flow and Reoriginating PDP Call on bearer ID: 0
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(5605) : max_rab_reestab_req_retry_cnt: 3 is not invalid Not disabling phys_link_flow
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(2564) : DSUMTSPS PHYS LINK up cmd Bearer Inst:0
+[19:58:53] 0x13a1 : dsumts_rmsmi.c(2956) : Recd event 6 for phys link 0x843d1050
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(5642) : phys_link_up_cmd failed errno: 102
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(5940) : Setting the reorig_cmd_enqueued flag to FALSE for bearer: 0
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(4005) : PHYS LINK UP CMD HDLR. Bearer state: 6, Bearer instance 0
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(4032) : Phys link coming up. Ignoring DS3GPP_PHYS_LINK_UP_CMD
+[19:58:53] 0x13a1 : ds_3gpp_throttle_sm.c(2034) : PLMN being inspected is non-zero
+[19:58:53] 0x13a1 : ds_3gpp_throttle_sm.c(2224) : Index: 8. Don't create core SM. No throt SM
+[19:58:53] 0x13a1 : ds_3gpp_hdlr.c(2512) : Srv req throt sm not avail. Allow srv req
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(3292) : Found the bearer context with CM call id: 0
+[19:58:53] 0x13a1 : ds_3gpp_throttle_sm.c(2034) : PLMN being inspected is non-zero
+[19:58:53] 0x13a1 : ds_3gpp_throttle_sm.c(2224) : Index: 8. Don't create core SM. No throt SM
+[19:58:53] 0x13a1 : ds_3gpp_throttle_sm.c(2882) : NULL pointer passed for Throt SM. Reset ignored
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(6921) : Posting from RAB Re-estab indication
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(6469) : Found the bearer context with eps bearer id 5
+[19:58:53] 0x13a1 : ds_3gpp_bearer_context.c(6469) : Found the bearer context with eps bearer id 5
+[19:58:53] 0x13a1 : dsumts_rmsmi.c(2956) : Recd event 5 for phys link 0x843d1050
+[19:58:53] 0x13a1 : dsumts_rmsmi.c(2997) : PHYS link flow enabled, set PPP_RM_RX_SIGNAL to PS
+[19:58:58] 0x13a1 : dsumts_rmsmi.c(3388) : Recd 0 ppp event
+[19:58:58] 0x13a1 : ds_3gpp_rmsm_ip_common.c(4629) : Handle PPP Down, rm_dev_instance: 0, sm_instance: 0
+[19:58:58] 0x13a1 : dsumts_rmsm_ip.c(1098) : Received Rm PPP down EV
+[19:58:58] 0x13a1 : dsumts_rmsm_ip.c(1425) : DSUMTS_RMSM:86ffd9d0 state change from 5 to 4
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(4096) : DSUMTSPS IFACE OUT_USE cmd UMTSPS Iface Ptr:0x843d2f20
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18678) : ds_3gpp_pdn_cntx_get_iface_stats is called, cm_call_id: 0
+[19:58:58] 0x13a1 : ds_3gpp_bearer_context.c(3292) : Found the bearer context with CM call id: 0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18702) : PDN context ptr is 0x848230d0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18736) : V4: Rx bytes returned is 252
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18752) : V4: Tx bytes returned is 252
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18762) : V6 iface ptr for pdn context 0x848230d0 is NULL
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18803) : Cumulative byte count: Tx: 252; Rx: 252
+[19:58:58] 0x13a1 : dsumts_rmsmi.c(2755) : Recd event 10 for iface 0x843d2f20
+[19:58:58] 0x13a1 : dsumts_rmsmi.c(2852) : UMTS iface up, posting UM_IFACE_UP_EV
+[19:58:58] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(4178) : Bearer call mode is 9
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(4350) : No OTA teardown
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18678) : ds_3gpp_pdn_cntx_get_iface_stats is called, cm_call_id: 0
+[19:58:58] 0x13a1 : ds_3gpp_bearer_context.c(3292) : Found the bearer context with CM call id: 0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18702) : PDN context ptr is 0x848230d0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18736) : V4: Rx bytes returned is 252
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18752) : V4: Tx bytes returned is 252
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18762) : V6 iface ptr for pdn context 0x848230d0 is NULL
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18803) : Cumulative byte count: Tx: 252; Rx: 252
+[19:58:58] 0x13a1 : dsumts_rmsmi.c(2755) : Recd event 58 for iface 0x843d2f20
+[19:58:58] 0x13a1 : dsumts_rmsmi.c(2815) : Um iface active out of use ev
+[19:58:58] 0x13a1 : dsumts_rmsm_ip.c(1661) : Um iface already down.
+[19:58:58] 0x13a1 : dsumts_rmsm_ip.c(1665) : PS Iface teardown prio [31], errno [0]
+[19:58:58] 0x13a1 : ds_3gpp_rmsm_ip_common.c(2678) : Entered dsumts_rmsmi_transition_state, rm_dev_instance: 0
+[19:58:58] 0x13a1 : ds_3gpp_rmsm_ip_common.c(4537) : Handle Um Iface Up, rm_dev_instance: 0, sm_instance: 0
+[19:58:58] 0x13a1 : ds_3gpp_rmsm_ip_common.c(4582) : Ignoring UM_IFACE_UP_EV RmSm instance: 0 state:5
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(3057) : this_iface_ptr:0x843d2f20 target_iface_ptr: 0x0
+[19:58:58] 0x13a1 : ds_3gpp_flow_manager.c(12523) : No dedicated bearers associated with PDN
+[19:58:58] 0x13a1 : ds_3gpp_rmsm_ip_common.c(4235) : Handle Um Iface Down, rm_dev_instance: 0, sm_instance: 0
+[19:58:58] 0x13a1 : dsumts_rmsm_ip.c(805) : Recd UM_IFACE_DOWN_EV, sm instance: 0 state:4
+[19:58:58] 0x13a1 : dsumts_rmsm_ip.c(1425) : DSUMTS_RMSM:86ffd9d0 state change from 4 to 0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(3057) : this_iface_ptr:0x843d2f20 target_iface_ptr: 0x0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18678) : ds_3gpp_pdn_cntx_get_iface_stats is called, cm_call_id: 0
+[19:58:58] 0x13a1 : ds_3gpp_bearer_context.c(3292) : Found the bearer context with CM call id: 0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18702) : PDN context ptr is 0x848230d0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18736) : V4: Rx bytes returned is 0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18752) : V4: Tx bytes returned is 0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18762) : V6 iface ptr for pdn context 0x848230d0 is NULL
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(18803) : Cumulative byte count: Tx: 0; Rx: 0
+[19:58:58] 0x13a1 : dsumts_rmsm_ip.c(1458) : dsumts ip transition state ---->false
+[19:58:58] 0x13a1 : ds_3gpp_rmsm_ip_common.c(2678) : Entered dsumts_rmsmi_transition_state, rm_dev_instance: 0
+[19:58:58] 0x13a1 : ds_3gpp_rmsm_ip_common.c(2738) : [Max][AUTH] ppp end! update ppp auth param set_flag by FALSE!
+[19:58:58] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:58] 0x13a1 : ds_3gpp_rt_acl.c(2186) : Found an entry in apn table. IP Support: 5
+[19:58:58] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:58] 0x13a1 : ds_3gpp_apn_table.c(1287) : APN tbl entry found. Returning resolved name
+[19:58:58] 0x13a1 : ds_3gpp_rt_acl.c(477) : Resolved APN in APN table is srsapn,APN in Pdn Cntx is
+[19:58:58] 0x13a1 : ds_3gppi_utils.c(525) : Getting cfg item 3GPP Multi PDN Same APN
+[19:58:58] 0x13a1 : ds_3gpp_rt_acl.c(3331) : 3GPP iface:0x:843d2f18 is not shareable
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(3142) : setupBridgeInterface Iface state: 0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(3146) : Setting bridge Iface Ptr to NULL
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(3142) : setupBridgeInterface Iface state: 0
+[19:58:58] 0x13a1 : ds_3gpp_pdn_context.c(3146) : Setting bridge Iface Ptr to NULL

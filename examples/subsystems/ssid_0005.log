@@ -1,0 +1,333 @@
+[19:58:45] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:45] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:45] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:45] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=214, current_sinr=214
+[19:58:46] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:46] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:46] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:46] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=214, current_sinr=216
+[19:58:46] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:58:46] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:58:46] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:58:46] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:58:46] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:58:46] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:58:46] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:58:46] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:58:46] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:58:46] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:58:46] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:58:46] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:58:46] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:58:46] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:58:46] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:58:47] 0x0005 : cmss.c(30954) : =CM= CMSS: ss:0 srv:2 mode:9
+[19:58:47] 0x0005 : cmss.c(30954) : =CM= CMSS: ss:1 srv:0 mode:4
+[19:58:47] 0x0005 : cmss.c(30954) : =CM= CMSS: ss:2 srv:0 mode:0
+[19:58:47] 0x0005 : cmss.c(30954) : =CM= CMSS: ss:3 srv:0 mode:0
+[19:58:48] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:48] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:48] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:48] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=216, current_sinr=216
+[19:58:48] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:48] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:48] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:48] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=216, current_sinr=216
+[19:58:51] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:51] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:51] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:51] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=216, current_sinr=218
+[19:58:51] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:58:51] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:58:51] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:58:51] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:58:51] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:58:51] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:58:51] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:58:51] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:58:51] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:58:51] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:58:51] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:58:51] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:58:51] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:58:51] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:58:51] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:58:51] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:51] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:51] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:51] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=218, current_sinr=218
+[19:58:53] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:53] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:53] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:53] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=218, current_sinr=216
+[19:58:53] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:58:53] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:58:53] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:58:53] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:58:53] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:58:53] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:58:53] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:58:53] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:58:53] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:58:53] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:58:53] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:58:53] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:58:53] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:58:53] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:58:53] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:58:53] 0x0005 : cmdbg.c(3411) : =CM= CMD alloc u=304, tsk=ds
+[19:58:53] 0x0005 : cmdbg.c(3552) : =CM= >>CM callcmd 10: 2
+[19:58:53] 0x0005 : cmltecall.c(3471) : =CM= cmd check 0
+[19:58:53] 0x0005 : cmltecall.c(3584) : =CM= CM_CALL_CMD_RAB_REESTAB
+[19:58:53] 0x0005 : cmltecall.c(3601) : =CM= RAB_REESTAB call_id=0, connection_id=0, bearer_id=5
+[19:58:53] 0x0005 : cmdbg.c(3411) : =CM= CMD free u=304, tsk=ds, ftsk=cm
+[19:58:53] 0x0005 : cmcall.c(34274) : =CM= Read SSAC, prev_sib2_barring_factor 100, inst_id 1, lte as_id 0
+[19:58:53] 0x0005 : cmcall.c(34280) : =CM= Read SSAC, plmn 9 241 7
+[19:58:53] 0x0005 : cmltecall.c(913) : =CM= MM_CM_DRB_SETUP_IND inst_id=1
+[19:58:53] 0x0005 : cmltecall.c(917) : =CM= rpt eps_bearer_id 5, connection_id 0, rb_id 1
+[19:58:53] 0x0005 : cmltecall.c(921) : =CM= current call_ptr call_id 0, eps_bearer_id 5, bearer type 0
+[19:58:53] 0x0005 : cmclient.c(1757) : =CM= call evt 37 ct 0 cid id 0
+[19:58:53] 0x0005 : cmclient.c(1757) : =CM= call evt 37 ct 1 cid id 1
+[19:58:53] 0x0005 : cmclient.c(1757) : =CM= call evt 37 ct 2 cid id 2
+[19:58:53] 0x0005 : cmclient.c(1757) : =CM= call evt 37 ct 4 cid id 4
+[19:58:53] 0x0005 : cmclient.c(1757) : =CM= call evt 37 ct 11 cid id 11
+[19:58:53] 0x0005 : cmlog.c(3949) : =CM= RAB reestab for call 0
+[19:58:53] 0x0005 : cmclient.c(1757) : =CM= call evt 37 ct 0 cid id 26
+[19:58:53] 0x0005 : cmclient.c(1757) : =CM= call evt 37 ct 17 cid id 28
+[19:58:53] 0x0005 : cmcall.c(33731) : =CM= VOLTE call proc skip: call not found
+[19:58:54] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:54] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:54] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:54] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=216, current_sinr=216
+[19:58:55] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:55] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:55] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:55] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=216, current_sinr=219
+[19:58:55] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:58:55] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:58:55] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:58:55] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:58:55] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:58:55] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:58:55] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:58:55] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:58:55] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:58:55] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:58:55] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:58:55] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:58:55] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:58:55] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:58:55] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:58:57] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:57] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:57] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:57] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=219, current_sinr=219
+[19:58:57] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:57] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:57] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:57] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=219, current_sinr=219
+[19:58:59] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:58:59] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:58:59] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:58:59] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=219, current_sinr=219
+[19:59:00] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:59:00] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:00] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:00] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=219, current_sinr=219
+[19:59:02] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:59:02] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:02] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:02] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=219, current_sinr=216
+[19:59:02] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:59:02] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:59:02] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:59:02] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:59:02] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:59:02] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:59:02] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:59:02] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:59:02] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:59:02] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:59:02] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:59:02] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:59:02] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:59:02] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:59:02] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:59:03] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:59:03] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:03] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:03] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=216, current_sinr=216
+[19:59:04] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:59:04] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:04] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:04] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=216, current_sinr=218
+[19:59:04] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:59:04] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:59:04] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:59:04] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:59:04] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:59:04] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:59:04] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:59:04] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:59:04] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:59:04] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:59:04] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:59:04] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:59:04] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:59:04] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:59:04] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:59:06] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:59:06] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:06] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:06] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=218, current_sinr=218
+[19:59:06] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=80, rssi_delta=5
+[19:59:06] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:06] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:06] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=218, current_sinr=218
+[19:59:08] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:08] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:08] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:08] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=218, current_sinr=215
+[19:59:08] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:59:08] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:59:08] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:59:08] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:59:08] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:59:08] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:59:08] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:59:08] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:59:08] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:59:08] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:59:08] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:59:08] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:59:08] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:59:08] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:59:08] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:59:09] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:09] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:09] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:09] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=215, current_sinr=215
+[19:59:11] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:11] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:11] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:11] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=215, current_sinr=216
+[19:59:11] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:59:11] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:59:11] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:59:11] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:59:11] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:59:11] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:59:11] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:59:11] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:59:11] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:59:11] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:59:11] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:59:11] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:59:11] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:59:11] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:59:11] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:59:12] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:12] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967199, rsrp_delta=5
+[19:59:12] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:12] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=216, current_sinr=216
+[19:59:13] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:13] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:13] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:13] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=216, current_sinr=214
+[19:59:13] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:59:13] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:59:13] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:59:13] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:59:13] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:59:13] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:59:13] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:59:13] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:59:13] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:59:13] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:59:13] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:59:13] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:59:13] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:59:13] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:59:13] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:59:15] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:15] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:15] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:15] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=214, current_sinr=214
+[19:59:15] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:15] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:15] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:15] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=214, current_sinr=214
+[19:59:17] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:17] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:17] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:17] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=214, current_sinr=214
+[19:59:18] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:18] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:18] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:18] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=214, current_sinr=214
+[19:59:20] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:20] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:20] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:20] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=214, current_sinr=213
+[19:59:20] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:59:20] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:59:20] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:59:20] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:59:20] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:59:20] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:59:20] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:59:20] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:59:20] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:59:20] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:59:20] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:59:20] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:59:20] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:59:20] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:59:20] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:59:21] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:21] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:21] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:21] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=213, current_sinr=213
+[19:59:22] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:22] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:22] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:22] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=213, current_sinr=211
+[19:59:22] 0x0005 : cmss.c(11664) : =CM= cmss_report_rssi(), report_rssi=1, ignore_updates=0
+[19:59:22] 0x0005 : cmss.c(11672) : =CM= sys mode at the time of reporting rssi 9
+[19:59:22] 0x0005 : cmss.c(9136) : =CM= CM SS Event: 1
+[19:59:22] 0x0005 : cmss.c(6353) : =CM= CMSS Signal Strength Changed 0x0 0x10
+[19:59:22] 0x0005 : cmss.c(6456) : =CM= Hybr GW CMSS Signal Strength Changed 0x0 0x10054000
+[19:59:22] 0x0005 : cmss.c(9544) : =CM= CMSS Change 0x0 0x0
+[19:59:22] 0x0005 : cmss.c(9550) : =CM= CMSS Hybr GW Change 0x0 0x10054000
+[19:59:22] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 1 cid id 1
+[19:59:22] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 2 cid id 2
+[19:59:22] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 4 cid id 4
+[19:59:22] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 11 cid id 11
+[19:59:22] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 30 cid id 22
+[19:59:22] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 28
+[19:59:22] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 29
+[19:59:22] 0x0005 : cmclient.c(2238) : =CM= ss evt 1 ct 17 cid id 30
+[19:59:24] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:24] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:24] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:24] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=211, current_sinr=211
+[19:59:24] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:24] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:24] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:24] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=211, current_sinr=211
+[19:59:26] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:26] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:26] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:26] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=211, current_sinr=211
+[19:59:27] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:27] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:27] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:27] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=211, current_sinr=211
+[19:59:29] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:29] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:29] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:29] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=211, current_sinr=211
+[19:59:30] 0x0005 : cmss.c(11608) : =CM= LTE:cmss_report_rssi(), rssi=81, current_rssi=81, rssi_delta=5
+[19:59:30] 0x0005 : cmss.c(11621) : =CM= LTE:cmss_report_rssi(), rsrp=4294967198, current_rsrp=4294967198, rsrp_delta=5
+[19:59:30] 0x0005 : cmss.c(11631) : =CM= LTE:cmss_report_rssi(), rsrq=0, current_rsrq=4294967293, rsrq_delta=5
+[19:59:30] 0x0005 : cmss.c(11644) : =CM= LTE:cmss_report_rssi(),sinr=211, current_sinr=211

@@ -1,0 +1,15 @@
+[19:58:53] 0x2524 : lte_pdcp_dl.c(1522) : PDCP DL process reconfiguration, cfg reason = 1
+[19:58:53] 0x2524 : lte_pdcp_dl_protocol.c(2323) : PDCP DL active RB Cfg Index= 33 RB ID = 1 Cfg reason = 1
+[19:58:53] 0x2524 : lte_pdcp_log.c(1461) : PDCP DL Log buffer allocate for RB Cfg Index = 33
+[19:58:53] 0x2524 : lte_pdcp_dl.c(1522) : PDCP DL process reconfiguration, cfg reason = 1
+[19:58:53] 0x2524 : lte_pdcp_dl.c(1617) : PDCP DL process security cfg
+[19:58:53] 0x2524 : lte_pdcp_dl_protocol.c(3120) : SRB sec param bearer_id = 0 cipher algo = 7 cipher key idx = 1, ip algo= 2, ip key idx = 0, count_c = 0x1, payload[0] = 0x38, payload[1] = 0x0
+[19:58:53] 0x2524 : lte_pdcp_dl_protocol.c(3120) : SRB sec param bearer_id = 0 cipher algo = 7 cipher key idx = 1, ip algo= 2, ip key idx = 0, count_c = 0x2, payload[0] = 0x20, payload[1] = 0x12
+[19:58:53] 0x2524 : lte_pdcp_dl.c(1522) : PDCP DL process reconfiguration, cfg reason = 1
+[19:58:53] 0x2524 : lte_pdcp_dl_protocol.c(2323) : PDCP DL active RB Cfg Index= 34 RB ID = 2 Cfg reason = 1
+[19:58:53] 0x2524 : lte_pdcp_log.c(1461) : PDCP DL Log buffer allocate for RB Cfg Index = 34
+[19:58:53] 0x2524 : lte_pdcp_dl_protocol.c(2323) : PDCP DL active RB Cfg Index= 1 RB ID = 1 Cfg reason = 1
+[19:58:53] 0x2524 : lte_pdcp_log.c(1461) : PDCP DL Log buffer allocate for RB Cfg Index = 1
+[19:58:53] 0x2524 : lte_pdcp_dl_protocol.c(5351) : Map eps_id5 to rb_cfg_idx 1
+[19:58:53] 0x2524 : lte_pdcp_dl_protocol.c(4374) : PDCP DL process cfg completed ind, num RB prepare to add 2, prepare to be release 0
+[19:58:53] 0x2524 : lte_pdcp_dl_protocol.c(5351) : Map eps_id5 to rb_cfg_idx 1

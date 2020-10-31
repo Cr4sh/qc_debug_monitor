@@ -1,0 +1,11 @@
+[19:58:53] 0x002f : cc_srchmgr.c(6927) : SMG: IMD WWAN Change 5 WCDMABand 6 RfBand 6 Channel 21400
+[19:58:53] 0x002f : cc_srchmgr.c(7577) : SMG: IMD Possible on Neither
+[19:58:53] 0x002f : cc_srchmgr.c(7577) : SMG: IMD Possible on Neither
+[19:58:53] 0x002f : mc_slow_clk.c(2415) : Slow Clk releasing CDMA Time Update: Tunc 0.000000 GpsRtc 0 GpsMs 0 TBias 0.000000
+[19:58:53] 0x002f : mc_clock.c(5766) : Time Transformed from GPS to GLO: GLO 4yr 93, Day 56358, Ms 10783000
+[19:59:03] 0x002f : mc_slow_clk.c(2415) : Slow Clk releasing CDMA Time Update: Tunc 0.000000 GpsRtc 0 GpsMs 0 TBias 0.000000
+[19:59:03] 0x002f : mc_clock.c(5766) : Time Transformed from GPS to GLO: GLO 4yr 93, Day 56358, Ms 10783000
+[19:59:13] 0x002f : mc_slow_clk.c(2415) : Slow Clk releasing CDMA Time Update: Tunc 0.000000 GpsRtc 0 GpsMs 0 TBias 0.000000
+[19:59:13] 0x002f : mc_clock.c(5766) : Time Transformed from GPS to GLO: GLO 4yr 93, Day 56358, Ms 10783000
+[19:59:23] 0x002f : mc_slow_clk.c(2415) : Slow Clk releasing CDMA Time Update: Tunc 0.000000 GpsRtc 0 GpsMs 0 TBias 0.000000
+[19:59:23] 0x002f : mc_clock.c(5766) : Time Transformed from GPS to GLO: GLO 4yr 93, Day 56358, Ms 10783000

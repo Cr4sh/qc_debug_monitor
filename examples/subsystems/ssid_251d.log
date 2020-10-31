@@ -1,0 +1,318 @@
+[19:58:53] 0x251d : lte_rrc_cep.c(1405) : RRC CEP: num_attach = 1
+[19:58:53] 0x251d : lte_rrc_cep.c(4977) : RRC CEP: Recvd Conn Est Req; Controller state = 2
+[19:58:53] 0x251d : lte_rrc_cep.c(5149) : CEP: opt count is: 1
+[19:58:53] 0x251d : lte_rrc_cep.c(5225) : RRC CEP: Access Not Barred
+[19:58:53] 0x251d : lte_rrc_cep.c(1011) : RRC CEP: Sent Connection Est Started  indication
+[19:58:53] 0x251d : lte_rrc_cep.c(4336) : RRC CEP: Building ConnectionRequest message
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (UNKNOWN -> LTE_RRC_CEP_SM) (INACTIVE/LTE_RRC_CONN_EST_REQ) -> ACCESS
+[19:58:53] 0x251d : lte_rrc_controller.c(4491) : RRCC: Received conn_est_started_indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CONTROLLER_SM) (IDLE_CAMPED/LTE_RRC_CONN_ESTABLISHMENT_STARTED_INDI) -> CONNECTING
+[19:58:53] 0x251d : lte_rrc_controller.c(4532) : RRCC: Transitioned from state IDLE_CAMPED to CONNECTING
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CRE_SM) (INITIAL/LTE_RRC_CONN_ESTABLISHMENT_STARTED_INDI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MISC_SM) (INITIAL/LTE_RRC_CONN_ESTABLISHMENT_STARTED_INDI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CONTROLLER_SM) (CONNECTING/LTE_RRC_TRM_PRIORITY_CHANGE_INDI) -> CONNECTING
+[19:58:53] 0x251d : lte_rrc_controller.c(3007) : RRCC: Processing SIM update
+[19:58:53] 0x251d : lte_rrc_controller.c(3014) : RRCC: security_info_is_valid = 1
+[19:58:53] 0x251d : lte_rrc_controller.c(3022) : RRCC: eksi = 0
+[19:58:53] 0x251d : lte_rrc_controller.c(3024) : RRCC: nas_count = 3
+[19:58:53] 0x251d : lte_rrc_controller.c(3034) : RRCC: ue_id_list_is_valid = 1
+[19:58:53] 0x251d : lte_rrc_controller.c(3041) : RRCC: num_ue_identities = 2
+[19:58:53] 0x251d : lte_rrc_controller.c(3047) : RRCC: Access class = 0x1
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (UNKNOWN -> LTE_RRC_CONTROLLER_SM) (CONNECTING/LTE_RRC_SIM_UPDATE_REQ) -> CONNECTING
+[19:58:53] 0x251d : lte_rrc_paging.c(1572) : Received sim_update_req
+[19:58:53] 0x251d : lte_rrc_paging.c(1606) : Updated ue_id_type 1
+[19:58:53] 0x251d : lte_rrc_paging.c(1606) : Updated ue_id_type 0
+[19:58:53] 0x251d : lte_rrc_paging.c(2189) : Paging: DRX cfg request UE Id: 430
+[19:58:53] 0x251d : lte_rrc_paging.c(2241) : Sent DRX cfg req to ML1; PCI 1, freq 3400, paging_cycle 320, nb 2
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (UNKNOWN -> LTE_RRC_PAGING_SM) (IDLE_CAMPED/LTE_RRC_SIM_UPDATE_REQ) -> IDLE_CAMPED
+[19:58:53] 0x251d : lte_rrc_sec.c(3986) : RRC SEC: SIM Update Req received from NAS
+[19:58:53] 0x251d : lte_rrc_sec.c(2465) : Generating the initial K_eNB
+[19:58:53] 0x251d : lte_rrc_sec.c(4035) : pre-compute K-RRC-int. Intergrity Algo = SNO3G
+[19:58:53] 0x251d : lte_rrc_sec.c(4046) : pre-compute K-RRC-int. Intergrity Algo = AES
+[19:58:53] 0x251d : lte_rrc_sec.c(4068) : pre-compute K-RRC-enc. Cipher Algo = SNOW3G
+[19:58:53] 0x251d : lte_rrc_sec.c(4078) : pre-compute K-RRC-enc. Cipher Algo = AES
+[19:58:53] 0x251d : lte_rrc_sec.c(4099) : pre-compute K-UP-enc. Cipher Algo = SNOW3G
+[19:58:53] 0x251d : lte_rrc_sec.c(4109) : pre-compute K-UP-enc. Cipher Algo = AES
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (UNKNOWN -> LTE_RRC_SEC_SM) (INITIAL/LTE_RRC_SIM_UPDATE_REQ) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (UNKNOWN -> LTE_RRC_CAPABILITIES_SM) (INITIAL/LTE_RRC_SIM_UPDATE_REQ) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (ML1_ULM -> LTE_RRC_CEP_SM) (ACCESS/LTE_CPHY_RACH_MSG1_SCHED_IND) -> ACCESS
+[19:58:53] 0x251d : lte_rrc_cep.c(8814) : RRC CEP: Received MAC_ACCESS_CNF. RACH Successful
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (MAC -> LTE_RRC_CEP_SM) (ACCESS/LTE_MAC_ACCESS_CNF) -> ACCESS
+[19:58:53] 0x251d : lte_rrc_mh.c(1845) : Received pdcp/mac dl_data_ind
+[19:58:53] 0x251d : lte_rrc_mh.c(1857) : Received umid = 0x40f0405
+[19:58:53] 0x251d : lte_rrc_mh.c(1940) : Received from MAC
+[19:58:53] 0x251d : lte_rrc_mh.c(2403) : Index of dl_hist[] used: 3
+[19:58:53] 0x251d : lte_rrc_mh.c(2407) : UMID of dlm to be sent = 67962627
+[19:58:53] 0x251d : lte_rrc_mh.c(2413) : Send the DLM
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (MAC -> LTE_RRC_MH_SM) (INITIAL/LTE_MAC_RRC_CCCH_DL_DATA_IND) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_cep.c(1209) : RRC CEP: Sent Proceed with Reselection indication with status = 0
+[19:58:53] 0x251d : lte_rrc_llc.c(1878) : Copy CC to OC
+[19:58:53] 0x251d : lte_rrc_llcdb.c(22912) : Add-Mod SRB id 1 rb_cfg_idx 33
+[19:58:53] 0x251d : lte_rrc_llcdb.c(17267) : Num active RBs at RLC 1 and at PDCP 1
+[19:58:53] 0x251d : lte_rrc_llcdb.c(17135) : Num active RBs at RLC 1 and at PDCP 1
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4667) : RLC DL: rb_cfg_idx 33 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4793) : RLC UL: rb_cfg_idx 33 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(3754) : PDCP DL: rb_cfg_idx 33 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4522) : PDCP UL: rb_cfg_idx 33 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(17197) : Num active LCs at MAC 1
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4954) : MAC: Logical channel 1 being configured
+[19:58:53] 0x251d : lte_rrc_llcdb.c(20170) : ULSCH Config being configured.
+[19:58:53] 0x251d : lte_rrc_llcdb.c(23486) : Dedicated PHY config processed successfully.
+[19:58:53] 0x251d : lte_rrc_llcdb.c(2647) : assigned trans id 0
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_LLC_SM) (INITIAL/LTE_RRC_CFG_REQI) -> WAIT_FOR_CPHY_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_cep.c(1102) : RRC CEP: Sent Config Request to LLC
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CEP_SM) (ACCESS/LTE_RRC_RRC_CONNECTION_SETUP_DLM) -> CONFIGURING_SRB1
+[19:58:53] 0x251d : lte_rrc_csp.c(27115) : CSP: Proceed with resel ind received
+[19:58:53] 0x251d : lte_rrc_csp.c(27235) : CSP: Status is FALSE
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CSP_SM) (CAMPED/LTE_RRC_PROCEED_WITH_RESEL_INDI) -> CAMPED
+[19:58:53] 0x251d : lte_rrc_llc.c(3608) : LTE_CPHY_DEDICATED_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (CPHY -> LTE_RRC_LLC_SM) (WAIT_FOR_CPHY_CFG_CNF/LTE_CPHY_DEDICATED_CFG_CNF) -> WAIT_FOR_MAC_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4199) : LTE_MAC_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llc.c(1722) : Sent LTE_RLCDL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (MAC -> LTE_RRC_LLC_SM) (WAIT_FOR_MAC_CFG_CNF/LTE_MAC_CFG_CNF) -> WAIT_FOR_RLC_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4375) : LTE_RLCDL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llc.c(1729) : Sent LTE_RLCUL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RLCDL -> LTE_RRC_LLC_SM) (WAIT_FOR_RLC_CFG_CNF/LTE_RLCDL_CFG_CNF) -> WAIT_FOR_RLC_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4468) : LTE_RLCUL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llc.c(1743) : Sent LTE_PDCPDL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RLCUL -> LTE_RRC_LLC_SM) (WAIT_FOR_RLC_CFG_CNF/LTE_RLCUL_CFG_CNF) -> WAIT_FOR_PDCP_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4576) : LTE_PDCPDL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llc.c(1750) : Sent LTE_PDCPUL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPDL -> LTE_RRC_LLC_SM) (WAIT_FOR_PDCP_CFG_CNF/LTE_PDCPDL_CFG_CNF) -> WAIT_FOR_PDCP_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4676) : LTE_PDCPUL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llcdb.c(2676) : cleared trans id 0
+[19:58:53] 0x251d : lte_rrc_llcdb.c(2559) : Swapped OC and CC
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPUL -> LTE_RRC_LLC_SM) (WAIT_FOR_PDCP_CFG_CNF/LTE_PDCPUL_CFG_CNF) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_cep.c(9042) : RRC CEP: Received CFG CNF from LLC
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CEP_SM) (CONFIGURING_SRB1/LTE_RRC_CFG_CNFI) -> CONNECTED
+[19:58:53] 0x251d : lte_rrc_cep.c(2303) : RRC CEP: ac_BarringInfoPresent FALSE from SIB2, so NO ac_BarringInfo
+[19:58:53] 0x251d : lte_rrc_cep.c(2983) : RRC CEP: Access not barred for Emergency Calls. Access barring info not present
+[19:58:53] 0x251d : lte_rrc_cep.c(1495) : RRC CEP: Stopping Access Barring timers
+[19:58:53] 0x251d : lte_rrc_cep.c(4642) : RRC CEP: NAS container sent as DSM Item of length: 4
+[19:58:53] 0x251d : lte_rrc_mh.c(1016) : Received send_ul_msg_reqi
+[19:58:53] 0x251d : lte_rrc_mh.c(302) : next mu_id 11
+[19:58:53] 0x251d : lte_rrc_mh.c(1152) : ul req mu_id: 11, bk_idx: 1
+[19:58:53] 0x251d : lte_rrc_mh.c(1355) : Index in ul_hist[] used: 1
+[19:58:53] 0x251d : lte_rrc_mh.c(348) : alloc mu_id 11
+[19:58:53] 0x251d : lte_rrc_mh.c(1444) : Sending pdcpul_sdu_req
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MH_SM) (INITIAL/LTE_RRC_SEND_UL_MSG_REQI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_cep.c(4817) : RRC CEP: Sent RRC Connection Setup Complete message
+[19:58:53] 0x251d : lte_rrc_cep.c(1174) : RRC CEP: Sent Connected indication
+[19:58:53] 0x251d : lte_rrc_cep.c(670) : RRC CEP: Sent Conn Est Cnf
+[19:58:53] 0x251d : lte_rrc_cep.c(745) : RRC CEP: Sent DLM Processed Indication
+[19:58:53] 0x251d : lte_rrc_csp.c(26881) : CSP: CFG confirmation received
+[19:58:53] 0x251d : lte_rrc_csp.c(26895) : CSP: Config confirmation proc did not match
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CSP_SM) (CAMPED/LTE_RRC_CFG_CNFI) -> CAMPED
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CONTROLLER_SM) (CONNECTING/LTE_RRC_CFG_CNFI) -> CONNECTING
+[19:58:53] 0x251d : lte_rrc_controller.c(4575) : RRCC: Received connected_indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CONTROLLER_SM) (CONNECTING/LTE_RRC_CONNECTED_INDI) -> CONNECTED
+[19:58:53] 0x251d : lte_rrc_controller.c(4616) : RRCC: Transitioned from state CONNECTING to CONNECTED
+[19:58:53] 0x251d : lte_rrc_csp.c(1724) : CSP: TDSCDMA not supported
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CAPABILITIES_SM) (INITIAL/LTE_RRC_CONNECTED_INDI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_paging.c(845) : Received connected_indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_PAGING_SM) (IDLE_CAMPED/LTE_RRC_CONNECTED_INDI) -> CONNECTED
+[19:58:53] 0x251d : lte_rrc_paging.c(631) : Paging transitioned to CONNECTED state
+[19:58:53] 0x251d : lte_rrc_meas.c(29195) : Updating Dedicated Priority Owner
+[19:58:53] 0x251d : lte_rrc_meas.c(29109) : Dedicated Priority Owner: None
+[19:58:53] 0x251d : lte_rrc_meas.c(1081) : Freeing allocated memory for cphy_idle_meas_cfg_req
+[19:58:53] 0x251d : lte_rrc_meas.c(25153) : Initializing all conn priv data
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MEAS_SM) (IDLE_CAMPED/LTE_RRC_CONNECTED_INDI) -> CONNECTED
+[19:58:53] 0x251d : lte_rrc_sib.c(11388) : Connected_ind received
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_SIB_SM) (ACTIVE/LTE_RRC_CONNECTED_INDI) -> ACTIVE
+[19:58:53] 0x251d : lte_rrc_mh.c(1737) : Received dlm_processed_indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MH_SM) (INITIAL/LTE_RRC_DLM_PROCESSED_INDI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_mh.c(2525) : Received pdcpul_sdu_cnf
+[19:58:53] 0x251d : lte_rrc_mh.c(2529) : Number of acks  : 1
+[19:58:53] 0x251d : lte_rrc_mh.c(2530) : Number of nacks : 0
+[19:58:53] 0x251d : lte_rrc_mh.c(2531) : Number of maybes: 0
+[19:58:53] 0x251d : lte_rrc_mh.c(441) : Message status: 0 for mu_id: 11 num_cnf_due: 1
+[19:58:53] 0x251d : lte_rrc_mh.c(449) : Message found at index 1 in book keeping array
+[19:58:53] 0x251d : lte_rrc_mh.c(397) : free mu_id 11
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPUL -> LTE_RRC_MH_SM) (INITIAL/LTE_PDCPUL_SDU_CNF) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_cep.c(9479) : RRC CEP:  Received CONN_SETUP_COMPLETE_CNF for ConnSetupComplete. Successful transmission
+[19:58:53] 0x251d : lte_rrc_cep.c(977) : RRC CEP:  Sent UL Data CNF for ConnSetupComplete. Status = 0
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CEP_SM) (CONNECTED/LTE_RRC_RRC_CONNECTION_SETUP_COMPLETE_CNFI) -> CONNECTED
+[19:58:53] 0x251d : lte_rrc_mh.c(1845) : Received pdcp/mac dl_data_ind
+[19:58:53] 0x251d : lte_rrc_mh.c(1857) : Received umid = 0x4130400
+[19:58:53] 0x251d : lte_rrc_mh.c(1899) : Received from PDCP
+[19:58:53] 0x251d : lte_rrc_mh.c(2403) : Index of dl_hist[] used: 4
+[19:58:53] 0x251d : lte_rrc_mh.c(2407) : UMID of dlm to be sent = 67962634
+[19:58:53] 0x251d : lte_rrc_mh.c(2413) : Send the DLM
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPDL -> LTE_RRC_MH_SM) (INITIAL/LTE_PDCPDL_SDU_IND) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_sec.c(3549) : RRC SEC: Received RRC Security Mode Command DLM
+[19:58:53] 0x251d : lte_rrc_sec.c(2379) : RRC SEC:EIA0 not valid: LTE rel = 69 : Integrity algo = 2, Est cause = 4
+[19:58:53] 0x251d : lte_rrc_sec.c(2418) : RRC SEC:Null integrity is not valid: Integrity algo = 2, Ciphering = 0
+[19:58:53] 0x251d : lte_rrc_sec.c(3716) : Initial Security Activation: copy pre comp K-RRC-int. Intergrity Algo = 2
+[19:58:53] 0x251d : lte_rrc_sec.c(3726) :  KEY 0x9a 99 da 9 f1 b 8b ab
+[19:58:53] 0x251d : lte_rrc_sec.c(3729) :  KEY 0xad 4c 2b 4 cf a8 5f 50
+[19:58:53] 0x251d : lte_rrc_sec.c(2730) : SMC integrity check successful. MACI = 0x6e56a78e, XMACI = 0x6e56a78e
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_SEC_SM) (INITIAL/LTE_RRC_SECURITY_MODE_COMMAND_DLM) -> WT_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(1878) : Copy CC to OC
+[19:58:53] 0x251d : lte_rrc_llcdb.c(2647) : assigned trans id 0
+[19:58:53] 0x251d : lte_rrc_llc.c(1743) : Sent LTE_PDCPDL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_LLC_SM) (INITIAL/LTE_RRC_CFG_REQI) -> WAIT_FOR_PDCP_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_sec.c(2637) : RRC SEC: Sent Config Request to LLC
+[19:58:53] 0x251d : lte_rrc_llc.c(4576) : LTE_PDCPDL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llc.c(1750) : Sent LTE_PDCPUL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPDL -> LTE_RRC_LLC_SM) (WAIT_FOR_PDCP_CFG_CNF/LTE_PDCPDL_CFG_CNF) -> WAIT_FOR_PDCP_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4676) : LTE_PDCPUL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llcdb.c(2676) : cleared trans id 0
+[19:58:53] 0x251d : lte_rrc_llcdb.c(2559) : Swapped OC and CC
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPUL -> LTE_RRC_LLC_SM) (WAIT_FOR_PDCP_CFG_CNF/LTE_PDCPUL_CFG_CNF) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_csp.c(26881) : CSP: CFG confirmation received
+[19:58:53] 0x251d : lte_rrc_csp.c(26895) : CSP: Config confirmation proc did not match
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CSP_SM) (CAMPED/LTE_RRC_CFG_CNFI) -> CAMPED
+[19:58:53] 0x251d : lte_rrc_sec.c(4463) : RRC SEC: Received CFG CNF from LLC
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_SEC_SM) (WT_CFG_CNF/LTE_RRC_CFG_CNFI) -> SECURE
+[19:58:53] 0x251d : lte_rrc_mh.c(1016) : Received send_ul_msg_reqi
+[19:58:53] 0x251d : lte_rrc_mh.c(302) : next mu_id 12
+[19:58:53] 0x251d : lte_rrc_mh.c(1152) : ul req mu_id: 12, bk_idx: 2
+[19:58:53] 0x251d : lte_rrc_mh.c(1355) : Index in ul_hist[] used: 2
+[19:58:53] 0x251d : lte_rrc_mh.c(348) : alloc mu_id 12
+[19:58:53] 0x251d : lte_rrc_mh.c(1444) : Sending pdcpul_sdu_req
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MH_SM) (INITIAL/LTE_RRC_SEND_UL_MSG_REQI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_sec.c(3191) : RRC SEC: Sent RRC Security Mode Complete message
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MEAS_SM) (CONNECTED/LTE_RRC_SEC_ACTIVE_INDI) -> CONNECTED
+[19:58:53] 0x251d : lte_rrc_utils.c(4350) : Sent DLM Processed Indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CONTROLLER_SM) (CONNECTED/LTE_RRC_CFG_CNFI) -> CONNECTED
+[19:58:53] 0x251d : lte_rrc_mh.c(1737) : Received dlm_processed_indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MH_SM) (INITIAL/LTE_RRC_DLM_PROCESSED_INDI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_mh.c(2525) : Received pdcpul_sdu_cnf
+[19:58:53] 0x251d : lte_rrc_mh.c(2529) : Number of acks  : 1
+[19:58:53] 0x251d : lte_rrc_mh.c(2530) : Number of nacks : 0
+[19:58:53] 0x251d : lte_rrc_mh.c(2531) : Number of maybes: 0
+[19:58:53] 0x251d : lte_rrc_mh.c(441) : Message status: 0 for mu_id: 12 num_cnf_due: 1
+[19:58:53] 0x251d : lte_rrc_mh.c(449) : Message found at index 2 in book keeping array
+[19:58:53] 0x251d : lte_rrc_mh.c(397) : free mu_id 12
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPUL -> LTE_RRC_MH_SM) (INITIAL/LTE_PDCPUL_SDU_CNF) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_sec.c(4961) : RRC SEC: Received L2 ACK for Security Mode Complete
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_SEC_SM) (SECURE/LTE_RRC_SECURITY_MODE_COMPLETE_CNFI) -> SECURE
+[19:58:53] 0x251d : lte_rrc_mh.c(1845) : Received pdcp/mac dl_data_ind
+[19:58:53] 0x251d : lte_rrc_mh.c(1857) : Received umid = 0x4130400
+[19:58:53] 0x251d : lte_rrc_mh.c(1899) : Received from PDCP
+[19:58:53] 0x251d : lte_rrc_mh.c(2403) : Index of dl_hist[] used: 0
+[19:58:53] 0x251d : lte_rrc_mh.c(2407) : UMID of dlm to be sent = 67962635
+[19:58:53] 0x251d : lte_rrc_mh.c(2413) : Send the DLM
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPDL -> LTE_RRC_MH_SM) (INITIAL/LTE_PDCPDL_SDU_IND) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_capabilities.c(9717) : CAP: Processing Capability Enquiry message
+[19:58:53] 0x251d : lte_rrc_capabilities.c(9485) : CAP: EUTRA capability requested
+[19:58:53] 0x251d : lte_rrc_capabilities.c(9664) : CAP: Num RATs to be reported in Capability Information = 1
+[19:58:53] 0x251d : lte_rrc_csp.c(1724) : CSP: TDSCDMA not supported
+[19:58:53] 0x251d : lte_rrc_mh.c(1016) : Received send_ul_msg_reqi
+[19:58:53] 0x251d : lte_rrc_mh.c(302) : next mu_id 13
+[19:58:53] 0x251d : lte_rrc_mh.c(1152) : ul req mu_id: 13, bk_idx: 3
+[19:58:53] 0x251d : lte_rrc_mh.c(1355) : Index in ul_hist[] used: 3
+[19:58:53] 0x251d : lte_rrc_mh.c(348) : alloc mu_id 13
+[19:58:53] 0x251d : lte_rrc_mh.c(1444) : Sending pdcpul_sdu_req
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MH_SM) (INITIAL/LTE_RRC_SEND_UL_MSG_REQI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_capabilities.c(7958) : CAP: Sent Capability Information ULM
+[19:58:53] 0x251d : lte_rrc_utils.c(4350) : Sent DLM Processed Indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CAPABILITIES_SM) (INITIAL/LTE_RRC_UE_CAPABILITY_ENQUIRY_DLM) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_mh.c(1737) : Received dlm_processed_indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MH_SM) (INITIAL/LTE_RRC_DLM_PROCESSED_INDI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_mh.c(2525) : Received pdcpul_sdu_cnf
+[19:58:53] 0x251d : lte_rrc_mh.c(2529) : Number of acks  : 1
+[19:58:53] 0x251d : lte_rrc_mh.c(2530) : Number of nacks : 0
+[19:58:53] 0x251d : lte_rrc_mh.c(2531) : Number of maybes: 0
+[19:58:53] 0x251d : lte_rrc_mh.c(441) : Message status: 0 for mu_id: 13 num_cnf_due: 1
+[19:58:53] 0x251d : lte_rrc_mh.c(449) : Message found at index 3 in book keeping array
+[19:58:53] 0x251d : lte_rrc_mh.c(397) : free mu_id 13
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPUL -> LTE_RRC_MH_SM) (INITIAL/LTE_PDCPUL_SDU_CNF) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_capabilities.c(9792) : CAP: Processing Capability Information cnfi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CAPABILITIES_SM) (INITIAL/LTE_RRC_UE_CAPABILITY_INFORMATION_CNFI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_mh.c(1845) : Received pdcp/mac dl_data_ind
+[19:58:53] 0x251d : lte_rrc_mh.c(1857) : Received umid = 0x4130400
+[19:58:53] 0x251d : lte_rrc_mh.c(1899) : Received from PDCP
+[19:58:53] 0x251d : lte_rrc_mh.c(2403) : Index of dl_hist[] used: 1
+[19:58:53] 0x251d : lte_rrc_mh.c(2407) : UMID of dlm to be sent = 67962632
+[19:58:53] 0x251d : lte_rrc_mh.c(2413) : Send the DLM
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPDL -> LTE_RRC_MH_SM) (INITIAL/LTE_PDCPDL_SDU_IND) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_config.c(3273) : Reconfiguration Message received from Message Handler
+[19:58:53] 0x251d : lte_rrc_meas.c(21257) : Processing connected mode measurement config
+[19:58:53] 0x251d : lte_rrc_meas.c(20072) : QuantityConfig being added
+[19:58:53] 0x251d : lte_rrc_config.c(3302) : Reconfiguration Message validated
+[19:58:53] 0x251d : lte_rrc_config.c(3148) : Sending Config Request to LLC
+[19:58:53] 0x251d : lte_rrc_llc.c(1878) : Copy CC to OC
+[19:58:53] 0x251d : lte_rrc_llcdb.c(22912) : Add-Mod SRB id 2 rb_cfg_idx 34
+[19:58:53] 0x251d : lte_rrc_llcdb.c(17267) : Num active RBs at RLC 2 and at PDCP 2
+[19:58:53] 0x251d : lte_rrc_llcdb.c(17135) : Num active RBs at RLC 2 and at PDCP 2
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4667) : RLC DL: rb_cfg_idx 34 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4793) : RLC UL: rb_cfg_idx 34 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(3754) : PDCP DL: rb_cfg_idx 34 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4522) : PDCP UL: rb_cfg_idx 34 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(17197) : Num active LCs at MAC 2
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4954) : MAC: Logical channel 2 being configured
+[19:58:53] 0x251d : lte_rrc_llcdb.c(17267) : Num active RBs at RLC 3 and at PDCP 3
+[19:58:53] 0x251d : lte_rrc_llcdb.c(17135) : Num active RBs at RLC 3 and at PDCP 3
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4667) : RLC DL: rb_cfg_idx 1 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4793) : RLC UL: rb_cfg_idx 1 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(3754) : PDCP DL: rb_cfg_idx 1 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4522) : PDCP UL: rb_cfg_idx 1 configured for action 1 (1 - Add, 2 - Modify)
+[19:58:53] 0x251d : lte_rrc_llcdb.c(17197) : Num active LCs at MAC 3
+[19:58:53] 0x251d : lte_rrc_llcdb.c(4954) : MAC: Logical channel 3 being configured
+[19:58:53] 0x251d : lte_rrc_llcdb.c(23486) : Dedicated PHY config processed successfully.
+[19:58:53] 0x251d : lte_rrc_llcdb.c(2647) : assigned trans id 0
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_LLC_SM) (INITIAL/LTE_RRC_CFG_REQI) -> WAIT_FOR_CPHY_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CONFIG_SM) (INITIAL/LTE_RRC_RRC_CONNECTION_RECONFIGURATION_DLM) -> WAIT_FOR_CFG_CNFI
+[19:58:53] 0x251d : lte_rrc_llc.c(3608) : LTE_CPHY_DEDICATED_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (CPHY -> LTE_RRC_LLC_SM) (WAIT_FOR_CPHY_CFG_CNF/LTE_CPHY_DEDICATED_CFG_CNF) -> WAIT_FOR_MAC_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4199) : LTE_MAC_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llc.c(1722) : Sent LTE_RLCDL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (MAC -> LTE_RRC_LLC_SM) (WAIT_FOR_MAC_CFG_CNF/LTE_MAC_CFG_CNF) -> WAIT_FOR_RLC_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4375) : LTE_RLCDL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llc.c(1729) : Sent LTE_RLCUL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RLCDL -> LTE_RRC_LLC_SM) (WAIT_FOR_RLC_CFG_CNF/LTE_RLCDL_CFG_CNF) -> WAIT_FOR_RLC_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4468) : LTE_RLCUL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llc.c(1743) : Sent LTE_PDCPDL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RLCUL -> LTE_RRC_LLC_SM) (WAIT_FOR_RLC_CFG_CNF/LTE_RLCUL_CFG_CNF) -> WAIT_FOR_PDCP_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4576) : LTE_PDCPDL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llc.c(1750) : Sent LTE_PDCPUL_CFG_REQ
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPDL -> LTE_RRC_LLC_SM) (WAIT_FOR_PDCP_CFG_CNF/LTE_PDCPDL_CFG_CNF) -> WAIT_FOR_PDCP_CFG_CNF
+[19:58:53] 0x251d : lte_rrc_llc.c(4676) : LTE_PDCPUL_CFG_CNF received with success
+[19:58:53] 0x251d : lte_rrc_llcdb.c(29775) : LTE_CPHY_DRX_OPT_REQ sent with um_mode_enabled 1
+[19:58:53] 0x251d : lte_rrc_llcdb.c(2676) : cleared trans id 0
+[19:58:53] 0x251d : lte_rrc_llcdb.c(2559) : Swapped OC and CC
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPUL -> LTE_RRC_LLC_SM) (WAIT_FOR_PDCP_CFG_CNF/LTE_PDCPUL_CFG_CNF) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_csp.c(26881) : CSP: CFG confirmation received
+[19:58:53] 0x251d : lte_rrc_csp.c(26895) : CSP: Config confirmation proc did not match
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CSP_SM) (CAMPED/LTE_RRC_CFG_CNFI) -> CAMPED
+[19:58:53] 0x251d : lte_rrc_config.c(4692) : Configuration Confirm received from LLC
+[19:58:53] 0x251d : lte_rrc_config.c(4906) : Successful Channel Configuration by LLC
+[19:58:53] 0x251d : lte_rrc_config.c(2628) : Sent LTE_RRC_MEAS_CFG_REQI to Meas module
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CONFIG_SM) (WAIT_FOR_CFG_CNFI/LTE_RRC_CFG_CNFI) -> WAIT_FOR_MEAS_CFG_CNFI
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CONTROLLER_SM) (CONNECTED/LTE_RRC_CFG_CNFI) -> CONNECTED
+[19:58:53] 0x251d : lte_rrc_meas.c(21838) : meas_cfg_reqi called with cause normal
+[19:58:53] 0x251d : lte_rrc_meas.c(2639) : Sent LTE_CPHY_CONN_MEAS_CFG_REQ with following bitmasks
+[19:58:53] 0x251d : lte_rrc_meas.c(2642) : measObj valid bitmask 0x0, measObj mod bitmask 0x0
+[19:58:53] 0x251d : lte_rrc_meas.c(2645) : measId valid bitmask 0x0, measId mod bitmask 0x0
+[19:58:53] 0x251d : lte_rrc_meas.c(2650) : reportConfig valid bitmask 0x0, reportConfig mod bitmask 0x0, Other mod bitmask 0x1
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MEAS_SM) (CONNECTED/LTE_RRC_MEAS_CFG_REQI) -> WAIT_FOR_CONNECTED_CONFIG_CNF
+[19:58:53] 0x251d : lte_rrc_meas.c(22171) : Received CPHY_CONN_MEAS_CFG_CNF with SUCCESS
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (CPHY -> LTE_RRC_MEAS_SM) (WAIT_FOR_CONNECTED_CONFIG_CNF/LTE_CPHY_CONN_MEAS_CFG_CNF) -> CONNECTED
+[19:58:53] 0x251d : lte_rrc_config.c(5648) : Successful Measurement Configuration by Measurement Proc
+[19:58:53] 0x251d : lte_rrc_llcdb.c(3467) : Active EPS id 5, RB id 1
+[19:58:53] 0x251d : lte_rrc_llcdb.c(3477) : Added EPS id 5, RB id 1
+[19:58:53] 0x251d : lte_rrc_llcdb.c(3493) : Num active bearers 1, Num added bearers 1, Num removed bearers 0
+[19:58:53] 0x251d : lte_rrc_config.c(4584) : Active EPS bearers list sent to NAS
+[19:58:53] 0x251d : lte_rrc_mh.c(1016) : Received send_ul_msg_reqi
+[19:58:53] 0x251d : lte_rrc_mh.c(302) : next mu_id 14
+[19:58:53] 0x251d : lte_rrc_mh.c(1152) : ul req mu_id: 14, bk_idx: 4
+[19:58:53] 0x251d : lte_rrc_mh.c(1355) : Index in ul_hist[] used: 4
+[19:58:53] 0x251d : lte_rrc_mh.c(348) : alloc mu_id 14
+[19:58:53] 0x251d : lte_rrc_mh.c(1444) : Sending pdcpul_sdu_req
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MH_SM) (INITIAL/LTE_RRC_SEND_UL_MSG_REQI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_config.c(2825) : Reconfiguration Complete sent to Message Handler
+[19:58:53] 0x251d : lte_rrc_config.c(442) : Sent LTE_RRC_CONFIG_COMPLETED_IND to L2
+[19:58:53] 0x251d : lte_rrc_utils.c(4350) : Sent DLM Processed Indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_CONFIG_SM) (WAIT_FOR_MEAS_CFG_CNFI/LTE_RRC_MEAS_CFG_CNFI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_config.c(1408) : Config Module private data initialized
+[19:58:53] 0x251d : lte_rrc_mh.c(1737) : Received dlm_processed_indi
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (RRC -> LTE_RRC_MH_SM) (INITIAL/LTE_RRC_DLM_PROCESSED_INDI) -> INITIAL
+[19:58:53] 0x251d : lte_rrc_mh.c(2525) : Received pdcpul_sdu_cnf
+[19:58:53] 0x251d : lte_rrc_mh.c(2529) : Number of acks  : 1
+[19:58:53] 0x251d : lte_rrc_mh.c(2530) : Number of nacks : 0
+[19:58:53] 0x251d : lte_rrc_mh.c(2531) : Number of maybes: 0
+[19:58:53] 0x251d : lte_rrc_mh.c(441) : Message status: 0 for mu_id: 14 num_cnf_due: 1
+[19:58:53] 0x251d : lte_rrc_mh.c(449) : Message found at index 4 in book keeping array
+[19:58:53] 0x251d : lte_rrc_mh.c(397) : free mu_id 14
+[19:58:53] 0x251d : lte_rrc_stm.c(535) : (PDCPUL -> LTE_RRC_MH_SM) (INITIAL/LTE_PDCPUL_SDU_CNF) -> INITIAL

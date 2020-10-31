@@ -1,0 +1,5 @@
+[19:58:53] 0x2521 : lte_rlcul_cfg.c(1468) : CFG RLCUL REQ: cfg_reason=1 [1:CFG 2:HO 4:REL 8:RLF] num_rel_rb=0 num_mod_rb=1
+[19:58:53] 0x2521 : lte_rlcul_log.c(318) : AM RB cfg type=1 [1:add 2:mod 8:rmv] rb_cfg_idx=33 lc_id=1
+[19:58:53] 0x2521 : lte_rlcul_cfg.c(1468) : CFG RLCUL REQ: cfg_reason=1 [1:CFG 2:HO 4:REL 8:RLF] num_rel_rb=0 num_mod_rb=2
+[19:58:53] 0x2521 : lte_rlcul_log.c(318) : AM RB cfg type=1 [1:add 2:mod 8:rmv] rb_cfg_idx=34 lc_id=2
+[19:58:53] 0x2521 : lte_rlcul_log.c(327) : UM RB cfg type=1 [1:add 2:mod 8:rmv] rb_cfg_idx=1 lc_id=3 sequence length=10

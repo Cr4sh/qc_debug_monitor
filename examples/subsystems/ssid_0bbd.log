@@ -1,0 +1,2 @@
+[19:58:58] 0x0bbd : rrctmr.c(1009) : Expired timer:65
+[19:58:58] 0x0bbd : rrcmcm.c(1159) : Cmd received in Inactive: 1000092

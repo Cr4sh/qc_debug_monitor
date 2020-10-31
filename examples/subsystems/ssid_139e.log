@@ -1,0 +1,607 @@
+[19:58:49] 0x139e : ps_route.c(285) : ps_route_look_up_iface_by_policy() : Policy_Flag 0, Iface 0x1:8004, IP_family 4, proc_id 1
+[19:58:49] 0x139e : ps_route.c(331) : 3GPP APN Len 0, 3GPP APN
+[19:58:49] 0x139e : ps_route.c(356) : 3GPP2 APN Len 0, 3GPP2 APN
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(233) : REQUIRED_IFACE_TYPE_IS: Iface Name 0x8004, Pol Iface Name (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 4
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 4
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 4
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8004:0 with priority 4
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:1
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:1 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:2
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:2 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:3
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:3 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:4
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:4 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:5
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:5 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:6
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:6 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:7
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:7 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:8
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:8 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:9
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:9 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:10
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:10 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:11
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:11 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:12
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:12 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:13
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:13 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:14
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:14 DENIED, Reason 4294967189
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:15
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:15 DENIED, Reason 4294967189
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:16
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:16 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:17
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:17 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:18
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:18 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:19
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:19 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:20
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:20 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:21
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:21 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8882:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8882:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:1
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:2
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:2 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:3
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:3 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:4
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:4 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:5
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:5 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:6
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:6 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:7
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:7 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:8
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:8 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:9
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:9 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:10
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:10 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:11
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:11 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:12
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:12 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:13
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:13 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:14
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:14 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:15
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:15 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:0
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:0 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:1
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:1 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:2
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:2 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:3
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:3 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:4
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:4 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:5
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:5 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:6
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:6 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:7
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:7 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:0
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:1
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:2
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:2 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:3
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:3 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:4
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:4 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:5
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:5 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:6
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:6 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:7
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:7 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:8
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:8 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:9
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:9 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:10
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:10 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:11
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:11 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:12
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:12 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:13
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:13 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:14
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:14 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:15
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:15 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_route.c(285) : ps_route_bring_up_iface_by_policy_ex() : Policy_Flag 0, Iface 0x1:8004, IP_family 4, proc_id 1
+[19:58:49] 0x139e : ps_route.c(331) : 3GPP APN Len 0, 3GPP APN
+[19:58:49] 0x139e : ps_route.c(356) : 3GPP2 APN Len 0, 3GPP2 APN
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(233) : REQUIRED_IFACE_TYPE_IS: Iface Name 0x8004, Pol Iface Name (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 4
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 4
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 4
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8004:0 with priority 4
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:1
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:1 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:2
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:2 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:3
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:3 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:4
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:4 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:5
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:5 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:6
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:6 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:7
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:7 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:8
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:8 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:9
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:9 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:10
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:10 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:11
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:11 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:12
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:12 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:13
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:13 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:14
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:14 DENIED, Reason 4294967189
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:15
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:15 DENIED, Reason 4294967189
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:16
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:16 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:17
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:17 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:18
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:18 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:19
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:19 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:20
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:20 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:21
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:21 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8882:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8882:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:1
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:2
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:2 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:3
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:3 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:4
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:4 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:5
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:5 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:6
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:6 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:7
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:7 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:8
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:8 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:9
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:9 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:10
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:10 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:11
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:11 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:12
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:12 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:13
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:13 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:14
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:14 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8001:15
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8004 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8001:15 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:0
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:0 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:1
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:1 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:2
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:2 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:3
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:3 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:4
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:4 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:5
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:5 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:6
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:6 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8881:7
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8881:7 DENIED, Reason 4294967191
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:0
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:1
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:2
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:2 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:3
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:3 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:4
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:4 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:5
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:5 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:6
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:6 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:7
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:7 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:8
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:8 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:9
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:9 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:10
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:10 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:11
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:11 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:12
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:12 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:13
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:13 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:14
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:14 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8880:15
+[19:58:49] 0x139e : ps_aclrules.c(657) : SPECIFIED_CONFIG_NOT_SUPPORTED: True
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8880:15 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:1 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 8, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(501) : IFACE_AND_POL_FAMILY_MATCH: Iface Family 1 Pol IP Family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(112) : IS_PKT_INFO_NULL: True
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8008:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 2
+[19:58:49] 0x139e : ps_aclrules.c(378) : SPECIFIED_CONFIG_IS_SHAREABLE: True
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x40, Pol Iface Group 0x7fff (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x2, Pol Iface Group 0x7fff (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x1, Pol Iface Group 0x7fff (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8004:0 with priority 9
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:1 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 8, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(501) : IFACE_AND_POL_FAMILY_MATCH: Iface Family 1 Pol IP Family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(112) : IS_PKT_INFO_NULL: True
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8008:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 2
+[19:58:49] 0x139e : ps_aclrules.c(378) : SPECIFIED_CONFIG_IS_SHAREABLE: True
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x40, Pol Iface Group 0x7fff (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x2, Pol Iface Group 0x7fff (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x1, Pol Iface Group 0x7fff (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8004:0 with priority 9
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:1 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:49] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:49] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 8, IP family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(501) : IFACE_AND_POL_FAMILY_MATCH: Iface Family 1 Pol IP Family, (Match)
+[19:58:49] 0x139e : ps_aclrules.c(112) : IS_PKT_INFO_NULL: True
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8008:0 with priority 0
+[19:58:49] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 2
+[19:58:49] 0x139e : ps_aclrules.c(378) : SPECIFIED_CONFIG_IS_SHAREABLE: True
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x40, Pol Iface Group 0x7fff (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x2, Pol Iface Group 0x7fff (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x1, Pol Iface Group 0x7fff (Match)
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 9
+[19:58:49] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8004:0 with priority 9
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:58] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:58] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:58] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:58] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:58] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:58] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:58] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:58] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:58] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:58] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:58] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:58] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8800:1 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:58] 0x139e : ps_aclrules.c(438) : IP_POL_FAMILY_IS: IP Pol Family 4, IP family, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8008:0
+[19:58:58] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8008:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:58] 0x139e : ps_aclrules.c(551) : DIFF_IFACE_NAME_REQD: Pol iface name 0x8001 iface name, (Match)
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8004:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:0
+[19:58:58] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:0 with priority 0
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8800:1
+[19:58:58] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8800:1 with priority 0
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8888:0
+[19:58:58] 0x139e : ps_aclrules.c(69) : ACL 0x8888:0 DENIED, Reason 4294966296
+[19:58:58] 0x139e : ps_aclrules.c(83) : Running ACL for Iface 0x8004:0
+[19:58:58] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 2
+[19:58:58] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x40, Pol Iface Group 0x7fff (Match)
+[19:58:58] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 2
+[19:58:58] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x2, Pol Iface Group 0x7fff (Match)
+[19:58:58] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 2
+[19:58:58] 0x139e : ps_aclrules.c(245) : REQUIRED_IFACE_TYPE_IS: Iface Group 0x1, Pol Iface Group 0x7fff (Match)
+[19:58:58] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 2
+[19:58:58] 0x139e : ps_aclrules.c(55) : ACL PASS, pri 2
+[19:58:58] 0x139e : ps_aclrules.c(99) : PASSING Iface 0x8004:0 with priority 2

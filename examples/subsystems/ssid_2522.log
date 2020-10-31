@@ -1,0 +1,2 @@
+[19:58:53] 0x2522 : lte_rlcdl_cfg.c(1020) : CFG RLCDL REQ: cfg_reason=1 [1:CFG 2:HO 4:REL 8:RLF] num_rel_rb=0 num_mod_rb=1
+[19:58:53] 0x2522 : lte_rlcdl_cfg.c(1020) : CFG RLCDL REQ: cfg_reason=1 [1:CFG 2:HO 4:REL 8:RLF] num_rel_rb=0 num_mod_rb=2

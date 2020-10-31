@@ -1,0 +1,1416 @@
+[19:58:46] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:46] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:58:47] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:47] 0x1388 : siors232_mdd.c(1914) : [Max][DTR] siors_uart1_dtr_level_check: dtr level is 1
+[19:58:47] 0x1388 : quec_power.c(700) : get_uart_dtr_value DTR Status 0, port 1
+[19:58:47] 0x1388 : ds3gsiolib.c(2086) : [Max][DTR] DTR Status = 1, Port ID = 6
+[19:58:47] 0x1388 : ds3gsiolib.c(2127) : [Max][DTR] DTR signal counters: prev = 1, curr = 2, error_code = 4294967295
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : dsatetsime.c(1679) : network_mode: 9 current_mode:2 sys_mode:9
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : quectel_common_atc.c(2026) : [Max][NDIS] CT mbn is NOT loaded...
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : dsatetsicall.c(9118) : network_mode: 9 current_mode:2
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:47] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:47] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:47] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:47] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:47] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:47] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:48] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:48] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds_profilei.c(1149) : _itr_next: EXIT with ERR
+[19:58:48] 0x1388 : ds_profile.c(2689) : _itr_next: EXIT with ERR
+[19:58:48] 0x1388 : ds_profile.c(2697) : _itr_next: EXIT with ERR
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:48] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:48] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:48] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:48] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:48] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:48] 0x1388 : ds3gsiolib_ex.c(1234) : Checking DTR w/bad stream id 4294967295
+[19:58:48] 0x1388 : siors232_mdd.c(1914) : [Max][DTR] siors_uart1_dtr_level_check: dtr level is 1
+[19:58:48] 0x1388 : ps_sys_event.c(1542) : ps_sys_eventi_cback_cmd_handler(): cmd 143
+[19:58:48] 0x1388 : ps_sys_event.c(1614) : Processed cmd 143
+[19:58:48] 0x1388 : ds_qmi_wds.c(28384) : Processing DUN RMSM event of type 2
+[19:58:48] 0x1388 : ds_qmi_wds.c(28405) : No client registered for entitlement!
+[19:58:48] 0x1388 : ds_qmi_wds.c(28521) : DUN call processed: 1
+[19:58:48] 0x1388 : ps_ifacei_event.c(1980) : ps_iface_enable_ind(): IFACE ENABLE IND 0x8008:0, state 2
+[19:58:48] 0x1388 : ps_ifacei_event.c(2001) : ps_iface_enable_ind(): Interface 0x8008:0 already enabled, state 2
+[19:58:48] 0x1388 : ps_iface.c(2295) : ps_iface_disable_flow(): client 0x1000 disabling flow on iface 0x8008:0 -> mask 0x1000
+[19:58:48] 0x1388 : ds_Sock_EventManager.cpp(111) : PSIfaceEventCback(): Ev 18 Iface 0x86ffda00
+[19:58:48] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 18, group 0, handle 0x86ffda00
+[19:58:48] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:48] 0x1388 : dsumts_rmsmi.c(3212) : Registering with FC for CPU stats
+[19:58:48] 0x1388 : dsumts_rmsmi.c(4617) : RMSM Registered with FC
+[19:58:48] 0x1388 : ps_ppp_callbacks.c(2663) : PPP Meta state from 0 to 0
+[19:58:48] 0x1388 : ds_3gpp_rmsm_ip_common.c(3437) : [Max][AUTH] profile_id:1, default auth:2
+[19:58:48] 0x1388 : ds_3gpp_rmsm_ip_common.c(3444) : [Max][AUTH] profile_id:1, auctual auth:2
+[19:58:48] 0x1388 : ds_3gpp_rmsm_ip_common.c(3464) : [Max][AUTH] Unexpected AUTH TYPE: 2
+[19:58:48] 0x1388 : ps_ppp.c(2594) : ppp_start(dev 1)
+[19:58:48] 0x1388 : ps_ppp_task.c(685) : PPP processing START cmd
+[19:58:48] 0x1388 : ps_ppp.c(3439) : dev 1 mode from 0 to 4
+[19:58:48] 0x1388 : ps_ppp_logging.c(152) : ps_ppp_log_dev_config_param (dev 1)
+[19:58:48] 0x1388 : ps_ppp_logging.c(213) : Invalid User ID length 0, PPP configuration item not properly initialized.
+[19:58:48] 0x1388 : ps_ppp_logging.c(227) : Invalid Passwd length 0, PPP configuration item not properly initialized.
+[19:58:48] 0x1388 : ps_ppp_logging.c(244) : Log pointer allocation failure, PPP configuration item not logged.
+[19:58:48] 0x1388 : ps_pppi.c(2549) : Entering pppi_set_mode(dev 1), old_mode = 0x0, new_mode = 0x5
+[19:58:48] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:48] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x3) called for instance 86fe32a8
+[19:58:48] 0x1388 : ps_hdlc_lib.c(1737) : HW acceleration not supported, current mode unchanged for instance 0x86fe32a8
+[19:58:48] 0x1388 : ps_pppi.c(2737) : Leaving pppi_set_mode(dev 1), old_mode = 0x0, new_mode = 0x5
+[19:58:48] 0x1388 : ps_pppi.c(1330) : dev init, setting HDLC ACCM = 0xffffffff
+[19:58:48] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x1) called for instance 86fe32a8
+[19:58:48] 0x1388 : ps_hdlc_lib.c(1721) : HDlC instance 0x86fe32a8, accm set to 0xffffffff
+[19:58:48] 0x1388 : ds3gsiolib_ex.c(1109) : DS SIO = PACKET
+[19:58:48] 0x1388 : ps_ppp_fsm.c(3264) : fsm_init(dev 1, proto 0xc021, state 0)
+[19:58:48] 0x1388 : ps_ppp_fsm.c(3134) : fsm_open(dev 1, proto 0xc021, state 0)
+[19:58:48] 0x1388 : ps_ppp_ipcp.c(795) : ipcp_init(device 1)
+[19:58:48] 0x1388 : ps_ppp_fsm.c(3264) : fsm_init(dev 1, proto 0x8021, state 0)
+[19:58:48] 0x1388 : ps_ppp_fsm.c(3134) : fsm_open(dev 1, proto 0x8021, state 0)
+[19:58:48] 0x1388 : ps_ppp_task.c(863) : PPP processing SET_MODE cmd
+[19:58:48] 0x1388 : ps_pppi.c(2549) : Entering pppi_set_mode(dev 1), old_mode = 0x5, new_mode = 0x4
+[19:58:48] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x3) called for instance 86fe32a8
+[19:58:48] 0x1388 : ps_hdlc_lib.c(1737) : HW acceleration not supported, current mode unchanged for instance 0x86fe32a8
+[19:58:48] 0x1388 : ps_pppi.c(2737) : Leaving pppi_set_mode(dev 1), old_mode = 0x5, new_mode = 0x4
+[19:58:48] 0x1388 : qmi_framework.c(495) : Got QMI service 3 message for unassigned client 0 instance 1! discarding
+[19:58:48] 0x1388 : qmi_framework.c(826) : Msg header validation failed - unable to send Response for cmd 4
+[19:58:48] 0x1388 : qmi_framework.c(786) : Client 4 has been released, drop indication
+[19:58:48] 0x1388 : qmi_framework.c(786) : Client 5 has been released, drop indication
+[19:58:48] 0x1388 : qmi_framework.c(786) : Client 6 has been released, drop indication
+[19:58:49] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:49] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:49] 0x1388 : quectel_led.c(211) : [lory][qmi]:gpio=1018,status=2,on=125,off=125
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0xc021, state 1) with msg 1
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2125) : Processing req in starting/stopped state
+[19:58:49] 0x1388 : ps_pppi.c(5330) : pppi_report_event_to_diag: dev (1), prot (0), state (1)
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1881) : lcp_starting, setting HDLC ACCM = 0xffffffff for dev 1
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x1) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1721) : HDlC instance 0x86fe32a8, accm set to 0xffffffff
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1980) : lcp_starting, dev (1) auth_proto_mask 0x1
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1097) : fsm_makereq:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1049) : fsm_makeoptions:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 2
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 2
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 3
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 3
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 5
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 5
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 7
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 7
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 8
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 8
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=1, id=0
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x0) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_pppi.c(5119) : Protocol = 0 , Event called = 3 Fail Reason = 0
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1433) : fsm_request(device 1), proto 0xc021, retry_nak = 3
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 2
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1332) : lcp_check: opttype = 2
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 5
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1332) : lcp_check: opttype = 5
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 7
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1332) : lcp_check: opttype = 7
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 8
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1332) : lcp_check: opttype = 8
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=2, id=1
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x0) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2141) : Sent request in state 8
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0xc021, state 8)
+[19:58:49] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:49] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0xc021, state 8) with msg 4
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1097) : fsm_makereq:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1049) : fsm_makeoptions:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 2
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 2
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 5
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 5
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 7
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 7
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 8
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 8
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=1, id=0
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x0) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0xc021, state 8)
+[19:58:49] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:49] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0xc021, state 8) with msg 2
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1097) : fsm_makereq:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1049) : fsm_makeoptions:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 2
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 2
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 5
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 5
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 7
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 7
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1062) : Adding option: 8
+[19:58:49] 0x1388 : ps_ppp_lcp.c(1181) : lcp_option: optnum = 8
+[19:58:49] 0x1388 : ps_ppp_lcp.c(2026) : dev 1 LCP Up!
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=11, id=0
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x0) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_pppi.c(5330) : pppi_report_event_to_diag: dev (1), prot (0), state (2)
+[19:58:49] 0x1388 : ps_ppp_lcp.c(2054) : LCP negotiation finished, setting HDLC ACCM = 0x0
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x1) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1721) : HDlC instance 0x86fe32a8, accm set to 0x0
+[19:58:49] 0x1388 : ps_pppi.c(5119) : Protocol = 3 , Event called = 1 Fail Reason = 0
+[19:58:49] 0x1388 : ps_pppi.c(5119) : Protocol = 0 , Event called = 1 Fail Reason = 0
+[19:58:49] 0x1388 : ps_ppp_ncp.c(642) : PPP device 1 entering network phase
+[19:58:49] 0x1388 : ps_mem.c(1348) : ps_mem_index_to_buf(): Dynamic home entry is NULL for index 7, pool 119
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0xc021, state 9)
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0xc021, state 9) with msg 9
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=10, id=0
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x0) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x1) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1721) : HDlC instance 0x86fe32a8, accm set to 0xffffffff
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x1) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1721) : HDlC instance 0x86fe32a8, accm set to 0x0
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0xc021, state 9)
+[19:58:49] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:49] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:49] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_routei.c(559) : routei_acl_post_processing(): Iface 0x8004::0
+[19:58:49] 0x1388 : ps_route.c(1352) : ps_route_local_acl_policy_search(): ACL Srch (phys): Found ACL match on iface 0x8004:0 with priority 4
+[19:58:49] 0x1388 : ps_route.c(1630) : ps_route_network_selection_by_policy(): RT: Found ACL match on iface 0x8004:0 with priority 4
+[19:58:49] 0x1388 : ps_route.c(3030) : ps_route_look_up_iface_by_policy(): lookup: selection done, in_use_cfg_match [0], in_use [0], Iface available? [1]
+[19:58:49] 0x1388 : ps_route.c(3100) : ps_route_look_up_iface_by_policy(): lookup: Iface available, ARBITRATION NOT NEEDED!
+[19:58:49] 0x1388 : ps_route.c(3173) : ps_route_look_up_iface_by_policy(): lookup: done! Iface [0x8004:0] available, prio mask [0]
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_sys_conf.c(3389) : ps_sys_confi_verify_tech_conf_name() : tech 3 conf 701
+[19:58:49] 0x1388 : ps_routei.c(559) : routei_acl_post_processing(): Iface 0x8004::0
+[19:58:49] 0x1388 : ps_route.c(1352) : ps_route_local_acl_policy_search(): ACL Srch (phys): Found ACL match on iface 0x8004:0 with priority 4
+[19:58:49] 0x1388 : ps_route.c(1630) : ps_route_network_selection_by_policy(): RT: Found ACL match on iface 0x8004:0 with priority 4
+[19:58:49] 0x1388 : ps_route.c(3358) : ps_route_bring_up_iface_by_policy_ex(): bringup: selection done, in_use_cfg_match [0], in_use [0], Iface available? [1]
+[19:58:49] 0x1388 : ps_route.c(3363) : ps_route_bring_up_iface_by_policy_ex(): bringup: Iface available, ARBITRATION NOT NEEDED!
+[19:58:49] 0x1388 : ps_policy_mgr.c(255) : ps_policy_mgr_get_priority(): Empty DB
+[19:58:49] 0x1388 : ps_route.c(3496) : ps_route_bring_up_iface_by_policy_ex(): PS Iface bringup using prio [31], profile [0]
+[19:58:49] 0x1388 : ps_iface.c(4176) : Bringing up iface 0x8004:0, old priority 0x0, req app priority 31
+[19:58:49] 0x1388 : ps_iface.c(4192) : Bringing up iface 0x8004:0, state 32, ref_cnt 1, new priority 0x80000000
+[19:58:49] 0x1388 : ps_iface.c(4332) : ps_iface_active_bring_up_cmd_ex(): Iface 0x843d2f20, app_prio 31
+[19:58:49] 0x1388 : ps_iface.c(4354) : Active bringing up iface 0x8004:0, state 32, curr priority 0x80000000
+[19:58:49] 0x1388 : ps_ifacei_event.c(2977) : ps_iface_generic_ind(): IFACE GENERIC EVENT IND 0x8004:0, event 61
+[19:58:49] 0x1388 : ds_qmi_wds.c(24094) : Recvd iface ev 61 from i/f 0x843d2f20
+[19:58:49] 0x1388 : ds_qmi_wds.c(5741) :  qmi_wdsi_generate_dun_call_info_ind Event [61] Iface Name [0x8004], Tech Name [0x8004]
+[19:58:49] 0x1388 : ds_qmi_wds.c(5832) : Proc id for Um Iface 0x843d2f20 is 0x1
+[19:58:49] 0x1388 : ps_route.c(3510) : ps_route_bring_up_iface_by_policy_ex(): PS Iface bringup no arb, result [0], errno [0]
+[19:58:49] 0x1388 : ps_ifacei_event.c(2518) : ps_iface_up_ind(): IFACE UP IND 0x8004:0, state 32
+[19:58:49] 0x1388 : ps_flowi.c(1104) : ps_flowi_bind_phys_link(): Flow, 0x86fff728, is already bound
+[19:58:49] 0x1388 : ps_ifacei_event.c(2583) : [DataCnt] [[[ ps_iface_update_stats_on_up_state exec ]]]
+[19:58:49] 0x1388 : quectel_nw_atc.c(4378) : [GDCNT][CD2] Quectel_GDCNTUpdateCallId
+[19:58:49] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 6
+[19:58:49] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:49] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 7
+[19:58:49] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:49] 0x1388 : quectel_nw_atc.c(4291) : [GDCNT][CD2] check callid_0: if not in s_QuecDataCntInfo, add it
+[19:58:49] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:49] 0x1388 : quectel_nw_atc.c(4309) : [GDCNT][CD2] Quectel_GDCNTNewItemCheckAndCreate : callid_0 is already exist !
+[19:58:49] 0x1388 : quectel_nw_atc.c(4324) : [GDCNT][CD2] Quectel_GDCNTUpdateCntByCallId : callid=0
+[19:58:49] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:49] 0x1388 : quectel_nw_atc.c(4332) : [GDCNT][CD2] u64RxCnt=0, pItem->u64PreItemRxCnt=0, pItem->u64ItemRxInc=0
+[19:58:49] 0x1388 : quectel_nw_atc.c(4333) : [GDCNT][CD2] u64TxCnt=0, pItem->u64PreItemTxCnt=0, pItem->u64ItemTxInc=0
+[19:58:49] 0x1388 : quectel_nw_atc.c(4367) : [GDCNT][CD2] s_QuecDataCntInfo: u64TotalTxCnt=616, u64TotalRxCnt=736
+[19:58:49] 0x1388 : ps_ifacei_event.c(3865) : ps_ifacei_invoke_event_cbacks(): Not invoking event 10
+[19:58:49] 0x1388 : ps_iface_ioctl.c(388) : ps_iface_ioctl(): IOCTL 62, iface 0x8004:0
+[19:58:49] 0x1388 : ps_ifacei_event.c(2977) : ps_iface_generic_ind(): IFACE GENERIC EVENT IND 0x8004:0, event 70
+[19:58:49] 0x1388 : ds_qmi_wds.c(24170) : Recvd iface ev 70 for UM iface_ptr 0x843d2f20
+[19:58:49] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 70, handle 0x843d2f20
+[19:58:49] 0x1388 : ps_ifacei_event.c(2422) : ps_iface_routeable_ind(): IFACE ROUTEABLE IND 0x8004:0, state 32
+[19:58:49] 0x1388 : ps_flowi.c(1104) : ps_flowi_bind_phys_link(): Flow, 0x86fff728, is already bound
+[19:58:49] 0x1388 : ps_ifacei_event.c(2461) : ps_iface_routeable_ind(): Calling event cbacks
+[19:58:49] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 49, handle 0x843d2f20
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(111) : PSIfaceEventCback(): Ev 19 Iface 0x843d2f20
+[19:58:49] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 19, handle 0x843d2f20
+[19:58:49] 0x1388 : ds_qmi_wds.c(24094) : Recvd iface ev 19 from i/f 0x843d2f20
+[19:58:49] 0x1388 : ps_ifacei_event.c(2314) : ps_iface_configuring_ind(): IFACE CONFIGURING IND 0x8008:0, state 2
+[19:58:49] 0x1388 : ds_qmi_wds.c(5741) :  qmi_wdsi_generate_dun_call_info_ind Event [19] Iface Name [0x8004], Tech Name [0x8004]
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 19, group 0, handle 0x843d2f20
+[19:58:49] 0x1388 : ps_flowi.c(1104) : ps_flowi_bind_phys_link(): Flow, 0x86ff8618, is already bound
+[19:58:49] 0x1388 : ds_qmi_wds.c(5832) : Proc id for Um Iface 0x843d2f20 is 0x1
+[19:58:49] 0x1388 : ps_ifacei_event.c(2353) : ps_iface_configuring_ind(): Calling event cbacks
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(111) : PSIfaceEventCback(): Ev 16 Iface 0x86ffda00
+[19:58:49] 0x1388 : ps_iface.c(2013) : bridging iface 0x8008:0 in state 8 to iface 0x8004:0
+[19:58:49] 0x1388 : ps_ppp.c(3439) : dev 1 mode from 4 to 5
+[19:58:49] 0x1388 : ds_3gpp_rmsm_ip_common.c(892) : [Max][PPP] protocol: incoming=0x1, outgoing=0x8021
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe6528, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe6528, appType 2147483647
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe6528, if name 0x8001
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe6528, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe6528, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe6528, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe6528, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe7708, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe7708, appType 2147483647
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe7708, if name 0x8001
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe7708, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe7708, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe7708, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe7708, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe8f08, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe8f08, appType 2147483647
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe8f08, if name 0x8001
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe8f08, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe8f08, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe8f08, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe8f08, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x870fabe8, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x870fabe8, appType 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x870fabe8, if name 0x7fff
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x870fabe8, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x870fabe8, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x870fabe8, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x870fabe8, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x8003 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x8003 0x0
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:49] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 16, handle 0x86ffda00
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 16, group 0, handle 0x86ffda00
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe6528, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe6528, appType 2147483647
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe6528, if name 0x8001
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe6528, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe6528, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe6528, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe6528, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe7708, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe7708, appType 2147483647
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe7708, if name 0x8001
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe7708, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe7708, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe7708, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe7708, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe8f08, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe8f08, appType 2147483647
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe8f08, if name 0x8001
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe8f08, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe8f08, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe8f08, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe8f08, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x870fabe8, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x870fabe8, appType 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x870fabe8, if name 0x7fff
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x870fabe8, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x870fabe8, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x870fabe8, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x870fabe8, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x8003 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x8003 0x0
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:49] 0x1388 : ps_ppp_task.c(863) : PPP processing SET_MODE cmd
+[19:58:49] 0x1388 : ps_pppi.c(2549) : Entering pppi_set_mode(dev 1), old_mode = 0x4, new_mode = 0x5
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x3) called for instance 86fe32a8
+[19:58:49] 0x1388 : ps_hdlc_lib.c(1737) : HW acceleration not supported, current mode unchanged for instance 0x86fe32a8
+[19:58:49] 0x1388 : ps_pppi.c(2737) : Leaving pppi_set_mode(dev 1), old_mode = 0x4, new_mode = 0x5
+[19:58:49] 0x1388 : ps_ppp_task.c(916) : PPP processing INJECT_PKT cmd
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0x8021, state 1) with msg 1
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2125) : Processing req in starting/stopped state
+[19:58:49] 0x1388 : ps_pppi.c(5330) : pppi_report_event_to_diag: dev (1), prot (3), state (1)
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1097) : fsm_makereq:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1049) : fsm_makeoptions:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=1, id=0
+[19:58:49] 0x1388 : ps_pppi.c(5119) : Protocol = 1 , Event called = 3 Fail Reason = 0
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1433) : fsm_request(device 1), proto 0x8021, retry_nak = 3
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 3
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1614) : ipcp_check: opttype = 3
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1621) : IPCP_1ADDRESS = 0x40010ac
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1626) : [Max][AUTH] PPP has got IP! update ppp auth param set_flag by TRUE
+[19:58:49] 0x1388 : quectel_common_atc.c(13263) : [Max][AUTH] NOT FOUND SET_FLAG!!!!
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1339) : ipcp_option: optnum = 3
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1347) : ipaddr = 0x40010ac
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 129
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1614) : ipcp_check: opttype = 129
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1690) : IPCP_PRIMARY_DNS = 0x8080808
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1339) : ipcp_option: optnum = 129
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1354) : pridns = 0x8080808
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 131
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=4, id=1
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2141) : Sent request in state 6
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0x8021, state 6)
+[19:58:49] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0x8021, state 6) with msg 3
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1097) : fsm_makereq:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1049) : fsm_makeoptions:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=1, id=0
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0x8021, state 6)
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0x8021, state 6) with msg 1
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1433) : fsm_request(device 1), proto 0x8021, retry_nak = 3
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 3
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1614) : ipcp_check: opttype = 3
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1621) : IPCP_1ADDRESS = 0x40010ac
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1626) : [Max][AUTH] PPP has got IP! update ppp auth param set_flag by TRUE
+[19:58:49] 0x1388 : quectel_common_atc.c(13263) : [Max][AUTH] NOT FOUND SET_FLAG!!!!
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1339) : ipcp_option: optnum = 3
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1347) : ipaddr = 0x40010ac
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 129
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1614) : ipcp_check: opttype = 129
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1690) : IPCP_PRIMARY_DNS = 0x8080808
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1339) : ipcp_option: optnum = 129
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1354) : pridns = 0x8080808
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=3, id=2
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2149) : Sent request in state 6
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0x8021, state 6)
+[19:58:49] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:49] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0x8021, state 6) with msg 2
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1097) : fsm_makereq:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1049) : fsm_makeoptions:
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0x8021, state 7)
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0x8021, state 7) with msg 1
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1433) : fsm_request(device 1), proto 0x8021, retry_nak = 2
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 3
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1614) : ipcp_check: opttype = 3
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1621) : IPCP_1ADDRESS = 0x40010ac
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1626) : [Max][AUTH] PPP has got IP! update ppp auth param set_flag by TRUE
+[19:58:49] 0x1388 : quectel_common_atc.c(13263) : [Max][AUTH] NOT FOUND SET_FLAG!!!!
+[19:58:49] 0x1388 : ps_ppp_fsm.c(1437) : Remote requests option: 129
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1614) : ipcp_check: opttype = 129
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(1690) : IPCP_PRIMARY_DNS = 0x8080808
+[19:58:49] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=2, id=3
+[19:58:49] 0x1388 : ps_ppp_snpip.c(1581) : Snoop IP dev 1, ev 0 in state 0
+[19:58:49] 0x1388 : ps_ppp_ipcp.c(2737) : IPCP established on dev 1
+[19:58:49] 0x1388 : ps_pppi.c(5330) : pppi_report_event_to_diag: dev (1), prot (3), state (2)
+[19:58:49] 0x1388 : ps_pppi.c(5119) : Protocol = 1 , Event called = 1 Fail Reason = 0
+[19:58:49] 0x1388 : ps_iface.c(2221) : ps_iface_enable_flow(): client 0x1000 enabling flow on iface 0x8008:0 -> mask 0x0
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(111) : PSIfaceEventCback(): Ev 17 Iface 0x86ffda00
+[19:58:49] 0x1388 : ps_inet_event_mgr.c(106) : Rcvd evt 17 on iface 0x8008:0
+[19:58:49] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0x8021, state 9)
+[19:58:49] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:49] 0x1388 : ps_iface.c(2013) : bridging iface 0x8004:0 in state 16 to iface 0x8008:0
+[19:58:49] 0x1388 : ps_ppp_snpip.c(257) : Snoop IP dev 1 state 0 to 2
+[19:58:49] 0x1388 : ps_ifacei_event.c(2518) : ps_iface_up_ind(): IFACE UP IND 0x8008:0, state 8
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 17, group 0, handle 0x86ffda00
+[19:58:49] 0x1388 : ps_flowi.c(1104) : ps_flowi_bind_phys_link(): Flow, 0x86ff8618, is already bound
+[19:58:49] 0x1388 : ps_ifacei_event.c(2583) : [DataCnt] [[[ ps_iface_update_stats_on_up_state exec ]]]
+[19:58:49] 0x1388 : quectel_nw_atc.c(4378) : [GDCNT][CD2] Quectel_GDCNTUpdateCallId
+[19:58:49] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 6
+[19:58:49] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:49] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 7
+[19:58:49] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:49] 0x1388 : quectel_nw_atc.c(4291) : [GDCNT][CD2] check callid_0: if not in s_QuecDataCntInfo, add it
+[19:58:49] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:49] 0x1388 : quectel_nw_atc.c(4309) : [GDCNT][CD2] Quectel_GDCNTNewItemCheckAndCreate : callid_0 is already exist !
+[19:58:49] 0x1388 : quectel_nw_atc.c(4324) : [GDCNT][CD2] Quectel_GDCNTUpdateCntByCallId : callid=0
+[19:58:49] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:49] 0x1388 : quectel_nw_atc.c(4332) : [GDCNT][CD2] u64RxCnt=0, pItem->u64PreItemRxCnt=0, pItem->u64ItemRxInc=0
+[19:58:49] 0x1388 : quectel_nw_atc.c(4333) : [GDCNT][CD2] u64TxCnt=0, pItem->u64PreItemTxCnt=0, pItem->u64ItemTxInc=0
+[19:58:49] 0x1388 : quectel_nw_atc.c(4367) : [GDCNT][CD2] s_QuecDataCntInfo: u64TotalTxCnt=616, u64TotalRxCnt=736
+[19:58:49] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 10, handle 0x86ffda00
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(111) : PSIfaceEventCback(): Ev 10 Iface 0x86ffda00
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 10, group 0, handle 0x86ffda00
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe6528, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe6528, appType 2147483647
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe6528, if name 0x8001
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe6528, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe6528, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe6528, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe6528, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : ds_qmi_wds.c(24094) : Recvd iface ev 10 from i/f 0x86ffda00
+[19:58:49] 0x1388 : ps_iface_ioctl.c(388) : ps_iface_ioctl(): IOCTL 62, iface 0x8008:0
+[19:58:49] 0x1388 : ds_qmi_wds.c(5741) :  qmi_wdsi_generate_dun_call_info_ind Event [10] Iface Name [0x8008], Tech Name [0x8008]
+[19:58:49] 0x1388 : ps_iface_ioctl.c(1409) : ps_iface_ioctl err 124
+[19:58:49] 0x1388 : ds_qmi_wds.c(5755) : DUN call connected (event=10)
+[19:58:49] 0x1388 : ds_qmi_wds.c(5770) : Set modem_dun_um_iface_ptr from bridged iface 0x843d2f20
+[19:58:49] 0x1388 : ps_iface_ioctl.c(388) : ps_iface_ioctl(): IOCTL 32, iface 0x8004:0
+[19:58:49] 0x1388 : ps_ifacei_event.c(2754) : ps_iface_phys_link_up_ind(): IFACE PHYS LINK UP IND 0x8008:0, state 32
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ps_phys_linki_event.c(1042) : ps_phys_link_up_ind_ex(): PHYS LINK UP IND 0x86ffe450, state 1
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ds_qmi_wds.c(14300) : current network 2
+[19:58:49] 0x1388 : ds_qmi_wds.c(14331) : current bearer tech nw2 rat 32, so0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe7708, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe7708, appType 2147483647
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe7708, if name 0x8001
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe7708, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe7708, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe7708, prof 0
+[19:58:49] 0x1388 : ps_flowi_event.c(351) : ps_flowi_phys_link_event_cback(): Processing event, 2 on phys link 0x86ffe450 for flow 0x86ff8618
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe7708, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : ps_flow.c(1047) : ps_flow_activate_ind(): FLOW ACTIVATE IND 0x86ff8618, state 0x4, info code 0
+[19:58:49] 0x1388 : ps_ifacei_event.c(806) : ps_ifacei_phys_link_event_cback(): Phys link evt 2 on iface=0x8008:0
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(208) : PhysLinkEventCback(): Ev 2 PhysLink 0x86ffe450
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(235) : PhysLinkEventCback(): Success
+[19:58:49] 0x1388 : ds_qmi_wds.c(24881) : Reg DUN phys_link events (um_iface_ptr=0x843d2f20)
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ds_qmi_wds.c(25048) : Recvd phys_link ev 0
+[19:58:49] 0x1388 : ds_qmi_wds.c(27639) : changing call status to 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe8f08, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe8f08, appType 2147483647
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe8f08, if name 0x8001
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe8f08, group 0x1
+[19:58:49] 0x1388 : ds_qmi_wds.c(6800) : Physlink ev 0 occured (Traffic channel status changed)
+[19:58:49] 0x1388 : ds_qmi_wds.c(10235) : Sending DUN dormancy status IND (=1)
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe8f08, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe8f08, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe8f08, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x870fabe8, ref cnt 1, iid 0x1072d07
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x870fabe8, appType 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x870fabe8, if name 0x7fff
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x870fabe8, group 0x1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x870fabe8, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x870fabe8, prof 0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:49] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x870fabe8, apn name len 255, apn name 0xd121cbb8
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x8003 0x0
+[19:58:49] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x8003 0x0
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:49] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 49, handle 0x86ffda00
+[19:58:49] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 2, handle 0x86ffe450
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 2, group 0, handle 0x86ffe450
+[19:58:49] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:49] 0x1388 : quectel_common_atc.c(15756) : quectel_wcdma_rrc_counter_cb rrc connect counter 0, setting counter 0 dsatetsicmif_get_pref_nw_mode 2
+[19:58:49] 0x1388 : quectel_remotefs_task.c(523) : [QRFS TASK]Proc dog hb sig
+[19:58:50] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:51] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:58:51] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:52] 0x1388 : quectel_led.c(211) : [lory][qmi]:gpio=1018,status=2,on=1800,off=200
+[19:58:52] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:53] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:58:53] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:53] 0x1388 : quectel_led.c(211) : [lory][qmi]:gpio=1018,status=2,on=125,off=125
+[19:58:53] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:53] 0x1388 : ps_phys_link.c(315) : ps_phys_link_up_cmd(): PS PHYS LINK UP CMD 0x843d1050 in state 1
+[19:58:53] 0x1388 : ps_phys_link.c(884) : ps_phys_link_disable_flow(): client 0x100000 disabling flow on phys link 0x843d1050 -> mask 0x100000
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(208) : PhysLinkEventCback(): Ev 6 PhysLink 0x843d1050
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(235) : PhysLinkEventCback(): Success
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 6, group 0, handle 0x843d1050
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:53] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 7, handle 0x843d1050
+[19:58:53] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:53] 0x1388 : ps_ifacei_event.c(2977) : ps_iface_generic_ind(): IFACE GENERIC EVENT IND 0x8004:0, event 32
+[19:58:53] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 32, handle 0x843d2f20
+[19:58:53] 0x1388 : ps_phys_linki_event.c(1042) : ps_phys_link_up_ind_ex(): PHYS LINK UP IND 0x843d1050, state 16
+[19:58:53] 0x1388 : ds_qmi_wds.c(25048) : Recvd phys_link ev 2
+[19:58:53] 0x1388 : ps_ifacei_event.c(806) : ps_ifacei_phys_link_event_cback(): Phys link evt 2 on iface=0x8004:0
+[19:58:53] 0x1388 : ps_ip6_sm.c(1098) : ip6_sm(0x843d3a08): Posting IP6 SM event 4 in state 0
+[19:58:53] 0x1388 : ds_qmi_wds.c(6800) : Physlink ev 2 occured (Traffic channel status changed)
+[19:58:53] 0x1388 : ds_qmi_wds.c(10235) : Sending DUN dormancy status IND (=2)
+[19:58:53] 0x1388 : ps_ip6_sm.c(1118) : ip6_sm(0x843d3a08): Sending PS cmd for IP6 SM event 4
+[19:58:53] 0x1388 : ps_ip6_sm.c(1098) : ip6_sm(0x843d3a08): Posting IP6 SM event 4 in state 0
+[19:58:53] 0x1388 : ps_ip6_sm.c(1195) : ip6_sm(0x843d3a08): Processing IP6 SM event 4
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(208) : PhysLinkEventCback(): Ev 2 PhysLink 0x843d1050
+[19:58:53] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 2, handle 0x843d1050
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(235) : PhysLinkEventCback(): Success
+[19:58:53] 0x1388 : ps_phys_link.c(812) : ps_phys_link_enable_flow(): client 0x100000 enabling flow on phys link 0x843d1050 -> mask 0x0
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(208) : PhysLinkEventCback(): Ev 5 PhysLink 0x843d1050
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 2, group 0, handle 0x843d1050
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(235) : PhysLinkEventCback(): Success
+[19:58:53] 0x1388 : ps_inet_event_mgr.c(326) : Rcvd evt 5 on phys link 0x843d1050
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:53] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 5, handle 0x843d1050
+[19:58:53] 0x1388 : ds_Net_Conversion.cpp(1529) : PS2DSEventInfo(): Ignoring event 5
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 5, group 0, handle 0x843d1050
+[19:58:53] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:53] 0x1388 : ps_iface_ipfltr.c(1066) : Jensen udp ps_iface_ipfltri_process_default 4
+[19:58:53] 0x1388 : ps_iface_ipfltr.c(1066) : Jensen udp ps_iface_ipfltri_process_default 4
+[19:58:53] 0x1388 : ps_ppp.c(3956) : PPP 1 out True----->
+[19:58:53] 0x1388 : ps_ppp.c(3974) : PPP 1 out False------>
+[19:58:54] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:54] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:54] 0x1388 : ps_iface_ipfltr.c(1066) : Jensen udp ps_iface_ipfltri_process_default 4
+[19:58:54] 0x1388 : ps_iface_ipfltr.c(1066) : Jensen udp ps_iface_ipfltri_process_default 4
+[19:58:54] 0x1388 : ps_ppp.c(3956) : PPP 1 out True----->
+[19:58:54] 0x1388 : ps_ppp.c(3974) : PPP 1 out False------>
+[19:58:54] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:54] 0x1388 : quectel_common_atc.c(15756) : quectel_wcdma_rrc_counter_cb rrc connect counter 0, setting counter 0 dsatetsicmif_get_pref_nw_mode 2
+[19:58:54] 0x1388 : quectel_remotefs_task.c(523) : [QRFS TASK]Proc dog hb sig
+[19:58:55] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:55] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:55] 0x1388 : ps_iface_ipfltr.c(1066) : Jensen udp ps_iface_ipfltri_process_default 4
+[19:58:55] 0x1388 : ps_iface_ipfltr.c(1066) : Jensen udp ps_iface_ipfltri_process_default 4
+[19:58:55] 0x1388 : ps_ppp.c(3956) : PPP 1 out True----->
+[19:58:55] 0x1388 : ps_ppp.c(3974) : PPP 1 out False------>
+[19:58:55] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:55] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:58:56] 0x1388 : quectel_led.c(211) : [lory][qmi]:gpio=1018,status=2,on=1800,off=200
+[19:58:56] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:57] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:58] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:58] 0x1388 : ps_ppp.c(3848) : ppp_input(1) on free device True----->
+[19:58:58] 0x1388 : quectel_led.c(211) : [lory][qmi]:gpio=1018,status=2,on=125,off=125
+[19:58:58] 0x1388 : ps_ppp_fsm.c(2013) : fsm_proc(dev 1, protocol 0xc021, state 9) with msg 5
+[19:58:58] 0x1388 : ps_ppp_fsm.c(3054) : fsm_down(dev 1, proto 0x8021, state 9)
+[19:58:58] 0x1388 : ps_ppp_snpip.c(1581) : Snoop IP dev 1, ev 1 in state 2
+[19:58:58] 0x1388 : ps_ppp_fsm.c(3054) : fsm_down(dev 1, proto 0x8057, state 0)
+[19:58:58] 0x1388 : ps_ppp_ncp.c(1347) : ncpi_all_bring_down device : 1
+[19:58:58] 0x1388 : ps_mem.c(1348) : ps_mem_index_to_buf(): Dynamic home entry is NULL for index 7, pool 119
+[19:58:58] 0x1388 : ps_ppp_fsm.c(1234) : [Max][AUTH] RECV TERM REQ!! update ppp auth param set_flag by TRUE
+[19:58:58] 0x1388 : quectel_common_atc.c(13263) : [Max][AUTH] NOT FOUND SET_FLAG!!!!
+[19:58:58] 0x1388 : ps_ppp_fsm.c(1240) : fsm_termack (dev 1, proto 0xc021)
+[19:58:58] 0x1388 : ps_ppp_fsm.c(519) : fsm_send: dev=1, code=6, id=2
+[19:58:58] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x0) called for instance 86fe32a8
+[19:58:58] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x1) called for instance 86fe32a8
+[19:58:58] 0x1388 : ps_hdlc_lib.c(1721) : HDlC instance 0x86fe32a8, accm set to 0xffffffff
+[19:58:58] 0x1388 : ps_hdlc_lib.c(1690) : hdlc_ioctl(0x1) called for instance 86fe32a8
+[19:58:58] 0x1388 : ps_hdlc_lib.c(1721) : HDlC instance 0x86fe32a8, accm set to 0x0
+[19:58:58] 0x1388 : ps_ppp_fsm.c(2775) : leaving fsm_proc(device 1, protocol 0xc021, state 5)
+[19:58:58] 0x1388 : ps_ppp.c(3871) : ppp_input(1) on free device False------>
+[19:58:58] 0x1388 : ps_ppp_snpip.c(257) : Snoop IP dev 1 state 2 to 0
+[19:58:58] 0x1388 : pstimer.c(471) : ps_timeri_client_cmd_cb(): Timer 6 expired - calling callback
+[19:58:58] 0x1388 : ps_ppp_lcp.c(2288) : dev 1 LCP Timer Expired state=5
+[19:58:58] 0x1388 : ps_ppp_fsm.c(2882) : if1 STOPPING timeout: PPP Done
+[19:58:58] 0x1388 : ps_pppi.c(5330) : pppi_report_event_to_diag: dev (1), prot (0), state (3)
+[19:58:58] 0x1388 : ps_ppp.c(3320) : ppp_abort(dev 1)
+[19:58:58] 0x1388 : ps_ppp.c(3320) : ppp_abort(dev 1)
+[19:58:58] 0x1388 : ps_ppp.c(3333) : ppp_abort(1) on free device!
+[19:58:58] 0x1388 : ps_ppp_task.c(763) : PPP processing ABORT cmd
+[19:58:58] 0x1388 : ps_mem.c(1348) : ps_mem_index_to_buf(): Dynamic home entry is NULL for index 7, pool 119
+[19:58:58] 0x1388 : ps_pppi.c(5610) : Resetting Pseudonet state machine, moving to FINDING_7E
+[19:58:58] 0x1388 : ps_ppp_snpip.c(1581) : Snoop IP dev 1, ev 1 in state 0
+[19:58:58] 0x1388 : ps_pppi.c(2549) : Entering pppi_set_mode(dev 1), old_mode = 0x5, new_mode = 0x0
+[19:58:58] 0x1388 : ps_pppi.c(2737) : Leaving pppi_set_mode(dev 1), old_mode = 0x5, new_mode = 0x0
+[19:58:58] 0x1388 : ps_pppi.c(5119) : Protocol = 0 , Event called = 0 Fail Reason = 0
+[19:58:58] 0x1388 : ps_pppi.c(5330) : pppi_report_event_to_diag: dev (1), prot (0), state (4)
+[19:58:58] 0x1388 : ps_pppi.c(5330) : pppi_report_event_to_diag: dev (1), prot (3), state (4)
+[19:58:58] 0x1388 : ps_pppi.c(5330) : pppi_report_event_to_diag: dev (1), prot (4), state (4)
+[19:58:58] 0x1388 : ps_policy_mgr.c(255) : ps_policy_mgr_get_priority(): Empty DB
+[19:58:58] 0x1388 : ps_iface.c(4636) : Tearing down iface 0x8004:0, old priority 0x80000000, req app priority 31
+[19:58:58] 0x1388 : ps_iface.c(4646) : Tearing down iface 0x8004:0, state 16, ref_cnt 0, new priority 0x0
+[19:58:58] 0x1388 : ps_ifacei_event.c(2518) : ps_iface_up_ind(): IFACE UP IND 0x8004:0, state 16
+[19:58:58] 0x1388 : ps_flowi.c(1104) : ps_flowi_bind_phys_link(): Flow, 0x86fff728, is already bound
+[19:58:58] 0x1388 : ps_ifacei_event.c(2583) : [DataCnt] [[[ ps_iface_update_stats_on_up_state exec ]]]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4378) : [GDCNT][CD2] Quectel_GDCNTUpdateCallId
+[19:58:58] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 6
+[19:58:58] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:58] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 7
+[19:58:58] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:58] 0x1388 : quectel_nw_atc.c(4291) : [GDCNT][CD2] check callid_0: if not in s_QuecDataCntInfo, add it
+[19:58:58] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4309) : [GDCNT][CD2] Quectel_GDCNTNewItemCheckAndCreate : callid_0 is already exist !
+[19:58:58] 0x1388 : quectel_nw_atc.c(4324) : [GDCNT][CD2] Quectel_GDCNTUpdateCntByCallId : callid=0
+[19:58:58] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4332) : [GDCNT][CD2] u64RxCnt=252, pItem->u64PreItemRxCnt=0, pItem->u64ItemRxInc=0
+[19:58:58] 0x1388 : quectel_nw_atc.c(4333) : [GDCNT][CD2] u64TxCnt=252, pItem->u64PreItemTxCnt=0, pItem->u64ItemTxInc=0
+[19:58:58] 0x1388 : quectel_nw_atc.c(4367) : [GDCNT][CD2] s_QuecDataCntInfo: u64TotalTxCnt=868, u64TotalRxCnt=988
+[19:58:58] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 10, handle 0x843d2f20
+[19:58:58] 0x1388 : ps_route.c(2806) : ps_route_lo_update(): LO routing table updated w/iface 0x8004:0
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(111) : PSIfaceEventCback(): Ev 10 Iface 0x843d2f20
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 10, group 0, handle 0x843d2f20
+[19:58:58] 0x1388 : ds_qmi_wds.c(24094) : Recvd iface ev 10 from i/f 0x843d2f20
+[19:58:58] 0x1388 : ds_qmi_wds.c(5741) :  qmi_wdsi_generate_dun_call_info_ind Event [10] Iface Name [0x8004], Tech Name [0x8004]
+[19:58:58] 0x1388 : ds_qmi_wds.c(5832) : Proc id for Um Iface 0x843d2f20 is 0x7fffffff
+[19:58:58] 0x1388 : ds_qmi_wds.c(5872) : Proc id for Um Iface 0x843d2f20 is 0x7fffffff
+[19:58:58] 0x1388 : ps_iface_ioctl.c(388) : ps_iface_ioctl(): IOCTL 62, iface 0x8004:0
+[19:58:58] 0x1388 : ps_ifacei_event.c(2977) : ps_iface_generic_ind(): IFACE GENERIC EVENT IND 0x8004:0, event 70
+[19:58:58] 0x1388 : ds_qmi_wds.c(24170) : Recvd iface ev 70 for UM iface_ptr 0x843d2f20
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe6528, ref cnt 1, iid 0x1072d07
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe6528, appType 2147483647
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe6528, if name 0x8001
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe6528, group 0x1
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe6528, prof 0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe6528, prof 0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe6528, apn name len 255, apn name 0xd121cbb8
+[19:58:58] 0x1388 : ps_ifacei_event.c(2977) : ps_iface_generic_ind(): IFACE GENERIC EVENT IND 0x8004:0, event 58
+[19:58:58] 0x1388 : ps_ifacei_event.c(535) : [DataCnt][CD2] [[[ ps_iface_update_stats_on_down_state exec ]]]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4378) : [GDCNT][CD2] Quectel_GDCNTUpdateCallId
+[19:58:58] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 6
+[19:58:58] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:58] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 7
+[19:58:58] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:58] 0x1388 : quectel_nw_atc.c(4291) : [GDCNT][CD2] check callid_0: if not in s_QuecDataCntInfo, add it
+[19:58:58] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4309) : [GDCNT][CD2] Quectel_GDCNTNewItemCheckAndCreate : callid_0 is already exist !
+[19:58:58] 0x1388 : quectel_nw_atc.c(4324) : [GDCNT][CD2] Quectel_GDCNTUpdateCntByCallId : callid=0
+[19:58:58] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4332) : [GDCNT][CD2] u64RxCnt=252, pItem->u64PreItemRxCnt=252, pItem->u64ItemRxInc=252
+[19:58:58] 0x1388 : quectel_nw_atc.c(4333) : [GDCNT][CD2] u64TxCnt=252, pItem->u64PreItemTxCnt=252, pItem->u64ItemTxInc=252
+[19:58:58] 0x1388 : quectel_nw_atc.c(4367) : [GDCNT][CD2] s_QuecDataCntInfo: u64TotalTxCnt=868, u64TotalRxCnt=988
+[19:58:58] 0x1388 : ps_iface_dns_cache.c(1715) : ps_iface_dns_cache_flush(): Flushing the cache for iface index 15
+[19:58:58] 0x1388 : ps_iface_addr_mgmt.c(2539) : ps_iface_addr_mgmt_free_ext_v6_addresses(): Start
+[19:58:58] 0x1388 : ps_iface_addr_mgmt.c(2615) : ps_iface_addr_mgmt_free_ext_v6_addresses(): Finished
+[19:58:58] 0x1388 : ds_qmi_wds.c(24094) : Recvd iface ev 58 from i/f 0x843d2f20
+[19:58:58] 0x1388 : ds_qmi_wds.c(5741) :  qmi_wdsi_generate_dun_call_info_ind Event [58] Iface Name [0x8004], Tech Name [0x8004]
+[19:58:58] 0x1388 : ds_qmi_wds.c(5928) : Got DOWN_EV on non-DUN iface_ptr 0x843d2f20 name 0x8004:0
+[19:58:58] 0x1388 : ds_qmi_wds.c(5939) : Saved DUN Um iface netdown reason 0x307d0 mapped to QMI end reason 2
+[19:58:58] 0x1388 : ds_qmi_wds.c(5962) : Proc id for Um Iface 0x843d2f20 is 0x1
+[19:58:58] 0x1388 : ps_iface.c(2021) : ps_iface_set_bridge(): bridging 0x843d2f20(32) to 0x0
+[19:58:58] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:58] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe7708, ref cnt 1, iid 0x1072d07
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe7708, appType 2147483647
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe7708, if name 0x8001
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe7708, group 0x1
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe7708, prof 0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe7708, prof 0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe7708, apn name len 255, apn name 0xd121cbb8
+[19:58:58] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:58] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:58] 0x1388 : ps_iface.c(2021) : ps_iface_set_bridge(): bridging 0x86ffda00(32) to 0x0
+[19:58:58] 0x1388 : ps_iface.c(2021) : ps_iface_set_bridge(): bridging 0x843d2f20(32) to 0x0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x86fe8f08, ref cnt 1, iid 0x1072d07
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 2
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x86fe8f08, appType 2147483647
+[19:58:58] 0x1388 : ps_ifacei_event.c(2703) : ps_iface_phys_link_down_ind(): IFACE PHYS LINK DOWN IND 0x8008:0, state 32
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x86fe8f08, if name 0x8001
+[19:58:58] 0x1388 : ps_phys_linki_event.c(969) : ps_phys_link_down_ind_ex(): PHYS LINK DOWN IND 0x86ffe450, state 4
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x86fe8f08, group 0x1
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x86fe8f08, prof 0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x86fe8f08, prof 0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x86fe8f08, apn name len 255, apn name 0xd121cbb8
+[19:58:58] 0x1388 : ps_flowi_event.c(351) : ps_flowi_phys_link_event_cback(): Processing event, 0 on phys link 0x86ffe450 for flow 0x86ff8618
+[19:58:58] 0x1388 : ps_ifacei_event.c(806) : ps_ifacei_phys_link_event_cback(): Phys link evt 0 on iface=0x8008:0
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(208) : PhysLinkEventCback(): Ev 0 PhysLink 0x86ffe450
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(235) : PhysLinkEventCback(): Success
+[19:58:58] 0x1388 : ps_ifacei_event.c(2188) : ps_iface_down_ind_ex(): IFACE DOWN IND 0x8008:0, state 32
+[19:58:58] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x3 0x0
+[19:58:58] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x3 0x0
+[19:58:58] 0x1388 : ps_ifacei_event.c(535) : [DataCnt][CD2] [[[ ps_iface_update_stats_on_down_state exec ]]]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4378) : [GDCNT][CD2] Quectel_GDCNTUpdateCallId
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(463) : Policy::QueryInterface(): Obj 0x870fabe8, ref cnt 1, iid 0x1072d07
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(180) : Policy::GetAddressFamily(): Addr family 0
+[19:58:58] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 6
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(602) : Policy::GetAppType(): Obj 0x870fabe8, appType 0
+[19:58:58] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(313) : Policy::GetIfaceName(): Obj 0x870fabe8, if name 0x7fff
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(355) : Policy::GetIfaceGroup(): Obj 0x870fabe8, group 0x1
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(393) : Policy::GetCDMAProfileNumber(): Obj 0x870fabe8, prof 0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(432) : Policy::GetUMTSProfileNumber(): Obj 0x870fabe8, prof 0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(230) : Policy::GetRouteable(): Routeable mode 1
+[19:58:58] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 7
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(270) : Policy::GetIfaceId(): Iface ID 0x0
+[19:58:58] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:58] 0x1388 : ds_Net_Policy.cpp(506) : Policy::GetUMTSAPNName(): Obj 0x870fabe8, apn name len 255, apn name 0xd121cbb8
+[19:58:58] 0x1388 : quectel_nw_atc.c(4291) : [GDCNT][CD2] check callid_0: if not in s_QuecDataCntInfo, add it
+[19:58:58] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4309) : [GDCNT][CD2] Quectel_GDCNTNewItemCheckAndCreate : callid_0 is already exist !
+[19:58:58] 0x1388 : quectel_nw_atc.c(4324) : [GDCNT][CD2] Quectel_GDCNTUpdateCntByCallId : callid=0
+[19:58:58] 0x1388 : quectel_nw_atc.c(4243) : [GDCNT][CD2] Quectel_GetItemByCallId: find item OK![callid:0, ui:0]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4332) : [GDCNT][CD2] u64RxCnt=0, pItem->u64PreItemRxCnt=252, pItem->u64ItemRxInc=252
+[19:58:58] 0x1388 : quectel_nw_atc.c(4333) : [GDCNT][CD2] u64TxCnt=0, pItem->u64PreItemTxCnt=252, pItem->u64ItemTxInc=252
+[19:58:58] 0x1388 : quectel_nw_atc.c(4337) : [GDCNT][CD2] Quectel_GDCNTUpdateCntByCallId : Maybe RX less and less! Amazing...[u64RxCnt 0,u64PreItemRxCnt_252, call_id: 0]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4342) : [GDCNT][CD2] Quectel_GDCNTUpdateCntByCallId : Maybe TX less and less! Amazing...[u64TxCnt 0,u64PreItemTxCnt_252, call_id: 0]
+[19:58:58] 0x1388 : quectel_nw_atc.c(4367) : [GDCNT][CD2] s_QuecDataCntInfo: u64TotalTxCnt=868, u64TotalRxCnt=988
+[19:58:58] 0x1388 : ps_iface_dns_cache.c(1715) : ps_iface_dns_cache_flush(): Flushing the cache for iface index 11
+[19:58:58] 0x1388 : ps_iface.c(7302) : ps_iface_set_mtu(): Set MTU to 1500 on iface 0x8008:0, client passed 1500 as MTU
+[19:58:58] 0x1388 : ps_iface_ipfltr.c(2903) : ps_iface_ipfltr_delete(): Deleting fltrs from iface 0x8008:0
+[19:58:58] 0x1388 : ps_iface_ipfltr.c(2903) : ps_iface_ipfltr_delete(): Deleting fltrs from iface 0x8008:0
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(111) : PSIfaceEventCback(): Ev 14 Iface 0x86ffda00
+[19:58:58] 0x1388 : ds_qmi_wds.c(24094) : Recvd iface ev 14 from i/f 0x86ffda00
+[19:58:58] 0x1388 : ds_qmi_wds.c(5741) :  qmi_wdsi_generate_dun_call_info_ind Event [14] Iface Name [0x8008], Tech Name [0x8008]
+[19:58:58] 0x1388 : ds_qmi_wds.c(5888) : DUN call disconnected, netdown reason 0x307d0
+[19:58:58] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 6
+[19:58:58] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:58] 0x1388 : quectel_common_atc.c(13263) : [Max][AUTH] NOT FOUND SET_FLAG!!!!
+[19:58:58] 0x1388 : ds_3gpp_rmsm_ip_common.c(2761) : Deregistering with FC for CPU stats
+[19:58:58] 0x1388 : dsumts_rmsmi.c(4692) : RMSM De-registered with FC
+[19:58:58] 0x1388 : quectel_nw_atc.c(9441) : [Max][PPP][TermFrame][LoadParamFromNV] Get nv item OK[bEnableTag_NV:0]
+[19:58:58] 0x1388 : ds3gsiolib_ex.c(1052) : DS SIO = AUTODETECT
+[19:58:58] 0x1388 : qmi_framework.c(495) : Got QMI service 3 message for unassigned client 0 instance 1! discarding
+[19:58:58] 0x1388 : qmi_framework.c(826) : Msg header validation failed - unable to send Response for cmd 4
+[19:58:58] 0x1388 : qmi_framework.c(786) : Client 4 has been released, drop indication
+[19:58:58] 0x1388 : qmi_framework.c(786) : Client 5 has been released, drop indication
+[19:58:58] 0x1388 : qmi_framework.c(786) : Client 6 has been released, drop indication
+[19:58:58] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:58] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:58] 0x1388 : NetPlatformLib.cpp(3699) : Route scope is 0x8003 0x0
+[19:58:58] 0x1388 : ps_stat_iface.c(1228) : ps_stat_get_iface(): iface 0x8004:0 stat 7
+[19:58:58] 0x1388 : NetPlatformLib.cpp(3589) : Route scope is 0x8003 0x0
+[19:58:58] 0x1388 : ps_stat_iface.c(1259) : ps_stat_get_iface(): Getting stat adjustment from iface 0x8004:0
+[19:58:58] 0x1388 : ds_qmi_wds.c(16994) : Writing DUN callhistory record
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:58] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 70, handle 0x843d2f20
+[19:58:58] 0x1388 : ps_ppp.c(3320) : ppp_abort(dev 1)
+[19:58:58] 0x1388 : ps_ppp.c(3333) : ppp_abort(1) on free device!
+[19:58:58] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 49, handle 0x843d2f20
+[19:58:58] 0x1388 : ps_ppp_callbacks.c(2663) : PPP Meta state from 0 to 0
+[19:58:58] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 58, handle 0x843d2f20
+[19:58:58] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 0, handle 0x86ffe450
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 0, group 0, handle 0x86ffe450
+[19:58:58] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:58] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 77, handle 0x86ffda00
+[19:58:58] 0x1388 : ds3gsiolib.c(7791) : Resetting the Modem port: 6
+[19:58:58] 0x1388 : ds_Net_EventManager.cpp(182) : ProcessEventCmdHandler(): Process event 14, handle 0x86ffda00
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(394) : ProcessGenericEventCmdHandler(): Processing ev 14, group 0, handle 0x86ffda00
+[19:58:58] 0x1388 : ds_Sock_EventManager.cpp(411) : ProcessGenericEventCmdHandler(): Processed cmd 125
+[19:58:58] 0x1388 : ds_qmi_wds_pbm.c(980) : Added new DS call history record to PBM with ID 16385
+[19:58:58] 0x1388 : ds_qmi_wds.c(24941) : De-Reg DUN phys_link events (um_iface_ptr=0x843d2f20)
+[19:58:58] 0x1388 : ds_qmi_wds.c(27639) : changing call status to 2
+[19:58:58] 0x1388 : ds_qmi_wds.c(6435) : Recvd DUN channel rate (event=1)
+[19:58:58] 0x1388 : ds_qmi_wds.c(6450) : channel rates (DUN): tx 50000000, rx 100000000
+[19:58:58] 0x1388 : ds_qmi_wds.c(6452) : last reported rates: tx 50000000, rx 100000000
+[19:58:58] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:58] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:58] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:58] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:58] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:58] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:58] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:58] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:58] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:58] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:58] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:58] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:58] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:58] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:58] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:58] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:58] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:58] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:58] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:58] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:58] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:58] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:58] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:58] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:58] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:58] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:58] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:58] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:58] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:58] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:58] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:58] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:58] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:58] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:58] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:58] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:58] 0x1388 : ds3gsiolib.c(980) : in non_empty_cb, port id 6
+[19:58:58] 0x1388 : ds3gsiolib.c(991) : Setting rx signal
+[19:58:58] 0x1388 : ds3gsiolib.c(5548) : DS_DATA_PORT_1ST_SIO_RX_SIG was not active
+[19:58:58] 0x1388 : ds3gsiolib.c(4269) : calling dsat_process_sio_command
+[19:58:58] 0x1388 : dsatprep.c(1641) : [quectel_francis] dsat_process_sio_command preprocessor_mode 0
+[19:58:58] 0x1388 : siors232_mdd.c(1914) : [Max][DTR] siors_uart1_dtr_level_check: dtr level is 1
+[19:58:58] 0x1388 : quec_power.c(700) : get_uart_dtr_value DTR Status 0, port 1
+[19:58:58] 0x1388 : ds3gsiolib.c(7438) : Called service ports ds3g_siolib_port_waiting_mask = 0,ds3g_siolib_active_ext_client = 4294967295,dsatcmdp_processing_async_cmd= 0
+[19:58:58] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:58] 0x1388 : quec_ap_ready.c(182) : [francis][quectel_check_ap_state] READY!apready is not enable
+[19:58:58] 0x1388 : ds3gsiolib.c(2086) : [Max][DTR] DTR Status = 0, Port ID = 6
+[19:58:58] 0x1388 : ds3gsiolib.c(2127) : [Max][DTR] DTR signal counters: prev = 2, curr = 1, error_code = 4294967295
+[19:58:59] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:58:59] 0x1388 : quectel_common_atc.c(15756) : quectel_wcdma_rrc_counter_cb rrc connect counter 0, setting counter 0 dsatetsicmif_get_pref_nw_mode 2
+[19:58:59] 0x1388 : quectel_remotefs_task.c(523) : [QRFS TASK]Proc dog hb sig
+[19:59:00] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:01] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:02] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:59:02] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:03] 0x1388 : quectel_led.c(211) : [lory][qmi]:gpio=1018,status=2,on=1800,off=200
+[19:59:03] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:04] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:04] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:59:04] 0x1388 : quectel_common_atc.c(15756) : quectel_wcdma_rrc_counter_cb rrc connect counter 0, setting counter 0 dsatetsicmif_get_pref_nw_mode 2
+[19:59:04] 0x1388 : quectel_remotefs_task.c(523) : [QRFS TASK]Proc dog hb sig
+[19:59:05] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:06] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:07] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:08] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:08] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:59:09] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:09] 0x1388 : quectel_common_atc.c(15756) : quectel_wcdma_rrc_counter_cb rrc connect counter 0, setting counter 0 dsatetsicmif_get_pref_nw_mode 2
+[19:59:09] 0x1388 : quectel_remotefs_task.c(523) : [QRFS TASK]Proc dog hb sig
+[19:59:10] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:11] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:59:11] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:12] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:13] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:13] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:59:14] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:14] 0x1388 : quectel_common_atc.c(15756) : quectel_wcdma_rrc_counter_cb rrc connect counter 0, setting counter 0 dsatetsicmif_get_pref_nw_mode 2
+[19:59:14] 0x1388 : quectel_remotefs_task.c(523) : [QRFS TASK]Proc dog hb sig
+[19:59:15] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:16] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:17] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:18] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:19] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:19] 0x1388 : quectel_common_atc.c(15756) : quectel_wcdma_rrc_counter_cb rrc connect counter 0, setting counter 0 dsatetsicmif_get_pref_nw_mode 2
+[19:59:19] 0x1388 : quectel_remotefs_task.c(523) : [QRFS TASK]Proc dog hb sig
+[19:59:20] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:59:20] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:21] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:22] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:22] 0x1388 : ds_rmnet_meta_sm.c(8679) : Unhandled cm ss event (1) ignoring
+[19:59:23] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:24] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:24] 0x1388 : quectel_common_atc.c(15756) : quectel_wcdma_rrc_counter_cb rrc connect counter 0, setting counter 0 dsatetsicmif_get_pref_nw_mode 2
+[19:59:24] 0x1388 : quectel_remotefs_task.c(523) : [QRFS TASK]Proc dog hb sig
+[19:59:25] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:26] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:27] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:28] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:29] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig
+[19:59:29] 0x1388 : quectel_common_atc.c(15756) : quectel_wcdma_rrc_counter_cb rrc connect counter 0, setting counter 0 dsatetsicmif_get_pref_nw_mode 2
+[19:59:29] 0x1388 : quectel_remotefs_task.c(523) : [QRFS TASK]Proc dog hb sig
+[19:59:30] 0x1388 : quectel_remotefs_task.c(543) : [QRFS TASK]Proc timer out sig

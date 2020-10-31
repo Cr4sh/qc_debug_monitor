@@ -1,0 +1,1847 @@
+[19:58:46] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:58:46] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:58:46] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmif_ex.c, 2621)
+[19:58:46] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:58:46] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:58:46] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:58:46] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:58:46] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:58:46] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:58:46] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:58:46] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:58:47] 0x1394 : ds3gsiolib.c(1992) : [Max][DTR] [ds3g_siolib_dtr_event_wm_non_empty_cb:1992]
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatrsp.c(332) : Command output 
+OK
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:47] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:47] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:47] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2028390496 (dsatcmdp.c, 1972)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatcmdp.c, 1366)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(1496) : Command Name E Op = 0xb
+[19:58:47] 0x1394 : dsatcmdp.c(1500) : arg[0] = 0
+[19:58:47] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:47] 0x1394 : dsatparm.c(388) : dsatparm_exec_param_cmd
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatrsp.c(332) : Command output 
+OK
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:47] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:47] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:47] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2028390496 (dsatcmdp.c, 1972)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatcmdp.c, 1366)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(1496) : Command Name I Op = 0x1
+[19:58:47] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:47] 0x1394 : dsatact.c(4155) : dsatact_exec_ati_cmd
+[19:58:47] 0x1394 : dsatact.c(4166) : dsatact_exec_ati_cmd
+[19:58:47] 0x1394 : dsatact.c(4178) : dsatact_exec_ati_cmd
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatrsp.c(332) : Command output 
+Quectel
+EC25
+Revision: EC25EFAR06A04M4G
+
+OK
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:47] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:47] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:47] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2028390496 (dsatcmdp.c, 1972)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatcmdp.c, 1366)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(1496) : Command Name +CSQ Op = 0x1
+[19:58:47] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatrsp.c(332) : Command output 
++CSQ: 16,99
+
+OK
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:47] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:47] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:47] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2028390496 (dsatcmdp.c, 1972)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatcmdp.c, 1366)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(1496) : Command Name +CPIN Op = 0x5
+[19:58:47] 0x1394 : dsatcmdp.c(1500) : arg[0] =
+[19:58:47] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatrsp.c(332) : Command output 
++CPIN: READY
+
+OK
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:47] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:47] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:47] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2028390496 (dsatcmdp.c, 1972)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatcmdp.c, 1366)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:47] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:47] 0x1394 : dsatcmdp.c(1496) : Command Name +COPS Op = 0x5
+[19:58:47] 0x1394 : dsatcmdp.c(1500) : arg[0] =
+[19:58:47] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatetsicall.c(9226) : [dsatetsicall_exec_cops_cmd:9226]==kenneth0808== nwinfo_ptr->sys_mode = [0]
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatetsicall.c(9227) : [dsatetsicall_exec_cops_cmd:9227]==kenneth0808== current_mode = [2]
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:47] 0x1394 : dsatme.c(9467) : Session id = 2029678207, Response type = 65, Status = 0
+[19:58:47] 0x1394 : dsatutil_ex.c(2893) : Allocated DS command buffer 0x30 of payload size -2027844864 (dsatme.c, 9470)
+[19:58:47] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x4 of size -2027733808 (dsatme.c, 9509)
+[19:58:47] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x80 of size -2028348368 (dsatme.c, 9516)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil.c(6368) : Enter FUNC_DCS_TextEscapeGsm7bitAlloc(6368),FUNC_FAIL! uSrcMaxLen:24 is less than uLimitLen:25
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatetsicall.c, 12971)
+[19:58:47] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 16 on DSM packet in pool 0x854279c0 (dsatetsicall.c, 12971)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(2452) : dsatcmdp_process_async_cmd, result_code: 0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatrsp.c(332) : Command output 
++COPS: 0,0,"",7
+
+OK
+[19:58:47] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:47] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:47] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:47] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:47] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:47] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:47] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:47] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:47] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:47] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2028390496 (dsatcmdp.c, 1972)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatcmdp.c, 1366)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:48] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:48] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:48] 0x1394 : dsatcmdp.c(1496) : Command Name +CGREG Op = 0x5
+[19:58:48] 0x1394 : dsatcmdp.c(1500) : arg[0] =
+[19:58:48] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatrsp.c(332) : Command output 
++CGREG: 0,1
+
+OK
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:48] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:48] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:48] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:48] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:48] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:48] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2028390496 (dsatcmdp.c, 1972)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatcmdp.c, 1366)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:48] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:48] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:48] 0x1394 : dsatcmdp.c(1496) : Command Name Z Op = 0x1
+[19:58:48] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:48] 0x1394 : dsatparm.c(388) : dsatparm_exec_param_cmd
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:459
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:459
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:459
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:459
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:240
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:240
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:240
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:240
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:241
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:241
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:241
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:241
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:297
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:297
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:297
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:297
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:298
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:298
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:298
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:298
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:429
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:429
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:429
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:429
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:450
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:450
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:450
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:450
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:928
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:928
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:928
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:928
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:929
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:929
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:929
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:929
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:2790
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:2790
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:2790
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:2790
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:5773
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:5773
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:5773
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:5773
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:423
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:423
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:423
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:423
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:424
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:424
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:424
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:424
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:454
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:454
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:454
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:454
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:1019
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:1019
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:1019
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:1019
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:850
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:850
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:850
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:850
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:850
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:850
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:850
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:850
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:850
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:850
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:850
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:850
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:850
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:850
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:850
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:850
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:850
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:850
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:850
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:850
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:855
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:855
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:855
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:855
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:4961
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:4961
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:4961
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:4961
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:4962
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:4962
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:4962
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:4962
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:7255
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:7255
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:7255
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:7255
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatrsp.c(332) : Command output 
+OK
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:48] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:48] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:48] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:48] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:48] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:48] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2028390496 (dsatcmdp.c, 1972)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatcmdp.c, 1366)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:48] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:48] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:48] 0x1394 : dsatcmdp.c(1496) : Command Name +CGDCONT Op = 0xb
+[19:58:48] 0x1394 : dsatcmdp.c(1500) : arg[0] = 1
+[19:58:48] 0x1394 : dsatcmdp.c(1500) : arg[1] = "IP"
+[19:58:48] 0x1394 : dsatcmdp.c(1500) : arg[2] = ""
+[19:58:48] 0x1394 : dsatcmdp.c(1500) : arg[3] =
+[19:58:48] 0x1394 : dsatcmdp.c(1500) : arg[4] = 0
+[19:58:48] 0x1394 : dsatcmdp.c(1500) : arg[5] = 0
+[19:58:48] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatparm.c(388) : dsatparm_exec_param_cmd
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatetsipkt.c(1446) : [Quec][ProfileMemLeak] tok_ptr->args_found=6,sizeof=11
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatetsipkt.c(1501) : [Quec][ProfileMemLeak] param is same just return
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatrsp.c(332) : Command output 
+OK
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:48] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:48] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:48] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:48] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:48] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:48] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2430)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:48] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2028390496 (dsatcmdp.c, 1972)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmdp.c, 1280)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatcmdp.c, 1366)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:48] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:48] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:48] 0x1394 : dsatcmdp.c(1496) : Command Name D Op = 0x3
+[19:58:48] 0x1394 : dsatcmdp.c(1500) : arg[0] = T*99#
+[19:58:48] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatact.c(5576) : Curr mode = 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil.c(2155) : strcmp_pkt_dial_str result = 1
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatact.c(2045) : [Max][DTR] WARNING: [ATD] current dtr is not asserted! force set to TRUE
+[19:58:48] 0x1394 : dsatact.c(2045) : [Max][DTR] WARNING: [ATD] current dtr is not asserted! force set to TRUE
+[19:58:48] 0x1394 : dsatact.c(2209) : current_mode is 2
+[19:58:48] 0x1394 : dsatact.c(2229) : current_mode updated to 2
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x86c of size -2030745600 (dsatme.c, 1462)
+[19:58:48] 0x1394 : pbmutils.c(3155) : Enter check_pb_ready(3150),PHB_NOTE: session_type:PBM_SESSION_GPB_1,device_type:PBM_DIALED,status:PBM_STATUS_READY,ret:PBM_SUCCESS
+[19:58:48] 0x1394 : pbmutils.c(3155) : Enter check_pb_ready(3150),PHB_NOTE: session_type:PBM_SESSION_GPB_1,device_type:PBM_DIALED,status:PBM_STATUS_READY,ret:PBM_SUCCESS
+[19:58:48] 0x1394 : pbmutils.c(3155) : Enter check_pb_ready(3150),PHB_NOTE: session_type:PBM_SESSION_GPB_1,device_type:PBM_DIALED,status:PBM_STATUS_READY,ret:PBM_SUCCESS
+[19:58:48] 0x1394 : pbmutils.c(3155) : Enter check_pb_ready(3150),PHB_NOTE: session_type:PBM_SESSION_GPB_1,device_type:PBM_DIALED,status:PBM_STATUS_READY,ret:PBM_SUCCESS
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:48] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:48] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:5774
+[19:58:48] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:5774
+[19:58:48] 0x1394 : nvim.c(2778) : nvim_get_perm,item:5774
+[19:58:48] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:48] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:48] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:5774
+[19:58:48] 0x1394 : quectel_nw_atc.c(7322) : [Max][PPP] uiOp=1, bValue=0, s_bPPPTermProcessed=1
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatrsp.c(2984) : PS call rate updated UL: 150000000 DL: 50000000 radio zone speed: 150000000
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f43a8 (dsatrsp.c, 2343)
+[19:58:48] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatrsp.c, 1732)
+[19:58:48] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:48] 0x1394 : dsatrsp.c(332) : Command output 
+CONNECT 150000000
+[19:58:48] 0x1394 : ds3gsiolib.c(7151) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : ds3gsiolib.c(7280) : !!!!!!!ERROR:port_id:6
+[19:58:48] 0x1394 : quectel_common_atc.c(8453) : quectel:send ind(0x106) val(5)
+[19:58:48] 0x1394 : dsatutil_ex.c(2893) : Allocated DS command buffer 0x140 of payload size -2028420464 (dsatme_ex.c, 849)
+[19:58:48] 0x1394 : dsatme_ex.c(1004) : Enter dsatme_pbm_cb_cmd_handler(1002),PHB_NOTE: cmd:CB_NONE
+[19:58:48] 0x1394 : pbm.c(1960) : Enter pbm_int_record_write(1957),PHB_NOTE: device_type:PBM_DIALED,ret_val:PBM_SUCCESS
+[19:58:48] 0x1394 : dsatcmdp.c(2452) : dsatcmdp_process_async_cmd, result_code: -17
+[19:58:48] 0x1394 : dsatme_ex.c(419) : Enter ds_pbm_if_event_callback(416),PHB_NOTE: event:PBM_EVENT_REC_UPDATE,data/sim_id:58
+[19:58:49] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:1
+[19:58:49] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:49] 0x1394 : quectel_led.c(935) : quectel_netlight_switch: last_state=3, current_state=1
+[19:58:49] 0x1394 : quectel_led.c(938) : quectel_net_ps_transfer_hold=0
+[19:58:49] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:49] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:1
+[19:58:49] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:49] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:49] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:1
+[19:58:49] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:49] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:49] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:1
+[19:58:49] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:49] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(723) : ds3gpp_rt_acl_post_proc
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:1
+[19:58:49] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:49] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:49] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:1
+[19:58:49] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:49] 0x1394 : ds_3gpp_rmsm_ip_common.c(4775) : 111chris ds_3gpp_rmsm_ip_common_process_rm_ppp_up_ev
+[19:58:49] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:49] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:49] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:49] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:49] 0x1394 : quectel_file_task.c(162) : qfile_kick_dog
+[19:58:49] 0x1394 : quectel_fwd_task.c(113) : qfwd_kick_dog
+[19:58:49] 0x1394 : quectel_apptcpip_task.c(187) : apptcpip_kick_dog
+[19:58:49] 0x1394 : ds_mux.c(194) : ds_mux_kick_dog
+[19:58:51] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:58:51] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:58:51] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmif_ex.c, 2621)
+[19:58:51] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:58:51] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:58:51] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:58:51] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:58:51] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:58:51] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:58:51] 0x1394 : quectel_led.c(1033) : quectel_netlight_net_status_control,last_net_status=1, current_net_status=3
+[19:58:51] 0x1394 : quectel_led.c(935) : quectel_netlight_switch: last_state=1, current_state=3
+[19:58:51] 0x1394 : quectel_led.c(938) : quectel_net_ps_transfer_hold=4
+[19:58:51] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:58:51] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:58:52] 0x1394 : quectel_led.c(935) : quectel_netlight_switch: last_state=1, current_state=3
+[19:58:52] 0x1394 : quectel_led.c(938) : quectel_net_ps_transfer_hold=0
+[19:58:53] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:58:53] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:58:53] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37ba8 (dsatcmif_ex.c, 2621)
+[19:58:53] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:58:53] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:58:53] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:58:53] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:58:53] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:58:53] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:58:53] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:58:53] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:58:53] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:0
+[19:58:53] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:53] 0x1394 : quectel_led.c(935) : quectel_netlight_switch: last_state=3, current_state=1
+[19:58:53] 0x1394 : quectel_led.c(938) : quectel_net_ps_transfer_hold=0
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:53] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:53] 0x1394 : gstk_state.c(161) : Enter gstk_process_state(157),STK_NOTE: [1]->gstk_state:GSTK_IDLE_S,command_group:GSTK_MM_IDLE_CMD
+[19:58:53] 0x1394 : gstk_nv.c(2982) : Enter gstk_nv_access_int(2977),STK_NOTE: [1]->op_categ:GSTK_NV_OP_CATEG_ACCESS_READ,item_type:GSTK_NV_SLOT_CAT_VERSION,sub_id:4
+[19:58:53] 0x1394 : dsatcmif_ex.c(3602) : Enter cmif_call_event_cb_func(3597),CALL_NOTE: event:CM_CALL_EVENT_RAB_REESTAB_IND,call_type:CM_CALL_TYPE_PS_DATA,call_state:CM_CALL_STATE_CONV,info_type:CM_CALL_MODE_INFO_
+[19:58:53] 0x1394 : dsatutil_ex.c(2893) : Allocated DS command buffer 0x218 of payload size -2027855792 (dsatcmif_ex.c, 3621)
+[19:58:53] 0x1394 : ui_base.c(1288) : [chris]ui_call_event_cb: call_event:37, call_id=0
+[19:58:53] 0x1394 : dsatcmif.c(5469) : Enter FUNC_CALL_IsLteDefPsCall(5469),FUNC_NOTE: SUCC,iSeqNum:1
+[19:58:53] 0x1394 : dsatetsicall_ex.c(1912) : Enter QL_CIND_sCallIsSuppCall(1912),CALL_FAIL! call_id:0 is default PS call,ignore it. call_type:2
+[19:58:53] 0x1394 : dsatetsicall_ex.c(2053) : Enter QL_CIND_CallReport(2053),CALL_FAIL! QL_CIND_sCallIsSuppCall FAIL!
+[19:58:53] 0x1394 : dsatcmdp.c(2452) : dsatcmdp_process_async_cmd, result_code: -17
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:53] 0x1394 : ps_ppp.c(3960) : ppp_output, quectel_escape:0
+[19:58:53] 0x1394 : ps_ppp.c(3966) : ppp_output
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:53] 0x1394 : ps_ppp.c(3978) : ppp_output
+[19:58:53] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:53] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:53] 0x1394 : quectel_common_atc.c(25391) : [duke][LPM]CMD ERROR DstaskCmdFlag=0 RiEnableFlag=0 qsclk=0 RiTimerRuningFlag=0
+[19:58:54] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:0
+[19:58:54] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:54] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:54] 0x1394 : ps_ppp.c(3960) : ppp_output, quectel_escape:0
+[19:58:54] 0x1394 : ps_ppp.c(3966) : ppp_output
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:54] 0x1394 : ps_ppp.c(3978) : ppp_output
+[19:58:54] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:54] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:54] 0x1394 : quectel_common_atc.c(25391) : [duke][LPM]CMD ERROR DstaskCmdFlag=0 RiEnableFlag=0 qsclk=0 RiTimerRuningFlag=0
+[19:58:54] 0x1394 : quectel_file_task.c(162) : qfile_kick_dog
+[19:58:54] 0x1394 : quectel_fwd_task.c(113) : qfwd_kick_dog
+[19:58:54] 0x1394 : quectel_apptcpip_task.c(187) : apptcpip_kick_dog
+[19:58:54] 0x1394 : ds_mux.c(194) : ds_mux_kick_dog
+[19:58:55] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:0
+[19:58:55] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:55] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:55] 0x1394 : ps_ppp.c(3960) : ppp_output, quectel_escape:0
+[19:58:55] 0x1394 : ps_ppp.c(3966) : ppp_output
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:55] 0x1394 : ps_ppp.c(3978) : ppp_output
+[19:58:55] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:55] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:55] 0x1394 : quectel_common_atc.c(25391) : [duke][LPM]CMD ERROR DstaskCmdFlag=0 RiEnableFlag=0 qsclk=0 RiTimerRuningFlag=0
+[19:58:55] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:58:55] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:58:55] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatcmif_ex.c, 2621)
+[19:58:55] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:58:55] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:58:55] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:58:55] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:58:55] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:58:55] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:58:55] 0x1394 : quectel_led.c(1033) : quectel_netlight_net_status_control,last_net_status=1, current_net_status=3
+[19:58:55] 0x1394 : quectel_led.c(935) : quectel_netlight_switch: last_state=1, current_state=3
+[19:58:55] 0x1394 : quectel_led.c(938) : quectel_net_ps_transfer_hold=4
+[19:58:55] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:58:55] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:58:56] 0x1394 : quectel_led.c(935) : quectel_netlight_switch: last_state=1, current_state=3
+[19:58:56] 0x1394 : quectel_led.c(938) : quectel_net_ps_transfer_hold=0
+[19:58:58] 0x1394 : ps_ppp.c(3851) : ppp_input, quectel_escape:0
+[19:58:58] 0x1394 : ps_ppp.c(3857) : ppp_input
+[19:58:58] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:58] 0x1394 : quectel_led.c(1066) : on/off: 1
+[19:58:58] 0x1394 : quectel_led.c(935) : quectel_netlight_switch: last_state=3, current_state=1
+[19:58:58] 0x1394 : quectel_led.c(938) : quectel_net_ps_transfer_hold=0
+[19:58:58] 0x1394 : quectel_nw_atc.c(7322) : [Max][PPP] uiOp=1, bValue=1, s_bPPPTermProcessed=0
+[19:58:58] 0x1394 : ps_ppp.c(3874) : ppp_input
+[19:58:58] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:58] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:58] 0x1394 : ds_3gpp_rmsm_ip_common.c(4631) : 111chris ds_3gpp_rmsm_ip_common_process_rm_ppp_down_ev
+[19:58:58] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:58] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:58] 0x1394 : cmcall.c(19570) : [duke][CSD] call_state 3  call_type 2 flag 0
+[19:58:58] 0x1394 : quectel_led.c(1065) : quectel_switch_ps_data_transfer
+[19:58:58] 0x1394 : quectel_led.c(1066) : on/off: 0
+[19:58:58] 0x1394 : ds_3gpp_rt_acl.c(1566) : ds3gpp_rt_is_pref_sys
+[19:58:58] 0x1394 : ds_3gpp_rt_acl.c(1699) : ds_3gpp_rt_is_cfg_supp
+[19:58:58] 0x1394 : ds_3gpp_rt_acl.c(1785) : ds3gpp_rt_is_cfg_supported
+[19:58:58] 0x1394 : nvim.c(3443) : nv_cmd_ext,item:7281
+[19:58:58] 0x1394 : nvim.c(4682) : nv_validate_cmd,item:7281
+[19:58:58] 0x1394 : nvim.c(2778) : nvim_get_perm,item:7281
+[19:58:58] 0x1394 : ds_3gpp_rt_acl.c(1905) : ds3gpp_rt_is_cfg_supported2
+[19:58:58] 0x1394 : nvim.c(4694) : nv_validate_cmd,perm:64
+[19:58:58] 0x1394 : nvim.c(3468) : nv_cmd_ext,nv_val:1
+[19:58:58] 0x1394 : nvim.c(4834) : nv_verify_access_ruim,item:7281
+[19:58:58] 0x1394 : quectel_nw_atc.c(7445) : [Max][PPP] No need to send term req to peer
+[19:58:58] 0x1394 : quectel_common_atc.c(8453) : quectel:send ind(0x106) val(7)
+[19:58:58] 0x1394 : dsatcmdp.c(2715) : Invalid SIO port: 4294967295
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatrsp.c, 1732)
+[19:58:58] 0x1394 : dsatrsp.c(2033) : dsat_send_call_event_urc_ext,urc_type=2,port=6
+[19:58:58] 0x1394 : quectel_urc.c(649) : [Quectel] [dsat_send_urc_ext] urc buffer = NO CARRIER,item_ptr->used = 10
+[19:58:58] 0x1394 : quectel_urc.c(182) : [Quectel] [Function : dsat_get_urc_ri_type],urc_ri_type:2
+[19:58:58] 0x1394 : quectel_urc.c(700) : [dsat_send_urc_ext]: urc_sio_port_id:6
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : quectel_urc.c(703) : [dsat_send_urc_ext]: dsatcmdp_processing_async_cmd:0,dsatcmdp_block_indications = 1
+[19:58:58] 0x1394 : siors232_mdd.c(2277) : siors_uart1_baudrate_is_synced - siors_baudrate_synced: 1, baud rate: 57600
+[19:58:58] 0x1394 : quectel_ri.c(421) : [Function :quectel_ri_urc_action],RI pull none
+[19:58:58] 0x1394 : quectel_urc.c(722) : [dsat_send_urc_ext]: [U]urc_delay:0
+[19:58:58] 0x1394 : quectel_urc.c(367) : [Chris] [dsat_send_unicast_urc],modem_port:6,active_port:-1
+[19:58:58] 0x1394 : quectel_urc.c(446) : dsat_send_unicast_urc active_port= -1
+[19:58:58] 0x1394 : quectel_urc.c(452) : dsat_send_unicast_urc ds3g_siolib_send_data_to_port [F]
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:58] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:58] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:58] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:58] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:58] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : pbmutils.c(3155) : Enter check_pb_ready(3150),PHB_NOTE: session_type:UNKNOWN MACRO,device_type:PBM_DIALED,status:PBM_STATUS_READY,ret:PBM_SUCCESS
+[19:58:58] 0x1394 : pbmutils.c(3155) : Enter check_pb_ready(3150),PHB_NOTE: session_type:UNKNOWN MACRO,device_type:PBM_DIALED,status:PBM_STATUS_READY,ret:PBM_SUCCESS
+[19:58:58] 0x1394 : pbmutils.c(3155) : Enter check_pb_ready(3150),PHB_NOTE: session_type:UNKNOWN MACRO,device_type:PBM_DIALED,status:PBM_STATUS_READY,ret:PBM_SUCCESS
+[19:58:58] 0x1394 : pbmutils.c(3155) : Enter check_pb_ready(3150),PHB_NOTE: session_type:UNKNOWN MACRO,device_type:PBM_DIALED,status:PBM_STATUS_READY,ret:PBM_SUCCESS
+[19:58:58] 0x1394 : pbmutils.c(3155) : Enter check_pb_ready(3150),PHB_NOTE: session_type:UNKNOWN MACRO,device_type:PBM_DIALED,status:PBM_STATUS_READY,ret:PBM_SUCCESS
+[19:58:58] 0x1394 : pbm.c(1960) : Enter pbm_int_record_write(1957),PHB_NOTE: device_type:PBM_DIALED,ret_val:PBM_SUCCESS
+[19:58:58] 0x1394 : dsatme_ex.c(419) : Enter ds_pbm_if_event_callback(416),PHB_NOTE: event:PBM_EVENT_REC_UPDATE,data/sim_id:57
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3c28 (dsatprep.c, 3574)
+[19:58:58] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:58] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:58] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatrsp.c, 1732)
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3c28 (dsatprep.c, 3574)
+[19:58:58] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:58] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:58] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatrsp.c, 1732)
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3c28 (dsatprep.c, 3574)
+[19:58:58] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:58] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:58] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatrsp.c, 1732)
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3c28 (dsatprep.c, 3574)
+[19:58:58] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=0
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:58] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:58] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3c28 (dsatrsp.c, 2430)
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84b37568 (dsatrsp.c, 1732)
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:58] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=1
+[19:58:58] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:58] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:58] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatrsp.c, 2430)
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatrsp.c, 1732)
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3c28 (dsatprep.c, 3574)
+[19:58:58] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:58] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:58] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:58] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=0
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3c28 (dsatrsp.c, 2430)
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatrsp.c, 1732)
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x856afcc4 in pool 0x849f3f28 (dsatprep.c, 3574)
+[19:58:58] 0x1394 : dsatprep.c(1954) : process_at_cmd_mode, at_cmd_prep_state=2
+[19:58:58] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:58] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:58] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0xcc of size -2027845504 (dsatcmdp.c, 1972)
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatcmdp.c, 1280)
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acdde8 (dsatcmdp.c, 1366)
+[19:58:58] 0x1394 : ds3gsiolib.c(1992) : [Max][DTR] [ds3g_siolib_dtr_event_wm_non_empty_cb:1992]
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(1034) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:58] 0x1394 : dsatcmdp.c(1077) : is found:0
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(1111) : ATCoP Operating mode = 9, Present mode = 2
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : quectel_wms_atc.c(1656) : Enter QCFG_LTSMFM_IsCdmaValid(1656), QCFG_FAIL! eCurMode:2,sg_uQcfgLtesmsFormat:1.
+[19:58:58] 0x1394 : dsatcmdp.c(1153) : is found:0
+[19:58:58] 0x1394 : dsatcmdp.c(1496) : Command Name H Op = 0x1
+[19:58:58] 0x1394 : dsatcmdp.c(1513) : Pin State :: PIN REQURIED : 5 PIN BLOCKED : 0
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acdde8 (dsatrsp.c, 1732)
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatrsp.c(332) : Command output 
+OK
+[19:58:58] 0x1394 : ds3gsiolib.c(7168) : !!!!!!!ERROR:port_id:6
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : quectel_urc.c(764) : [lory] [dsat_flush_urc] bAPReady = 1
+[19:58:58] 0x1394 : quectel_urc.c(782) : [Quectel] [dsat_flush_urc] urc_delay_enable = 0
+[19:58:58] 0x1394 : quectel_urc.c(803) : [Chris] [dsat_flush_urc] port_id = 6
+[19:58:58] 0x1394 : quectel_urc.c(816) : [Quectel][Flush urc] URC: queued - Q count: 0
+[19:58:58] 0x1394 : quectel_ds_tcpip.c(6142) : dsat_tcpip_flush_pending_rpt_socket_data:dsat_tcpip_mgr.pending_push_socket_index_flag :0
+[19:58:58] 0x1394 : quectel_ds_tcpip.c(6145) : dsat_tcpip_flush_pending_rpt_socket_data:dsati_tx_wm_high:0
+[19:58:58] 0x1394 : dsatcmdp.c(2366) : [Francis] [dsat_flush_urc] bAPReady = 1
+[19:58:58] 0x1394 : dsatcmdp.c(891) : dsatcmdp_get_sio_info_ptr
+[19:58:58] 0x1394 : dsatprep.c(3621) : dump_echo
+[19:58:58] 0x1394 : dsatprep.c(2246) : process_at_cmd_mode, at_detect=1
+[19:58:59] 0x1394 : quectel_file_task.c(162) : qfile_kick_dog
+[19:58:59] 0x1394 : quectel_fwd_task.c(113) : qfwd_kick_dog
+[19:58:59] 0x1394 : quectel_apptcpip_task.c(187) : apptcpip_kick_dog
+[19:58:59] 0x1394 : ds_mux.c(194) : ds_mux_kick_dog
+[19:59:02] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:59:02] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:59:02] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatcmif_ex.c, 2621)
+[19:59:02] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:59:02] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:59:02] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:59:02] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:59:02] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:59:02] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:59:02] 0x1394 : quectel_led.c(1033) : quectel_netlight_net_status_control,last_net_status=1, current_net_status=3
+[19:59:02] 0x1394 : quectel_led.c(935) : quectel_netlight_switch: last_state=1, current_state=3
+[19:59:02] 0x1394 : quectel_led.c(938) : quectel_net_ps_transfer_hold=4
+[19:59:02] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:59:02] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:59:03] 0x1394 : quectel_led.c(935) : quectel_netlight_switch: last_state=1, current_state=3
+[19:59:03] 0x1394 : quectel_led.c(938) : quectel_net_ps_transfer_hold=0
+[19:59:04] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:59:04] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:59:04] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatcmif_ex.c, 2621)
+[19:59:04] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:59:04] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:59:04] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:59:04] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:59:04] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:59:04] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:59:04] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:59:04] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:59:04] 0x1394 : quectel_fwd_task.c(113) : qfwd_kick_dog
+[19:59:04] 0x1394 : quectel_file_task.c(162) : qfile_kick_dog
+[19:59:04] 0x1394 : quectel_apptcpip_task.c(187) : apptcpip_kick_dog
+[19:59:04] 0x1394 : ds_mux.c(194) : ds_mux_kick_dog
+[19:59:07] 0x1394 : uim.c(7359) : Enter uim_need_intermediate_sel(7355),SIM_NOTE: No need for intermediate select,curr_ch:0,q_cnt:0,command:UIM_INTERNAL_POLL_F,Curr Path:
+[19:59:08] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:59:08] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:59:08] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatcmif_ex.c, 2621)
+[19:59:08] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:59:08] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:59:08] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:59:08] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:59:08] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:59:08] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:59:08] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:59:08] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:59:09] 0x1394 : quectel_file_task.c(162) : qfile_kick_dog
+[19:59:09] 0x1394 : quectel_fwd_task.c(113) : qfwd_kick_dog
+[19:59:09] 0x1394 : quectel_apptcpip_task.c(187) : apptcpip_kick_dog
+[19:59:09] 0x1394 : ds_mux.c(194) : ds_mux_kick_dog
+[19:59:11] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:59:11] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:59:11] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatcmif_ex.c, 2621)
+[19:59:11] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:59:11] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:59:11] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:59:11] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:59:11] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:59:11] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:59:11] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:59:11] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:59:13] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:59:13] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:59:13] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatcmif_ex.c, 2621)
+[19:59:13] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:59:13] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:59:13] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:59:13] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:59:13] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:59:13] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:59:13] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:59:13] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:59:14] 0x1394 : quectel_fwd_task.c(113) : qfwd_kick_dog
+[19:59:14] 0x1394 : quectel_file_task.c(162) : qfile_kick_dog
+[19:59:14] 0x1394 : quectel_apptcpip_task.c(187) : apptcpip_kick_dog
+[19:59:14] 0x1394 : ds_mux.c(194) : ds_mux_kick_dog
+[19:59:19] 0x1394 : quectel_fwd_task.c(113) : qfwd_kick_dog
+[19:59:19] 0x1394 : quectel_file_task.c(162) : qfile_kick_dog
+[19:59:19] 0x1394 : quectel_apptcpip_task.c(187) : apptcpip_kick_dog
+[19:59:19] 0x1394 : ds_mux.c(194) : ds_mux_kick_dog
+[19:59:20] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:59:20] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:59:20] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatcmif_ex.c, 2621)
+[19:59:20] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:59:20] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:59:20] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:59:20] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:59:20] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:59:20] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:59:20] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:59:20] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:59:22] 0x1394 : dsatcmif_ex.c(2398) : [chris]cmif_ss_event_msim_cb_func
+[19:59:22] 0x1394 : dsatutil_ex.c(2771) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 2403)
+[19:59:22] 0x1394 : dsatutil_ex.c(1224) : Allocated DSM item 0x854279c0 in pool 0x84acd168 (dsatcmif_ex.c, 2621)
+[19:59:22] 0x1394 : dsatutil_ex.c(1288) : Pushed down data of size 448 on DSM packet in pool 0x854279c0 (dsatcmif_ex.c, 2621)
+[19:59:22] 0x1394 : dsatutil_ex.c(2731) : Allocated heap memory block 0x1c0 of size -2028420464 (dsatcmif_ex.c, 3307)
+[19:59:22] 0x1394 : dsatcmif_ex.c(1864) : [chris]dsatcmif_cm_ss_event_handler_ex
+[19:59:22] 0x1394 : dsatcmif_ex.c(1913) : Enter dsatcmif_cm_ss_event_handler_ex(1907),NET_NOTE: event:1,number_of_stacks:1,subs_mode:2,sys_mode[MAIN]:9,sys_mode[HYBR]:0.
+[19:59:22] 0x1394 : quectel_led.c(1008) : quectel_netlight_net_status_control,srv_status=2, sys_mode=9
+[19:59:22] 0x1394 : quectel_led.c(1017) : quectel_netlight_net_status_control,call_connect_state=2
+[19:59:22] 0x1394 : dsatcmdp.c(2512) : dsatcmdp_process_async_signal
+[19:59:22] 0x1394 : dsatcmdp.c(2530) : dsatcmdp_process_async_signal, result_code: -17
+[19:59:24] 0x1394 : quectel_fwd_task.c(113) : qfwd_kick_dog
+[19:59:24] 0x1394 : quectel_file_task.c(162) : qfile_kick_dog
+[19:59:24] 0x1394 : quectel_apptcpip_task.c(187) : apptcpip_kick_dog
+[19:59:24] 0x1394 : ds_mux.c(194) : ds_mux_kick_dog
+[19:59:29] 0x1394 : quectel_fwd_task.c(113) : qfwd_kick_dog
+[19:59:29] 0x1394 : quectel_file_task.c(162) : qfile_kick_dog
+[19:59:29] 0x1394 : quectel_apptcpip_task.c(187) : apptcpip_kick_dog
+[19:59:29] 0x1394 : ds_mux.c(194) : ds_mux_kick_dog

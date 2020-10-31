@@ -1,0 +1,84 @@
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 13 alg 16
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a77620 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 15 alg 6
+[19:58:53] 0x157c : lte_security.c(345) : Key Generation successful
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a83780 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 13 alg 14
+[19:58:53] 0x157c : secencarmaes.c(1272) : ENC: Generating ARM AES subkeys ...
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a83780 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 13 alg 14
+[19:58:53] 0x157c : secencarmaes.c(1272) : ENC: Generating ARM AES subkeys ...
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a83780 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 13 alg 14
+[19:58:53] 0x157c : secencarmaes.c(1272) : ENC: Generating ARM AES subkeys ...
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a83780 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 13 alg 14
+[19:58:53] 0x157c : secencarmaes.c(1272) : ENC: Generating ARM AES subkeys ...
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a83780 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 13 alg 14
+[19:58:53] 0x157c : secencarmaes.c(1272) : ENC: Generating ARM AES subkeys ...
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2
+[19:58:53] 0x157c : seccrypti.c(857) : CRYi: Sec Instance Malloc Ok: Addr = 0x86a837d0 Index = 2
+[19:58:53] 0x157c : seccryptarm.c(182) : CRYarm: Ins0 Re-init ARM platform op 13 alg 14
+[19:58:53] 0x157c : secencarmaes.c(1272) : ENC: Generating ARM AES subkeys ...
+[19:58:53] 0x157c : seccrypti.c(974) : CRYi: Del ARM Ins0
+[19:58:53] 0x157c : seccrypti.c(1068) : CRYi: Sec Instance Freed Ok: Addr = 0x0 Index = 2

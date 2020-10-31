@@ -1,0 +1,169 @@
+[19:58:45] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x531a294c
+[19:58:45] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x531a2a05
+[19:58:45] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=374, timetick=0x531a9194
+[19:58:45] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x531ce6fc
+[19:58:45] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x531ce7c6
+[19:58:45] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=374, timetick=0x531d22ac
+[19:58:45] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5377ee8b
+[19:58:45] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5377ef49
+[19:58:45] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=375, timetick=0x53785764
+[19:58:45] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x537aa571
+[19:58:45] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x537aa633
+[19:58:45] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=375, timetick=0x537ae017
+[19:58:46] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x53d5a872
+[19:58:46] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x53d5a930
+[19:58:46] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=376, timetick=0x53d61727
+[19:58:46] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x53d86a17
+[19:58:46] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x53d86ad5
+[19:58:46] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=376, timetick=0x53d8a47c
+[19:58:46] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5433673f
+[19:58:46] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x54336801
+[19:58:46] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=377, timetick=0x5433d74d
+[19:58:46] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x54362509
+[19:58:46] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x543625ca
+[19:58:46] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=377, timetick=0x5436605d
+[19:58:46] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5491308e
+[19:58:46] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5491315c
+[19:58:46] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=378, timetick=0x54919c94
+[19:58:46] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5493e0f8
+[19:58:46] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5493e1bf
+[19:58:46] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=378, timetick=0x54941d25
+[19:58:47] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x54eeeb4b
+[19:58:47] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x54eeec14
+[19:58:47] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=379, timetick=0x54ef5ab1
+[19:58:47] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x54f1a5f7
+[19:58:47] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x54f1a6bc
+[19:58:47] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=379, timetick=0x54f1e0d5
+[19:58:47] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x554ca810
+[19:58:47] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x554ca8d7
+[19:58:47] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=380, timetick=0x554d18f8
+[19:58:47] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x554f636d
+[19:58:47] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x554f6433
+[19:58:47] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=380, timetick=0x554f9dea
+[19:58:47] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x55aa740a
+[19:58:47] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x55aa74e0
+[19:58:47] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=381, timetick=0x55aae55b
+[19:58:47] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x55ad21f9
+[19:58:47] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x55ad22bc
+[19:58:47] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=381, timetick=0x55ad6074
+[19:58:48] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x560814d9
+[19:58:48] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x56081555
+[19:58:48] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=382, timetick=0x560861b3
+[19:58:48] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x560ad720
+[19:58:48] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x560ad7f2
+[19:58:48] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=382, timetick=0x560b1399
+[19:58:48] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5665f242
+[19:58:48] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5665f305
+[19:58:48] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=383, timetick=0x56665f69
+[19:58:48] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5668a458
+[19:58:48] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5668a51d
+[19:58:48] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=383, timetick=0x5668de87
+[19:58:48] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x56c3b1a7
+[19:58:48] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x56c3b25d
+[19:58:48] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=384, timetick=0x56c420a8
+[19:58:48] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x56c660a3
+[19:58:48] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x56c66161
+[19:58:48] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=384, timetick=0x56c69f44
+[19:58:48] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x57216d0f
+[19:58:48] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x57216dd0
+[19:58:48] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=385, timetick=0x5721dc66
+[19:58:49] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x572423b6
+[19:58:49] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x57242471
+[19:58:49] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=385, timetick=0x57245e5f
+[19:58:49] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x577f2876
+[19:58:49] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x577f2929
+[19:58:49] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=386, timetick=0x577f9684
+[19:58:49] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5781e53c
+[19:58:49] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5781e5fe
+[19:58:49] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=386, timetick=0x57821fdb
+[19:58:49] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x57dcf1cc
+[19:58:49] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x57dcf29f
+[19:58:49] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=387, timetick=0x57dd629a
+[19:58:49] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x57df9d92
+[19:58:49] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x57df9e58
+[19:58:49] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=387, timetick=0x57dfda0d
+[19:58:49] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x583ab346
+[19:58:49] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x583ab418
+[19:58:49] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=388, timetick=0x583b20bb
+[19:58:50] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x583d5eed
+[19:58:50] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x583d5fb7
+[19:58:50] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=388, timetick=0x583d9cbb
+[19:58:50] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x589868c1
+[19:58:50] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x58986981
+[19:58:50] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=389, timetick=0x5898d7a8
+[19:58:50] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x589b2097
+[19:58:50] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x589b2169
+[19:58:50] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=389, timetick=0x589b5ec3
+[19:58:50] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x58f62c43
+[19:58:50] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x58f62cf2
+[19:58:50] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=390, timetick=0x58f69661
+[19:58:50] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x58f8ea99
+[19:58:50] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x58f8eb69
+[19:58:50] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=390, timetick=0x58f92720
+[19:58:50] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5953ec36
+[19:58:50] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5953ecef
+[19:58:50] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=391, timetick=0x59545b3e
+[19:58:50] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5956a605
+[19:58:50] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5956a6c7
+[19:58:50] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=391, timetick=0x5956e06e
+[19:58:51] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x59b1b34e
+[19:58:51] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x59b1b409
+[19:58:51] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=392, timetick=0x59b22184
+[19:58:51] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x59b46067
+[19:58:51] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x59b46131
+[19:58:51] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=392, timetick=0x59b49ee2
+[19:58:51] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5a0f71bb
+[19:58:51] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5a0f7277
+[19:58:51] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=393, timetick=0x5a0fde33
+[19:58:51] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5a1221c3
+[19:58:51] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5a12228c
+[19:58:51] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=393, timetick=0x5a125e49
+[19:58:51] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5a6d2d41
+[19:58:51] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5a6d2e03
+[19:58:51] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=394, timetick=0x5a6d9b81
+[19:58:51] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5a6fe38f
+[19:58:51] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5a6fe456
+[19:58:51] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=394, timetick=0x5a701df6
+[19:58:52] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5acaeafd
+[19:58:52] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5acaebbe
+[19:58:52] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=395, timetick=0x5acb5760
+[19:58:52] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5acda934
+[19:58:52] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5acda9fa
+[19:58:52] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=395, timetick=0x5acde611
+[19:58:52] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5b28a9e1
+[19:58:52] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5b28aaa3
+[19:58:52] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=396, timetick=0x5b291a26
+[19:58:52] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5b2b59d9
+[19:58:52] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5b2b5a95
+[19:58:52] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=396, timetick=0x5b2b96d3
+[19:58:52] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5b866d1f
+[19:58:52] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5b866dda
+[19:58:52] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=397, timetick=0x5b86db21
+[19:58:52] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5b891c5e
+[19:58:52] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5b891d2b
+[19:58:52] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=397, timetick=0x5b895a0c
+[19:58:53] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5be42c78
+[19:58:53] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5be42d46
+[19:58:53] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=398, timetick=0x5be49b88
+[19:58:53] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5be6de69
+[19:58:53] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5be6df2c
+[19:58:53] 0x0040 : a2_power.c(2128) : A2 turned OFF by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x0, num_shutdowns=398, timetick=0x5be71c78
+[19:58:53] 0x0040 : a2_power.c(902) : A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5bf9fd41
+[19:58:53] 0x0040 : a2_power.c(3433) : Process A2 power req from client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5bf9fdcb
+[19:58:53] 0x0040 : a2_power.c(1927) : A2 turned ON by client=3[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req_bmask=0x8, num_wakeups=399, timetick=0x5bfa1e90
+[19:58:53] 0x0040 : a2_power.c(902) : A2 power req from client=2[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5bfdf787
+[19:58:53] 0x0040 : a2_power.c(3433) : Process A2 power req from client=2[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5bfdf832
+[19:58:53] 0x0040 : a2_dl_phy.c(1225) : Set A2 DL PHY to IMMEDIATE INT mis_int=0
+[19:58:53] 0x0040 : a2_dl_phy.c(1242) : Set A2 DL PHY to PERIODIC INT mis_int=0
+[19:58:53] 0x0040 : a2_power.c(3433) : Process A2 power req from client=13[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5c2df036
+[19:58:53] 0x0040 : a2_dl_per.c(7016) : A2 NO TAGS PENDING tag task sent num_probable_msg_sent=8, num_actual_msg_sent=8, curr_time=0x5c2dfbbb
+[19:58:53] 0x0040 : a2_task.c(2695) : A2 NO TAGS PENDING tag task received num_probable_msg_send=8, num_actual_msg_read=8, curr_time=0x5c2dfbdc
+[19:58:53] 0x0040 : a2_power.c(3433) : Process A2 power req from client=13[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5c2e015c
+[19:58:54] 0x0040 : a2_power.c(3433) : Process A2 power req from client=13[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5d240657
+[19:58:54] 0x0040 : a2_dl_per.c(7016) : A2 NO TAGS PENDING tag task sent num_probable_msg_sent=9, num_actual_msg_sent=9, curr_time=0x5d2411a0
+[19:58:54] 0x0040 : a2_task.c(2695) : A2 NO TAGS PENDING tag task received num_probable_msg_send=9, num_actual_msg_read=9, curr_time=0x5d2411c3
+[19:58:54] 0x0040 : a2_power.c(3433) : Process A2 power req from client=13[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5d241632
+[19:58:55] 0x0040 : a2_power.c(3433) : Process A2 power req from client=13[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=1, timetick=0x5e48fe13
+[19:58:55] 0x0040 : a2_dl_per.c(7016) : A2 NO TAGS PENDING tag task sent num_probable_msg_sent=10, num_actual_msg_sent=10, curr_time=0x5e490955
+[19:58:55] 0x0040 : a2_task.c(2695) : A2 NO TAGS PENDING tag task received num_probable_msg_send=10, num_actual_msg_read=10, curr_time=0x5e490978
+[19:58:55] 0x0040 : a2_power.c(3433) : Process A2 power req from client=13[(0,1)=INT,(2,4,7,9)=L/W/TD/DO UL,(3,5,8,10)=L/W/TD/DO DL,(11)=APPS,(12,13)=A2PER,(14)=DL_INACT], req=0, timetick=0x5e490e33

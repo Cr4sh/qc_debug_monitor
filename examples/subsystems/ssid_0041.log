@@ -1,0 +1,27 @@
+[19:58:46] 0x0041 : qcmap_netlink.cpp(1285) : qcmap_packet_sock_recv_msg(): ND packet received
+[19:58:46] 0x0041 : qcmap_netlink.cpp(1299) : qcmap_packet_sock_recv_msg(): Not ICMPV6 packet 0x0: ignore
+[19:58:46] 0x0041 : qcmap_utils.c(769) : qcmap_listener_start(): Error on read callback[1] fd=23
+[19:58:48] 0x0041 : qcmap_cm.cpp(1902) : qcmap_cm_qmi_nas_ind(): qcmap_cm_qmi_nas_ind: user_handle 2 msg_id 262 ind_buf_len 4.
+[19:58:48] 0x0041 : ds_qmi_qcmap_msgr.cpp(2298) : main(): some fd set, 16, qcmap_dsi_sockfd:14, qcmap_nl_sockfd:19
+[19:58:48] 0x0041 : ds_qmi_qcmap_msgr.cpp(2364) : main(): 
+
+Received Message from nas_context
+[19:58:48] 0x0041 : qcmap_cm.cpp(1332) : qcmap_cm_process_qmi_nas_ind(): qcmap_cm_process_qmi_nas_ind: user_handle 2 msg_id 262 ind_buf_len 4.
+[19:58:48] 0x0041 : qcmap_cm.cpp(1902) : qcmap_cm_qmi_nas_ind(): qcmap_cm_qmi_nas_ind: user_handle 6 msg_id 262 ind_buf_len 4.
+[19:58:48] 0x0041 : ds_qmi_qcmap_msgr.cpp(2298) : main(): some fd set, 16, qcmap_dsi_sockfd:14, qcmap_nl_sockfd:19
+[19:58:48] 0x0041 : ds_qmi_qcmap_msgr.cpp(2364) : main(): 
+
+Received Message from nas_context
+[19:58:48] 0x0041 : qcmap_cm.cpp(1332) : qcmap_cm_process_qmi_nas_ind(): qcmap_cm_process_qmi_nas_ind: user_handle 6 msg_id 262 ind_buf_len 4.
+[19:58:58] 0x0041 : qcmap_cm.cpp(1902) : qcmap_cm_qmi_nas_ind(): qcmap_cm_qmi_nas_ind: user_handle 2 msg_id 262 ind_buf_len 4.
+[19:58:58] 0x0041 : ds_qmi_qcmap_msgr.cpp(2298) : main(): some fd set, 16, qcmap_dsi_sockfd:14, qcmap_nl_sockfd:19
+[19:58:58] 0x0041 : ds_qmi_qcmap_msgr.cpp(2364) : main(): 
+
+Received Message from nas_context
+[19:58:58] 0x0041 : qcmap_cm.cpp(1332) : qcmap_cm_process_qmi_nas_ind(): qcmap_cm_process_qmi_nas_ind: user_handle 2 msg_id 262 ind_buf_len 4.
+[19:58:58] 0x0041 : qcmap_cm.cpp(1902) : qcmap_cm_qmi_nas_ind(): qcmap_cm_qmi_nas_ind: user_handle 6 msg_id 262 ind_buf_len 4.
+[19:58:58] 0x0041 : ds_qmi_qcmap_msgr.cpp(2298) : main(): some fd set, 16, qcmap_dsi_sockfd:14, qcmap_nl_sockfd:19
+[19:58:58] 0x0041 : ds_qmi_qcmap_msgr.cpp(2364) : main(): 
+
+Received Message from nas_context
+[19:58:58] 0x0041 : qcmap_cm.cpp(1332) : qcmap_cm_process_qmi_nas_ind(): qcmap_cm_process_qmi_nas_ind: user_handle 6 msg_id 262 ind_buf_len 4.

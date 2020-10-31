@@ -1,0 +1,29 @@
+[19:58:49] 0x0053 : tlm_task.c(407) : tlm received msg id 9
+[19:58:53] 0x0053 : tlm_task.c(407) : tlm received msg id 1
+[19:58:53] 0x0053 : tlm_ptm.c(6648) : Failed to request WCDMA cell ID
+[19:58:53] 0x0053 : tlm_task.c(407) : tlm received msg id 74
+[19:58:53] 0x0053 : tlm_ptm.c(5851) : Slowclock Update, Fcount:0, wk:0, msec:0
+[19:58:53] 0x0053 : tlm_ptm.c(5864) : Injected slow clk rejected, valid:0, sysRtcValid:0, src:7
+[19:58:54] 0x0053 : tlm_task.c(407) : tlm received msg id 9
+[19:58:59] 0x0053 : tlm_task.c(407) : tlm received msg id 9
+[19:59:03] 0x0053 : tlm_task.c(407) : tlm received msg id 1
+[19:59:03] 0x0053 : tlm_ptm.c(6648) : Failed to request WCDMA cell ID
+[19:59:03] 0x0053 : tlm_task.c(407) : tlm received msg id 74
+[19:59:03] 0x0053 : tlm_ptm.c(5851) : Slowclock Update, Fcount:0, wk:0, msec:0
+[19:59:03] 0x0053 : tlm_ptm.c(5864) : Injected slow clk rejected, valid:0, sysRtcValid:0, src:7
+[19:59:04] 0x0053 : tlm_task.c(407) : tlm received msg id 9
+[19:59:09] 0x0053 : tlm_task.c(407) : tlm received msg id 9
+[19:59:13] 0x0053 : tlm_task.c(407) : tlm received msg id 1
+[19:59:13] 0x0053 : tlm_ptm.c(6648) : Failed to request WCDMA cell ID
+[19:59:13] 0x0053 : tlm_task.c(407) : tlm received msg id 74
+[19:59:13] 0x0053 : tlm_ptm.c(5851) : Slowclock Update, Fcount:0, wk:0, msec:0
+[19:59:13] 0x0053 : tlm_ptm.c(5864) : Injected slow clk rejected, valid:0, sysRtcValid:0, src:7
+[19:59:14] 0x0053 : tlm_task.c(407) : tlm received msg id 9
+[19:59:19] 0x0053 : tlm_task.c(407) : tlm received msg id 9
+[19:59:23] 0x0053 : tlm_task.c(407) : tlm received msg id 1
+[19:59:23] 0x0053 : tlm_ptm.c(6648) : Failed to request WCDMA cell ID
+[19:59:23] 0x0053 : tlm_task.c(407) : tlm received msg id 74
+[19:59:23] 0x0053 : tlm_ptm.c(5851) : Slowclock Update, Fcount:0, wk:0, msec:0
+[19:59:23] 0x0053 : tlm_ptm.c(5864) : Injected slow clk rejected, valid:0, sysRtcValid:0, src:7
+[19:59:24] 0x0053 : tlm_task.c(407) : tlm received msg id 9
+[19:59:29] 0x0053 : tlm_task.c(407) : tlm received msg id 9

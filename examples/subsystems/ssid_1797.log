@@ -1,0 +1,10 @@
+[19:58:48] 0x1797 : pbmlib.c(1201) : PBM: Attempt to write 2 fields to record 0xffffffff
+[19:58:48] 0x1797 : pbmlib.c(1295) : PBM: pbm_record_write writing 2 fields to record 0x2403a
+[19:58:48] 0x1797 : pbmefs.c(1170) : efs write rec len 29
+[19:58:48] 0x1797 : pbmutils.c(5183) : PBM sending event 1 to clients, for record id 147514
+[19:58:58] 0x1797 : pbmlib.c(1201) : PBM: Attempt to write 1 fields to record 0xffffffff
+[19:58:58] 0x1797 : pbmlib.c(1295) : PBM: pbm_record_write writing 1 fields to record 0x4039
+[19:58:58] 0x1797 : pbmcache.c(764) : Invalid Session 9
+[19:58:58] 0x1797 : pbmcache.c(764) : Invalid Session 9
+[19:58:58] 0x1797 : pbmefs.c(1210) : efs write rec len 67
+[19:58:58] 0x1797 : pbmutils.c(5183) : PBM sending event 1 to clients, for record id 16441

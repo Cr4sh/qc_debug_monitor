@@ -1,0 +1,8 @@
+[19:59:04] 0x0020 : tcxomgr_fastfield.c(1323) : XO Field Cal: Stdev Calc (23621) threshold(7858) temp_range(22016) points(44)
+[19:59:04] 0x0020 : tcxomgr_fastfield.c(1323) : XO Field Cal: Stdev Calc (20928) threshold(7858) temp_range(22016) points(43)
+[19:59:04] 0x0020 : tcxomgr_fastfield.c(1323) : XO Field Cal: Stdev Calc (18550) threshold(7858) temp_range(22016) points(42)
+[19:59:04] 0x0020 : tcxomgr_fastfield.c(1323) : XO Field Cal: Stdev Calc (16075) threshold(7858) temp_range(22016) points(41)
+[19:59:04] 0x0020 : tcxomgr_fastfield.c(1323) : XO Field Cal: Stdev Calc (14347) threshold(7858) temp_range(22016) points(40)
+[19:59:04] 0x0020 : tcxomgr_fastfield.c(1323) : XO Field Cal: Stdev Calc (12758) threshold(15716) temp_range(22016) points(39)
+[19:59:04] 0x0020 : tcxomgr_fastfield.c(1725) : XO Field Cal: C1 cal is complete.. Old C1 is 4289357284 New C1 is 4289358932
+[19:59:04] 0x0020 : tcxomgr_fastfield.c(1480) : XO Field Cal: C0 cal is complete.. Old C0 is 99 new C0 is 94

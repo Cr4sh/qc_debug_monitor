@@ -1,0 +1,48 @@
+[19:58:47] 0x0015 : mmgsdi.c(3981) : MMGSDI_PROCESS_COMMAND: 0x47
+[19:58:47] 0x0015 : mmgsdi_nv.c(1733) : Status of external feature 0x0 is 0x1
+[19:58:47] 0x0015 : mmgsdi_gen_rsp.c(137) : MMGSDI PROCESS GEN RSP
+[19:58:47] 0x0015 : mmgsdi_cnf.c(6812) : MMGSDI_CNF_BUILD_GET_EONS_DATA, status = 0x0
+[19:58:47] 0x0015 : mmgsdicache.c(882) : mmgsdi_cache_read_item_len file 0x4012, session_type 0x0, app_type 0x3
+[19:58:47] 0x0015 : mmgsdicache.c(2134) : mmgsdi_cache_read_item file 0x4012, session_type 0x0, app_type 0x3
+[19:58:47] 0x0015 : mmgsdicache.c(882) : mmgsdi_cache_read_item_len file 0x4001, session_type 0x0, app_type 0x3
+[19:58:47] 0x0015 : mmgsdicache.c(2134) : mmgsdi_cache_read_item file 0x4001, session_type 0x0, app_type 0x3
+[19:58:47] 0x0015 : mmgsdi_card_init.c(1818) : MCC value in the IMSI: 901
+[19:58:47] 0x0015 : mmgsdicache.c(882) : mmgsdi_cache_read_item_len file 0x400c, session_type 0x0, app_type 0x3
+[19:58:47] 0x0015 : mmgsdicache.c(2134) : mmgsdi_cache_read_item file 0x400c, session_type 0x0, app_type 0x3
+[19:58:47] 0x0015 : mmgsdi_eons.c(1769) : spn display byte: 0x0
+[19:58:47] 0x0015 : mmgsdi_eons.c(1877) : spn length: 0x0 encoding: 0x0
+[19:58:47] 0x0015 : mmgsdi_eons.c(2630) : Get ONS for plmn id: 0x9, 0xf1, 0x7
+[19:58:47] 0x0015 : mmgsdi_eons.c(363) : Compare plmn
+[19:58:47] 0x0015 : mmgsdiutil.c(6784) : Long name data buffer(0x17) D3 B7 99 7E 0F CB CB 20 69 98  ...
+[19:58:47] 0x0015 : mmgsdiutil.c(6784) : Long name data buffer(0x17) 9C 7E 83 A6 F9 39 BD DC 9E 83  ...
+[19:58:47] 0x0015 : mmgsdiutil.c(6802) : Long name data buffer(0x17) 98 D4 22
+[19:58:47] 0x0015 : mmgsdiutil.c(6802) : Short name data buffer(0x6) 73 F9 9C 49 2D 02
+[19:58:47] 0x0015 : mmgsdi.c(5881) : MMGSDI_PROCESS_CNF
+[19:58:53] 0x0015 : gstklib.c(4183) : in gstk_io_ctrl() with cmd 0xc
+[19:58:53] 0x0015 : gstkutil.c(7782) : ******** dumping array mm_idle ********
+[19:58:53] 0x0015 : gstkutil.c(7790) : 0x9 0xf1 0x7
+[19:58:53] 0x0015 : gstkutil.c(7790) : 0x7 0x0 0x2
+[19:58:53] 0x0015 : gstkutil.c(7790) : 0x2 0x0 0x4
+[19:58:53] 0x0015 : gstkutil.c(7790) : 0x0 0x0 0x0
+[19:58:53] 0x0015 : gstkutil.c(7790) : 0x1 0x9b 0x1
+[19:58:53] 0x0015 : gstkutil.c(7790) : 0x0 0x0 0x0
+[19:58:53] 0x0015 : gstkutil.c(7806) : 0x0 0x0
+[19:58:53] 0x0015 : gstkutil.c(7816) : ******** finish dumping ********
+[19:58:53] 0x0015 : gstklib.c(4183) : in gstk_io_ctrl() with cmd 0x7
+[19:58:53] 0x0015 : gstk.c(4771) : Queuing cmd: 0x9 0x0
+[19:58:53] 0x0015 : gstk.c(4534) : param_ptr is NULL 0x0
+[19:58:53] 0x0015 : gstk.c(4548) : gstk_compare_specific_cmds(): 0x9 0x0
+[19:58:53] 0x0015 : gstk.c(4420) :  Process command without skipping
+[19:58:53] 0x0015 : gstk.c(8317) : switches to instance 0x0
+[19:58:53] 0x0015 : gstk_s_idle.c(818) : Location Status = 0x0
+[19:58:53] 0x0015 : gstkutil.c(5823) : In sys_rat == (int)SYS_RAT_LTE_RADIO_ACCESS
+[19:58:53] 0x0015 : gstkutil.c(8892) : Lowest = Highest MM IDLE LS 0x0 Mode Change LS 0x2
+[19:58:53] 0x0015 : gstk_s_idle.c(949) : MM_IDLE Evt PLMN Id 0x9 0xf1 0x7
+[19:58:53] 0x0015 : gstk_s_idle.c(953) : MM_IDLE Evt LAC Id : 0x0 0x7
+[19:58:53] 0x0015 : gstk_s_idle.c(959) : MM_IDLE Evt Cell Id : 0x0 0x19
+[19:58:53] 0x0015 : gstk_s_idle.c(965) : MM_IDLE Evt Cell Id : 0xb0 0x1f
+[19:58:53] 0x0015 : gstkutil.c(5823) : In sys_rat == (int)SYS_RAT_LTE_RADIO_ACCESS
+[19:58:53] 0x0015 : gstkutil.c(5823) : In sys_rat == (int)SYS_RAT_LTE_RADIO_ACCESS
+[19:58:53] 0x0015 : gstk_s_idle.c(1158) : Cell Id [0][1]: 0x0 0x19
+[19:58:53] 0x0015 : gstk_s_idle.c(1161) : Cell Id [2][3]: 0xb0 0x1f
+[19:58:53] 0x0015 : gstkutil.c(4393) : NEW LS: 0x0 OLD LS: 0x0

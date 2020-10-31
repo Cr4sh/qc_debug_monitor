@@ -1,0 +1,739 @@
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:45] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:45] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:45] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:45] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:45] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:45] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:45] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:45] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:45] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:45] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:45] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:45] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:45] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:45] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:45] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:45] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:46] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:46] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:46] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:46] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:46] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:46] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:46] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:46] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:46] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:46] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:46] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:47] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:47] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:47] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:47] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:47] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:47] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:47] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:47] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:47] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:47] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:47] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:48] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:48] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:48] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:48] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:48] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:48] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:48] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:48] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:48] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:48] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:48] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:48] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:48] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:49] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:49] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:49] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:49] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:49] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:49] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:49] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:49] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:49] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:49] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:49] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:50] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:50] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:50] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:50] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:50] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:50] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:50] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:50] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:50] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:50] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:50] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:51] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:51] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:51] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:51] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:51] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:51] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:51] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:51] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:51] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:51] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:51] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:52] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:52] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:52] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:52] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:52] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:52] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:52] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:52] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:52] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:52] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:52] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:53] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:53] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:53] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:53] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:53] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:53] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:53] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 0, dev_votg_type: 0!!
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=0
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(946) : WTR1605_SV: sleep PAM not sent for path 1
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 0,  dev_votg_type: 0!!
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 0, dev_votg_type: 0!!
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=0
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(916) : WTR1605_SV: sleep PAM sent by MCPM for path 0
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(1327) : Issuing command to NPA with mode:PMIC_NPA_MODE_ID_RF_SLEEP
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(716) : Exiting rfc_vreg_mgr_wtr1605_sv::get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:53] 0x000e : rfm_resources.c(46) : Exiting rfm_get_awake_resource_request() npa_id=1, npa_handle=2257289192
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=1
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 0,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 0, dev_stat: 1, dev_votg_type: 1!!
+[19:58:53] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:53] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:53] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=1, rf state=1
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(236) : Entering rfcmn_core_dev_power_vote()RF dev Power Vote with: rfm_dev_val: 1,  dev_stat: 1,  dev_votg_type: 1!!
+[19:58:53] 0x000e : rfcommon_core_device_manager.c(1126) :  RF dev vote_validate(), rfm_dev_val: 1, dev_stat: 1, dev_votg_type: 1!!
+[19:58:53] 0x000e : rfgnss_mc.c(716) : GNSS IMD LTE Band chan
+[19:58:53] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:53] 0x000e : rfgnss_core.c(2555) : RFGNSS IMD WWAN band/chan change event: LTE FDD, band=6, chan=3400!
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(491) : Enter WTR1605_SV: mode=8, band=6, chip_num=0,path=0, rf state=2
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(773) : WTR1605_SV: Same WAN NPA id as last sent - saved id=1, new id=1
+[19:58:53] 0x000e : rfc_vreg_mgr_wtr1605_sv.cpp(527) : Exit WTR1605_SV
+[19:58:53] 0x000e : rflte_msm.c(1735) : TxLM dynamic update for buffer index=2 completed
+[19:58:53] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:58:53] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:58:55] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:58:57] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:58:59] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:01] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:03] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:05] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:07] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:09] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:11] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:13] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:15] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:17] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:19] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:21] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:23] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:25] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:27] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0
+[19:59:29] 0x000e : rflte_core_temp_comp.c(1200) : LIM_vs_TEMP value: 0

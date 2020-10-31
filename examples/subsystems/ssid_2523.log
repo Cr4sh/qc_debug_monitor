@@ -1,0 +1,13 @@
+[19:58:53] 0x2523 : lte_pdcp_ul.c(1636) : PDCP UL process reconfiguration, cfg reason = 1
+[19:58:53] 0x2523 : lte_pdcp_ul_protocol.c(5096) : PDCP UL active RB Cfg Index= 33 RB ID = 1 Cfg reason = 1
+[19:58:53] 0x2523 : lte_pdcp_ul.c(1636) : PDCP UL process reconfiguration, cfg reason = 1
+[19:58:53] 0x2523 : lte_pdcp_ul.c(1728) : PDCP UL process security cfg
+[19:58:53] 0x2523 : lte_pdcp_ul_protocol.c(3256) : UL SRB RB Cfg idx = 33 Calculated MAC-I = 0x66661908
+[19:58:53] 0x2523 : lte_pdcp_ul_protocol.c(3256) : UL SRB RB Cfg idx = 33 Calculated MAC-I = 0x897a19af
+[19:58:53] 0x2523 : lte_pdcp_ul.c(1636) : PDCP UL process reconfiguration, cfg reason = 1
+[19:58:53] 0x2523 : lte_pdcp_ul_protocol.c(5096) : PDCP UL active RB Cfg Index= 34 RB ID = 2 Cfg reason = 1
+[19:58:53] 0x2523 : lte_pdcp_ul_protocol.c(5096) : PDCP UL active RB Cfg Index= 1 RB ID = 1 Cfg reason = 1
+[19:58:53] 0x2523 : lte_pdcp_ul_protocol.c(6780) : PDCP UL map rb_cfg_idx 1 to eps_id 5
+[19:58:53] 0x2523 : lte_pdcp_ul_protocol.c(3256) : UL SRB RB Cfg idx = 33 Calculated MAC-I = 0x75319d87
+[19:58:53] 0x2523 : lte_pdcp_ul_protocol.c(6237) : PDCP UL process config completed ind, num RB prepare to add 2, prepare to be release 0
+[19:58:53] 0x2523 : lte_pdcp_ul_protocol.c(6780) : PDCP UL map rb_cfg_idx 1 to eps_id 5
