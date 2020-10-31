@@ -49,7 +49,7 @@ Modem firmware consists from dozens of subsystems responsible for various tasks:
 
 When `--output-file` is specified – all log messages will be written into the single log file. When `--output-dir` is specified – `qc_debug_monitor.py` will create separate log files for each subsystem identified by its 16-bit SSID (subsystem ID).
 
-To find all supported subsystems of the target modem you can use `--find-subsystems` option which brute-forces and prints available SSID ranges. Here's an example of using this option with Quectel EC25 cellular modem module based on Qualcomm MDM9607 chip:
+To find all supported subsystems of the target modem you can use `--find-subsystems` option which brute-forces and prints available SSID ranges. Here's an example of using this option with <a href="https://www.quectel.com/product/ec25.htm">Quectel EC25</a> cellular modem module based on Qualcomm MDM9607 chip:
 
 ```
 $ sudo ./qc_debug_monitor.py -d /dev/ttyUSB0 --find-subsystems
@@ -81,6 +81,26 @@ $ sudo ./qc_debug_monitor.py -d /dev/ttyUSB0 --find-subsystems
 By default `qc_debug_monitor.py` monitors all known subsystems messages specified in `KNOWN_SUBSYSTEMS` global variable – you can put there SSID ranges found by running the program with `--find-subsystems` option.
 
 In `examples` folder <a href="https://github.com/Cr4sh/qc_debug_monitor/tree/master/examples">you can find</a> debug messages logs of modem module mentioned above captured during its connection to the <a href="https://github.com/srsLTE/srsLTE">srsLTE</a> based <a href="https://en.wikipedia.org/wiki/Home_eNodeB">eNodeB</a> running on downlink EARFCN 3400 (band 7, 2685 MHz). Log file `examples/full.log` contains all subsystems messages, while `examples/subsystem` folder contains individual log files for each subsystem.
+
+Some interesting subsystems SSIDs as it seen on Quectel EC25:
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_1394.log">0x1394</a> – AT commands handling subsystem;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_13a1.log">0x13a1</a> – PDN connectivity subsystem;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_251c.log">0x251c</a> – LTE security and encryption subsystem;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_251d.log">0x251d</a> – LTE Radio Resource Control (RRC) layer;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2521.log">0x2521</a> – LTE Radio Link Control (RLC) layer, uplink;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2522.log">0x2522</a> – LTE Radio Link Control (RLC) layer, downlink;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2523.log">0x2523</a> – LTE Packet Data Convergence Protocol (PDCP) layer, uplink;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2524.log">0x2524</a> – LTE Packet Data Convergence Protocol (PDCP) layer, downlink;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2525.log">0x2525</a> – LTE serving cell measurement;
 
 
 ## Examples
