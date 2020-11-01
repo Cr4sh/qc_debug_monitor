@@ -776,7 +776,7 @@ def main():
         make_option('-o', '--output-file', dest = 'output_file', default = None,
             help = 'output file to write debug messages log'),
 
-        make_option('--output-dir', dest = 'output_dir', default = None,
+        make_option('-u', '--output-dir', dest = 'output_dir', default = None,
             help = 'output directory to write separate subsystem logs'),
 
         make_option('-f', '--find-subsystems', dest = 'find_subsystems', default = False,
@@ -788,7 +788,7 @@ def main():
         make_option('-t', '--show-terse', dest = 'show_terse', default = False,
             help = 'show not decoded EXT_MSG_TERSE_F messages', action = 'store_true'),
 
-        make_option('--hash-db', dest = 'hash_db', default = None,
+        make_option('-a', '--hash-db', dest = 'hash_db', default = None,
             help = 'messages hash DB file path to decode EXT_MSG_TERSE_F messages') ] 
 
     if sys.platform != 'win32':
