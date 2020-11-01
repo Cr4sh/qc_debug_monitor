@@ -92,35 +92,35 @@ Qualcomm modems firmware is extremely talkative, usually you can get 3-4 MB of d
 
 Some interesting subsystems SSIDs as it seen on Quectel EC25, subsystem description is based on my guess and obviously might be inaccurate:
 
-* [0x0005](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0005.log) – Received Signal Strength Indicator (RSSI) measurements.
+* [0x0005](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_0005.log) – Received Signal Strength Indicator (RSSI) measurements.
 
-* [0x000e](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_000e.log) – RF transceiver control subsystem.
+* [0x000e](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_000e.log) – RF transceiver control subsystem.
 
-* [0x0015](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0015.log) – Multi Mode Generic SIM Driver Interface (MMSGDI) subsystem.
+* [0x0015](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_0015.log) – Multi Mode Generic SIM Driver Interface (MMSGDI) subsystem.
 
-* [0x0020](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0020.log) – Temperature Compensated Crystal Oscillator (TCXO) control subsystem.
+* [0x0020](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_0020.log) – Temperature Compensated Crystal Oscillator (TCXO) control subsystem.
 
-* [0x0040](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0040.log) – Power management related subsystem.
+* [0x0040](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_0040.log) – Power management related subsystem.
 
-* [0x0041](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0041.log) – Qualcomm MSM Interface (QMI) related subsystem.
+* [0x0041](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_0041.log) – Qualcomm MSM Interface (QMI) related subsystem.
 
-* [0x1394](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_1394.log) – AT commands handling subsystem.
+* [0x1394](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_1394.log) – AT commands handling subsystem.
 
-* [0x13a1](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_13a1.log) – PDN connectivity subsystem;
+* [0x13a1](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_13a1.log) – PDN connectivity subsystem;
 
-* [0x251c](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_251c.log) – LTE security and encryption subsystem.
+* [0x251c](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_251c.log) – LTE security and encryption subsystem.
 
-* [0x251d](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_251d.log) – LTE Radio Resource Control (RRC) layer.
+* [0x251d](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_251d.log) – LTE Radio Resource Control (RRC) layer.
 
-* [0x2521](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2521.log) – LTE Radio Link Control (RLC) layer, uplink.
+* [0x2521](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_2521.log) – LTE Radio Link Control (RLC) layer, uplink.
 
-* [0x2522](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2522.log) – LTE Radio Link Control (RLC) layer, downlink.
+* [0x2522](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_2522.log) – LTE Radio Link Control (RLC) layer, downlink.
 
-* [0x2523](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2523.log) – LTE Packet Data Convergence Protocol (PDCP) layer, uplink.
+* [0x2523](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_2523.log) – LTE Packet Data Convergence Protocol (PDCP) layer, uplink.
 
-* [0x2524](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2524.log) – LTE Packet Data Convergence Protocol (PDCP) layer, downlink.
+* [0x2524](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_2524.log) – LTE Packet Data Convergence Protocol (PDCP) layer, downlink.
 
-* [0x2525](https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_2525.log) – LTE serving cell measurement.
+* [0x2525](https://raw.githubusercontent.com/Cr4sh/qc_debug_monitor/master/examples/subsystems/ssid_2525.log) – LTE serving cell measurement.
 
 
 ## Examples
