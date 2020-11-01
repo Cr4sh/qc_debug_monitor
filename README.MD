@@ -16,7 +16,7 @@ $ sudo pip install pyserial
 Usage: 
 
 ```
-$ sudo qc_debug_monitor.py [options]
+$ sudo qc_debug_monitor.py -d <device_name> [options]
 ```
 
 Available options:
@@ -33,17 +33,17 @@ Available options:
                         
 * -s, --subsystems <id_list> – Subsystem IDs list to capture debug messages for, by default `qc_debug_monitor.py` captures messages of all known subsystems;
                         
-* -t, --show-terse – Show not decoded message hashes;
+* -t, --show-terse – Show not decoded terse messages;
 
-* --hash-db <db_file_path> – Hash DB file path to decode message hashes;
+* --hash-db <db_file_path> – Hash DB file path to decode terse messages;
   
 * --daemon – Run in the background;
 
 * --stop – Stop background process;
 
-Modem firmware has two types of debug messages: regular text message and message that consists from 32-bit hash of the format string plus its arguments. Hashes are used for the most frequent messages to save serial port bandwidth. In order to decode those hashes into the human readable text you need to specify a hash DB file with `--hash-db` option.
+Modem firmware has two types of debug messages: regular text message and terse message that consists from 32-bit hash of the format string plus its arguments. Hashes are used for the most frequent messages to save serial port bandwidth. In order to decode terse messages into the human readable text you need to specify a hash DB file with `--hash-db` option.
 
-Hash DB file which contains hashes of over the 300000 debug messages of Qualcomm firmware collected from various sources <a href="https://mega.nz/file/bR8wWK6I#8Yo9naeAe8d-jdW30D8u7q_N2Xcl54TebyQMOZNtzjk">can be downloaded here</a>.
+Hash DB file with hashes of over the 300000 debug messages of Qualcomm firmware collected from various sources <a href="https://mega.nz/file/bR8wWK6I#8Yo9naeAe8d-jdW30D8u7q_N2Xcl54TebyQMOZNtzjk">can be downloaded here</a>.
 
 Here you can see some demo:
 
@@ -88,7 +88,21 @@ By default `qc_debug_monitor.py` monitors all known subsystems messages specifie
 
 In `examples` folder <a href="https://github.com/Cr4sh/qc_debug_monitor/tree/master/examples">you can find</a> debug messages logs of modem module mentioned above captured during its connection to the <a href="https://github.com/srsLTE/srsLTE">srsLTE</a> based <a href="https://en.wikipedia.org/wiki/Home_eNodeB">eNodeB</a> running on downlink EARFCN 3400 (band 7, 2685 MHz). Log file `examples/full.log` contains all subsystems messages, while `examples/subsystem` folder contains individual log files for each subsystem.
 
+Qualcomm modems firmware is extremely talkative, usually you can get 3-4 MB of debug messages log within less than minute of normal operation.
+
 Some interesting subsystems SSIDs as it seen on Quectel EC25:
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0005.log">0x0005</a> – Received Signal Strength Indicator (RSSI) measurements;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_000e.log">0x000e</a> – RF transceiver control subsystem;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0015.log">0x0015</a> – Multi Mode Generic SIM Driver Interface (MMSGDI) subsystem;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0020.log">0x0020</a> – Temperature Compensated Crystal Oscillator (TCXO) control subsystem;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0040.log">0x0040</a> – Power management related subsystem;
+
+* <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0041.log">0x0041</a> – Qualcomm MSM Interface (QMI) related subsystem;
 
 * <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_1394.log">0x1394</a> – AT commands handling subsystem;
 
