@@ -5,7 +5,7 @@
 
 This program allows to monitor debug messages of Qualcomm cellular modems firmware in real time. It talks to the baseband firmware over the <a href="https://osmocom.org/projects/quectel-modems/wiki/Diag">DIAG protocol</a> serial port, you can use it with rooted Android phone or USB dongle.
 
-Its output might be useful for various purposes like modem firmware reverse engineering, detecting <a href="https://en.wikipedia.org/wiki/IMSI-catcher">IMSI catchers</a>, monitoring commercial cellular networks, troubleshooting DIY cellular networks and others.
+Its output might be useful for various purposes like modem firmware reverse engineering, detecting <a href="https://en.wikipedia.org/wiki/IMSI-catcher">IMSI catchers</a>, monitoring of commercial cellular networks, troubleshooting of DIY cellular networks and others.
 
 To access DIAG interface serial port this program uses <a href="https://pypi.org/project/pyserial/">pySerial</a>:
 
