@@ -90,7 +90,7 @@ In `examples` folder <a href="https://github.com/Cr4sh/qc_debug_monitor/tree/mas
 
 Qualcomm modems firmware is extremely talkative, usually you can get 3-4 MB of debug messages log within less than minute of normal operation.
 
-Some interesting subsystems SSIDs as it seen on Quectel EC25:
+Some interesting subsystems SSIDs as it seen on Quectel EC25, subsystem description is based on my guess and obviously might be inaccurate:
 
 * <a href="https://github.com/Cr4sh/qc_debug_monitor/blob/master/examples/subsystems/ssid_0005.log">0x0005</a> – Received Signal Strength Indicator (RSSI) measurements;
 
