@@ -7,7 +7,13 @@ This program allows to monitor debug messages of Qualcomm cellular modems firmwa
 
 Its output might be useful for various purposes like modem firmware reverse engineering, detecting <a href="https://en.wikipedia.org/wiki/IMSI-catcher">IMSI catchers</a>, monitoring commercial cellular networks, troubleshooting DIY cellular networks and others.
 
-USAGE: 
+To access DIAG interface serial port this program uses <a href="https://pypi.org/project/pyserial/">pySerial</a>:
+
+```
+$ sudo pip install pyserial
+```
+
+Usage: 
 
 ```
 $ sudo qc_debug_monitor.py [options]
@@ -117,15 +123,22 @@ Monitor all messages and log them into the separate files for each subsystem:
 $ sudo qc_debug_monitor.py -d /dev/ttyUSB0 --hash-db hash_db.txt --output-dir ./output
 ```
 
+Monitor messages of the single subsystem with SSID 0x251d:
+
+```
+$ sudo qc_debug_monitor.py -d /dev/ttyUSB0 --hash-db hash_db.txt --subsystems 0x251d
+```
+
 Monitor messages of subsystems with SSID from 0x1388 to 0x1450 and from 0x251c to 0x25e4:
 
 ```
 $ sudo qc_debug_monitor.py -d /dev/ttyUSB0 --hash-db hash_db.txt --subsystems "0x1388:0x1450 0x251c:0x25e4"
 ```
 
+---
 
-Developed by:
-Dmytro Oleksiuk (aka Cr4sh)
+Developed by:<br/>
+Dmytro Oleksiuk (aka Cr4sh)<br/>
 
-cr4sh0@gmail.com
+cr4sh0@gmail.com<br/>
 http://blog.cr4.sh

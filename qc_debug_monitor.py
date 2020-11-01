@@ -4,10 +4,11 @@
 #
 #  Debug messages monitor for Qualcomm cellular modems.
 #
-#  This program talks to the baseband firmware over the 
-#  diag protocol serial port.
+#  This program allows to monitor debug messages of Qualcomm cellular modems firmware 
+#  in real time. It talks to the baseband firmware over the DIAG protocol serial port, 
+#  you can use it with rooted Android phone or USB dongle.
 #
-#  Written by:
+#  Developed by:
 #  Dmytro Oleksiuk (aka Cr4sh)
 #
 #  cr4sh0@gmail.com
@@ -21,7 +22,15 @@ from struct import pack, unpack
 from Queue import Queue
 from threading import Thread
 from optparse import OptionParser, make_option
-from serial import Serial
+
+try:
+
+    from serial import Serial
+
+except ImportError:
+
+    print('ERROR: pySerial is not installed')
+    exit()
 
 SERIAL_BAUDRATE = 115200
 
